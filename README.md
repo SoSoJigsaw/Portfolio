@@ -84,6 +84,15 @@ mercado ultimamente, como a modularização, presente por exemplo no vue.js e re
 </details>
 
 <details>
+<summary>Funcionalidades</summary>
+<br>
+  
+- **Páginas Informativas:** O sistema fornecia informações detalhadas sobre casos e óbitos, taxa de vacinação e leitos disponíveis, oferecendo esses dados de maneira acessível e direta aos usuários.
+- **Filtragem de Dados:** Foi implementada uma variedade de filtros que permitem aos usuários selecionar estados e municípios por data, possibilitando a obtenção de insights valiosos sobre a pandemia.
+- **Painéis Totalizadores:** O sistema incluía uma aba com painéis totalizadores, apresentando informações relevantes sobre o andamento da pandemia de forma consolidada. 
+</details>
+
+<details>
 <summary>Tecnologias adotadas na solução</summary>
 <br>
   
@@ -167,6 +176,16 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 - O projeto consistiu na criação de uma API para integração, processamento e gerenciamento de dados provenientes de diversas fontes. A API foi projetada com foco em escalabilidade, segurança e performance, permitindo a geração de relatórios e análises avançadas para suportar a tomada de decisão dos clientes da Dom Rock.
 
 [Repositório do Projeto](https://github.com/fluffyfatec/Dom_Rock)
+</details>
+
+<details>
+<summary>Funcionalidades</summary>
+<br>
+  
+- **Gestão de Clientes:** O sistema permite registrar todas as informações dos clientes, incluindo detalhes de contato e endereço. Isso facilita a administração do relacionamento com o cliente, oferecendo uma visão consolidada e de fácil acesso.
+- **Catalogação de Soluções:** Há uma base de dados que mantém um catálogo detalhado das soluções e módulos oferecidos pela Dom Rock, destacando funcionalidades e versões disponíveis. Isso proporciona uma referência rápida e precisa sobre os produtos da empresa, tanto para a equipe interna quanto para os clientes.
+- **Processo de Ativação:** O sistema define e gerencia o processo de ativação, dividindo-o em etapas específicas, cada uma com recursos e definições predefinidos. Isso garante uma ativação organizada e registra o progresso para uma visão clara do status de cada cliente.
+- **Relatórios e Consultas:** As funcionalidades de consulta e relatórios oferecem uma análise detalhada dos dados, permitindo aos usuários visualizar métricas importantes, como desempenho por cliente, tipo de solução ativada e estágio do processo de ativação. Esses insights ajudam nas decisões estratégicas, proporcionando uma compreensão completa do ambiente operacional. 
 </details>
 
 <details>
@@ -265,6 +284,15 @@ Como a empresa trabalhava processando muitas informações manualmente, ela acab
 Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que possibilite a automatização desde o download, o processamento dos dados e a persistência dos dados no banco de dados de forma simplificada. Além disso, a aplicação aspirava possibilitar realizar a filtragem desses dados por temperatura, umidade, estações, vento, pressão atmosférica, radiação global e precipitação, além de possibilitar diversas visualizações desses dados. Por fim, a aplicação objetivava a criação de diferentes níveis de usuários juntamente com o painel administrativo, possibilitando a exportação dos relatórios a partir dos dados.
 
 [Repositório do Projeto](https://github.com/fluffyfatec/Iacit)
+</details>
+
+<details>
+<summary>Funcionalidades</summary>
+<br>
+  
+- **Cadastro de Estados e Regiões:** O cadastro de Estados e Regiões proporciona uma organização precisa das operações, permitindo análises específicas por região e melhorando significativamente a contextualização das informações.
+- **Geração de Relatórios:** A geração de relatórios é uma ferramenta indispensável para extrair insights valiosos e avaliar o desempenho do sistema. A capacidade de criar relatórios personalizados permite uma visualização abrangente dos dados, oferecendo detalhes sobre o estado das estações, o desempenho regional e as tendências temporais.
+- **Importação de Dados:** A importação de dados otimiza o fluxo de informações no sistema, facilitando a transferência rápida de grandes conjuntos de dados. Isso assegura uma atualização eficiente do sistema, mantendo-o sempre atualizado e pronto para fornecer análises precisas. 
 </details>
 
 <details>
@@ -372,6 +400,18 @@ Projeto realizado em parceria com a Embraer, uma empresa especializada em soluç
 - O projeto consistiu na criação de uma API para integração, processamento e gerenciamento de dados provenientes de sistemas de monitoramento de aeronaves, manutenção e operações. A API foi projetada com foco em escalabilidade, segurança e performance, permitindo a geração de relatórios detalhados e visualização de dados em tempo real.
 
 [Repositório do Projeto](https://github.com/fluffyfatec/Projeto-Integrador-Embraer)
+</details>
+
+<details>
+<summary>Funcionalidades</summary>
+<br>
+  
+- **Dashboard Administrativo:** interface dentro da aplicação dedicada e de acesso limitado aos usuários administradores, onde eles podem ter ciência de todos os usuários cadastrados, e também supervisionar todos os acessos à aplicação.
+- **Diferentes níveis de acesso:** já que a aplicação contava com três níveis de usuário (administrador, editor e piloto), foi criado um sistema robusto de autorização e autenticação com o auxílio de JWT Authentication e Spring Security.
+- **Cadastro de itens:** métodos CRUD para registrar condições para cada item dos chassis.
+- **Acesso aos dados de formas gráficas:** para análise dos dados em geral e do perfil dos usuários e chassis, a aplicação conta também com uma interface para gráficos de acesso restrito dos administradores, o que possibilita aos mesmos criarem insights a respeito dos dados de uso recolhidos.
+- **Relatórios:** a aplicação permite a exportação de relatórios personalizáveis, com capacidade de serem filtrados com apenas os parâmetros relevantes ao usuário.
+- **Notificações:** foi adicionada à aplicação uma funcionalidade de gerar e enviar notificações aos usuários, mediante a uma alteração em um Boletim de Serviço no qual o usuário tenha relação (ou seja, ele é um proprietário do chassi em questão, ou ele é um usuário administrador pertencente à equipe da Embraer).
 </details>
 
 <details>
