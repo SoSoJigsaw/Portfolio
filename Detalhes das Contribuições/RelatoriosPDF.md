@@ -2,10 +2,6 @@
 
 Foi um arquivo criado para cada variável meteorológica, mas todos seguiram a mesma lógica. Por isso, utilizarei apenas o de Precipitação para ilustrar o que foi feito.
 
-[1. PdfPrecipitacao,java](# pdf)
-
-[2. Método para enviar o relatório à aplicação](# endpoint)
-
 #### PdfPrecipitacao.java
 
 ```java
@@ -113,8 +109,6 @@ return new ByteArrayInputStream(out.toByteArray());
 
 O documento PDF é aberto e são adicionados ao mesmo uma imagem, parágrafos com informações da estação meteorológica, período de dados coletados e o título do relatório, que é "Precipitação". O documento é fechado e retornado como um objeto `ByteArrayInputStream` para que possa ser manipulado posteriormente.
 
-[Voltar ao topo](# voltar)
-
 ## Método para enviar o relatório à aplicação
 
 ```java
@@ -149,5 +143,3 @@ A lista de dados é então percorrida para realizar uma verificação e atualiza
 Em seguida, o método utiliza um objeto `PdfPrecipitacao` (o código anterior) para exportar um arquivo PDF a partir da lista de dados de precipitação obtida. Este objeto é responsável por criar e popular o arquivo PDF.
 
 Por fim, são definidos os cabeçalhos HTTP e os metadados do arquivo PDF, e o `InputStreamResource` é retornado no objeto `ResponseEntity`. O arquivo PDF é então baixado pelo cliente em seu navegador com o nome de arquivo especificado nos cabeçalhos HTTP.
-
-[Voltar ao topo](# voltar)
