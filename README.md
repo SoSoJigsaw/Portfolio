@@ -73,12 +73,14 @@ mercado ultimamente, como a modularização, presente por exemplo no vue.js e re
 <summary>Visão do Projeto</summary>
 <br>
 
-[Foto do Projeto]()
+[Foto do Projeto](https://raw.githubusercontent.com/SoSoJigsaw/Carcara/main/Sprint%201/picture/2%20new.jpg)
+[GIF do Projeto](https://raw.githubusercontent.com/SoSoJigsaw/Carcara/refs/heads/main/Sprint%201/GIFs/PANDEMIA%20ESTRUTURADA%20GIF%203.gif)
+[GIF do Projeto 2](https://raw.githubusercontent.com/SoSoJigsaw/Carcara/refs/heads/main/Sprint%201/GIFs/PANDEMIA%20ESTRUTURADA%20GIF%204.gif)
  
 - O problema central abordado pelo projeto foi a necessidade de monitoramento contínuo e preciso da pandemia de COVID-19. Com a grande quantidade de dados gerados diariamente, havia uma dificuldade em consolidar essas informações de forma acessível e útil para o cliente, que tinha um interesse por acompanhar o avanço da pandemia em nosso Estado.
-- A solução entregue foi uma aplicação web que coleta, processa e visualiza dados da COVID- 19 em tempo real. Utilizando tecnologias como Flask, Pandas e diversas bibliotecas Python, a aplicação oferece dashboards interativos que mostram a evolução dos casos, óbitos, vacinação, ocupação de leitos e índices de isolamento social. Além disso, foram implementadas funcionalidades de filtragem de dados por data e município, proporcionando uma análise detalhada e customizada.
+- A solução entregue foi uma aplicação web que coleta, processa e visualiza dados da COVID-19 em tempo real. Utilizando tecnologias como Flask, Pandas e diversas bibliotecas Python, a aplicação oferece dashboards interativos que mostram a evolução dos casos, óbitos, vacinação, ocupação de leitos e índices de isolamento social. Além disso, foram implementadas funcionalidades de filtragem de dados por data e município, proporcionando uma análise detalhada e customizada.
 
-[Repositório do Projeto]()
+[Repositório do Projeto](https://github.com/SoSoJigsaw/Carcara)
 </details>
 
 <details>
@@ -158,12 +160,13 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 <summary>Visão do Projeto</summary>
 <br>
 
-[Foto do Projeto]()
+[Foto do Projeto](https://github.com/fluffyfatec/Dom_Rock/raw/main/GIT/cabecario2.jpg)
+[GIF do Projeto](https://github.com/fluffyfatec/Dom_Rock/raw/main/GIT/prototipo.gif)
   
 - O objetivo foi desenvolver uma API robusta e eficiente para a gestão e análise de dados, que fosse capaz de suportar grandes volumes de informações e múltiplos usuários simultaneamente.
 - O projeto consistiu na criação de uma API para integração, processamento e gerenciamento de dados provenientes de diversas fontes. A API foi projetada com foco em escalabilidade, segurança e performance, permitindo a geração de relatórios e análises avançadas para suportar a tomada de decisão dos clientes da Dom Rock.
 
-[Repositório do Projeto]()
+[Repositório do Projeto](https://github.com/fluffyfatec/Dom_Rock)
 </details>
 
 <details>
@@ -254,13 +257,14 @@ Projeto feito com a parceria da IACIT, uma empresa de São José dos Campos que 
 <summary>Visão do projeto</summary>
 <br>
 
-[Foto do Projeto]()
+[Foto do Projeto](https://github.com/fluffyfatec/Iacit/raw/Sprint-1/GIT/cabecario%20(3).jpg)
+[GIF do Projeto](https://github.com/fluffyfatec/Iacit/raw/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif)
   
 Como a empresa trabalhava processando muitas informações manualmente, ela acabava por perder tempo, desperdiçando recursos com esse processo. Por isso, a empresa precisava da criação de um sistema que permitisse realizar a importação dos dados meteorológicos, bem como armazená- los em uma base de dados, para posteriormente gerar os relatórios desejados por seus clientes.
 
 Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que possibilite a automatização desde o download, o processamento dos dados e a persistência dos dados no banco de dados de forma simplificada. Além disso, a aplicação aspirava possibilitar realizar a filtragem desses dados por temperatura, umidade, estações, vento, pressão atmosférica, radiação global e precipitação, além de possibilitar diversas visualizações desses dados. Por fim, a aplicação objetivava a criação de diferentes níveis de usuários juntamente com o painel administrativo, possibilitando a exportação dos relatórios a partir dos dados.
 
-[Repositório do Projeto]()
+[Repositório do Projeto](https://github.com/fluffyfatec/Iacit)
 </details>
 
 <details>
@@ -291,14 +295,14 @@ No back-end, fui responsável por:
 
 - Assim que terminava o tratamento desses dados, os dataframes eram enviados à outro método que fazia a rotina de enviar esses dados ao banco de dados, fazendo inserts nas tabelas devidas, usando para isso o SQLAlchemy para criar a conexão com o banco e utilizar comandos de SQL puro dentro do Python. Essa rotina incluía tratamento de erros, evitando a duplicação de dados no banco, redundância, e quebra de constraints de chave primária. O script foi otimizado, permitindo que a tentativa de envio de dados ao banco, ou seja, a execução do comando SQL, só acontecesse caso o dataframe trouxesse novos dados.
 
-[Veja mais detalhes](https://github.com/SoSoJigsaw/bertoti/blob/main/Metodologia/Detalhes%20das%20Contribui%C3%A7%C3%B5es/RelatoriosPDF.md)
+[Veja mais detalhes](https://github.com/SoSoJigsaw/Portfolio/blob/main/Detalhes%20das%20Contribui%C3%A7%C3%B5es/ScriptDeAutomacao.md)
 </details>
 
 <details>
 <summary>Geração de Relatórios</summary>
 <br>
 
-[Veja mais detalhes](https://github.com/SoSoJigsaw/bertoti/blob/main/Metodologia/Detalhes%20das%20Contribui%C3%A7%C3%B5es/RelatoriosPDF.md)
+[Veja mais detalhes](https://github.com/SoSoJigsaw/Portfolio/blob/main/Detalhes%20das%20Contribui%C3%A7%C3%B5es/RelatoriosPDF.md)
 </details>
 
 <details>
@@ -309,7 +313,7 @@ No front- end, eu ajudei em partes na estilização das páginas. No entanto, fu
 
 - eu usei uma biblioteca do JavaScript chamada jsPDF, que estilizou o PDF e incluiu o gráfico nele, gráfico esse que foi convertido de elemento canvas HTML em um arquivo de imagem PNG e possibilitou dentro do mesmo método o download em PDF
 
-[Veja mais detalhes](https://github.com/SoSoJigsaw/bertoti/blob/main/Metodologia/Detalhes%20das%20Contribui%C3%A7%C3%B5es/PDFsGraficos.md)
+[Veja mais detalhes](https://github.com/SoSoJigsaw/Portfolio/blob/main/Detalhes%20das%20Contribui%C3%A7%C3%B5es/PDFsGraficos.md)
 </details>
 </details>
 
@@ -358,12 +362,13 @@ Projeto realizado em parceria com a Embraer, uma empresa especializada em soluç
 <summary>Visão do Projeto</summary>
 <br>
 
-[Foto do Projeto]()
+[Foto do Projeto](https://github.com/fluffyfatec/Projeto-Integrador-Embraer/blob/main/GIT/head.jpeg)
+[Gif do Projeto](https://github.com/fluffyfatec/Projeto-Integrador-Embraer/raw/main/GIT/mockup-web.gif)
 
 - O objetivo foi desenvolver uma aplicação robusta e eficiente para a integração e gerenciamento de dados de aeronaves, contribuindo para a otimização das operações e manutenção.
 - O projeto consistiu na criação de uma API para integração, processamento e gerenciamento de dados provenientes de sistemas de monitoramento de aeronaves, manutenção e operações. A API foi projetada com foco em escalabilidade, segurança e performance, permitindo a geração de relatórios detalhados e visualização de dados em tempo real.
 
-[Repositório do Projeto]()
+[Repositório do Projeto](https://github.com/fluffyfatec/Projeto-Integrador-Embraer)
 </details>
 
 <details>
