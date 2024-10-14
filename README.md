@@ -4,7 +4,7 @@
 <summary>Introdução</summary>
 <br>
 
-![Profile](https://github.com/SoSoJigsaw/Portfolio/blob/main/Imagens/profile.jpg)
+![Profile](https://github.com/SoSoJigsaw/Portfolio/blob/main/Imagens/profile.jpeg)
   
 Sou estudante do 6º semestre de Tecnologia em Banco de Dados na FATEC São José dos Campos, onde tive a oportunidade de aplicar conhecimentos acadêmicos em projetos práticos voltados ao mercado. Através da metodologia de Aprendizado por Projetos Integradores (API), desenvolvi soluções reais para empresas parceiras, aprimorando minhas habilidades técnicas em Python, Java, JavaScript/TypeScript e SQL (Oracle, SQL Server e PostgreSQL), além de fortalecer minha experiência em metodologias ágeis, como SCRUM.
 
