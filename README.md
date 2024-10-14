@@ -10,7 +10,7 @@ Essas experiências me prepararam para enfrentar desafios do mercado de tecnolog
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/SoSoJigsaw) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosojigsaw/)
 </details>
-<br>
+
 
 <details>  
   <summary>Meus Principais Conhecimentos</summary>
@@ -28,28 +28,27 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 - **Automação** : Proficiência em automatizar processos de coleta e processamento de dados.
 - **Visualização de Dados** : Criação de dashboards interativos para facilitar a interpretação de dados. Criação de visualizações gráficas e não-gráficas desses dados.
 </details>
-<br>
+
 
   <details>
   <summary>Java</summary>
 <br>
 Desenvolvo em Java desde 2022. Utilizei a linguagem principalmente para desenvolver o back-end de aplicações web, utilizando para isso o framework Spring Boot com o auxílio do Hibernate, e aplicações desktop, utilizando para isso o JavaFX.
 </details>
-<br>
+
 
 <details>
 <summary>PL/SQL</summary>
 <br>
 Utilizo o PL/SQL desde 2022, já tendo contato com comandos DDL, DCL e DML da linguagem. Relacionado a isso, eu já arquitetei a modelagem do banco de dados nos modelos Conceitual, Lógico e Físico. Em se tratando de SGBDs, tive experiência com os bancos Oracle, SQL Server e PostgreSQL, criando tabelas, fazendo o insert de novos dados, criando constraints e regras gerais do banco, e administrando o banco de uma forma geral.
 </details>
-<br>
+
 
 <details>
 <summary>SCRUM</summary>
 <br>
 Tenho contato com o SCRUM desde o primeiro semestre da faculdade, em 2021, sendo que desde então todos os projetos acadêmicos em que participei utilizaram essa metodologia ágil para o gerenciamento da equipe como requisito. Tive experiência como Scrum Master da equipe, onde assumi o posto de líder responsável por organizar a equipe e buscar soluções para as dificuldades apresentadas. Fui também Product Owner (PO) em duas oportunidades, sendo responsável pelo desenvolvimento do produto ao criar o backlog, e pelo diálogo com o cliente em busca de atender as suas necessidades.
 </details>
-<br>
 
 <details>
 <summary>JavaScript e TypeScript</summary>
@@ -59,27 +58,26 @@ Compreendo perfeitamente todos os conceitos web como o DOM, e conceitos específ
 mercado ultimamente, como a modularização, presente por exemplo no vue.js e react.
 </details>
 </details>
-<br>
-
----
 
 # Projeto Acadêmico 1 (API) – 2º Semestre de 2021
 
 - **Parceiro Aacadêmico:** Própria FATEC
 
-- **Projeto de Monitoramento e Análise de Dados da COVID- 19:** Este projeto foi desenvolvido em parceria com os docentes da faculdade ocupando o papel de clientes, com o objetivo de criar uma ferramenta robusta para monitoramento em tempo real dos dados relacionados à pandemia de COVID- 19 no estado de São Paulo. A ferramenta abrange a coleta, processamento e visualização de dados, permitindo uma análise detalhada e contínua da evolução da pandemia.
+- **Projeto de Monitoramento e Análise de Dados da COVID-19:** Este projeto foi desenvolvido em parceria com os docentes da faculdade ocupando o papel de clientes, com o objetivo de criar uma ferramenta robusta para monitoramento em tempo real dos dados relacionados à pandemia de COVID-19 no estado de São Paulo. A ferramenta abrange a coleta, processamento e visualização de dados, permitindo uma análise detalhada e contínua da evolução da pandemia.
 <br>
+
 <details>
 <summary>Visão do Projeto</summary>
 <br>
-  
-- O problema central abordado pelo projeto foi a necessidade de monitoramento contínuo e preciso da pandemia de COVID- 19. Com a grande quantidade de dados gerados diariamente, havia uma dificuldade em consolidar essas informações de forma acessível e útil para o cliente, que tinha um interesse por acompanhar o avanço da pandemia em nosso Estado.
+
+[Foto do Projeto]()
+ 
+- O problema central abordado pelo projeto foi a necessidade de monitoramento contínuo e preciso da pandemia de COVID-19. Com a grande quantidade de dados gerados diariamente, havia uma dificuldade em consolidar essas informações de forma acessível e útil para o cliente, que tinha um interesse por acompanhar o avanço da pandemia em nosso Estado.
 - A solução entregue foi uma aplicação web que coleta, processa e visualiza dados da COVID- 19 em tempo real. Utilizando tecnologias como Flask, Pandas e diversas bibliotecas Python, a aplicação oferece dashboards interativos que mostram a evolução dos casos, óbitos, vacinação, ocupação de leitos e índices de isolamento social. Além disso, foram implementadas funcionalidades de filtragem de dados por data e município, proporcionando uma análise detalhada e customizada.
-<br>
 
 [Repositório do Projeto]()
 </details>
-<br>
+
 <details>
 <summary>Tecnologias adotadas na solução</summary>
 <br>
@@ -90,7 +88,6 @@ mercado ultimamente, como a modularização, presente por exemplo no vue.js e re
 - **Pandas**: Essencial para a manipulação e análise dos dados coletados. Pandas permitiu a transformação e limpeza dos dados de forma eficiente.
 - **NumPy**: Utilizado para operações matemáticas e manipulação de arrays, complementando as funcionalidades do Pandas.
 </details>
-<br>
 
 <details>
 <summary>Contribuições Individuais</summary>
@@ -112,12 +109,10 @@ Minhas principais contribuições para o projeto incluíram:
 - **Integração de Múltiplas Fontes de Dados**:
   Combinei dados de diferentes fontes para criar um banco de dados unificado e coerente. Isso envolveu a junção de dataframes, o tratamento de colunas inconsistentes e a agregação de informações complementares. A integração de dados foi fundamental para fornecer uma visão holística da situação da pandemia.
 </details>
-<br>
 
 <details>
 <summary>Aprendizados Efetivos</summary>
 <br>
-
   <details>  
   <summary>Hard Skills</summary>
 <br>
@@ -131,18 +126,18 @@ Minhas principais contribuições para o projeto incluíram:
 | **Data Cleaning**     | Habilidade de identificar e corrigir problemas nos dados, garantindo a integridade e a qualidade das análises. |
 | **Visualização de Dados** | Criação de gráficos e dashboards interativos que facilitam a interpretação de grandes volumes de dados. |
   </details>
-<br>
 
   <details>
   <summary>Soft Skills</summary>
-<br>
-  
+<br> 
+    
 | Soft Skills           | Descrição                                                                                           |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Durante o projeto, a comunicação foi essencial para alinhar as expectativas com a equipe e os stakeholders. Participei ativamente de reuniões semanais, apresentando o progresso e discutindo desafios técnicos. Minha habilidade de comunicar ideias complexas de maneira clara foi fundamental para o sucesso do projeto. |
+| **Comunicação Assertiva**        | Durante o projeto, a comunicação foi essencial para alinhar as expectativas com a equipe. Participei ativamente de reuniões semanais, apresentando o progresso e discutindo desafios técnicos. Minha habilidade de comunicar ideias complexas de maneira clara foi fundamental para o sucesso do projeto. |
 | **Gerenciamento de Tempo** | Trabalhei com prazos apertados e múltiplas tarefas simultâneas. Utilizei técnicas de gerenciamento de tempo, como a priorização de tarefas e o uso de listas de verificação, para garantir que todas as entregas fossem concluídas dentro dos prazos estabelecidos. |
 | **Pensamento Analítico** | A análise detalhada dos dados foi crucial para identificar padrões e tendências na evolução da pandemia. Utilizei minhas habilidades analíticas para interpretar os dados de forma crítica, proporcionando insights valiosos para a tomada de decisões. |
-| **Trabalho em Equipe**  | Colaborei estreitamente com outros desenvolvedores, analistas de dados e especialistas em saúde pública. Minha capacidade de trabalhar bem em equipe, compartilhar conhecimento e apoiar meus colegas contribuiu para um ambiente de trabalho produtivo e colaborativo. |
+| **Resiliência**           | Trabalhei com prazos curtos e dados inconsistentes, superando obstáculos para entregar soluções viáveis. |
+| **Autonomia**             | Executei grande parte do projeto de forma independente, tomando decisões por conta própria.       |
   </details>
 </details>
 <br>
@@ -159,14 +154,14 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 <details>
 <summary>Visão do Projeto</summary>
 <br>
+
+[Foto do Projeto]()
   
 - O objetivo foi desenvolver uma API robusta e eficiente para a gestão e análise de dados, que fosse capaz de suportar grandes volumes de informações e múltiplos usuários simultaneamente.
 - O projeto consistiu na criação de uma API para integração, processamento e gerenciamento de dados provenientes de diversas fontes. A API foi projetada com foco em escalabilidade, segurança e performance, permitindo a geração de relatórios e análises avançadas para suportar a tomada de decisão dos clientes da Dom Rock.
-<br>
 
 [Repositório do Projeto]()
 </details>
-<br>
 
 <details>
 <summary>Tecnologias Utilizadas</summary>
@@ -178,14 +173,12 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 - **PL/SQL:** Utilizado para a manipulação e gestão dos dados no banco de dados, garantindo eficiência nas operações e integridade dos dados.
 - **SCRUM:** Metodologia ágil adotada para gerenciar o projeto de forma iterativa e incremental, promovendo a colaboração e a adaptabilidade da equipe.
 </details>
-<br>
 
 <details>
 <summary>Contribuições Pessoais</summary>
 <br>
 
 Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e abrangentes, focando em assegurar a entrega de uma solução técnica sólida e funcional.
-<br>
 
 <details>
 <summary>Desenvolvimento do Back-end</summary>
@@ -194,7 +187,6 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 - **Criação de Serviços RESTful:** Utilizei Java e Spring Boot para desenvolver uma série de serviços RESTful. Esses serviços foram responsáveis por manipular e integrar dados provenientes de diversas fontes, garantindo escalabilidade e alta performance. Implementações específicas incluíram endpoints para criação, leitura, atualização e exclusão de dados (CRUD), bem como serviços para autenticação e autorização de usuários.
 - **Implementação de Segurança:** Integrei o Spring Security para implementar medidas robustas de segurança na API. Isso incluiu a configuração de autenticação baseada em tokens JWT (JSON Web Tokens), controle de acesso baseado em roles (papéis) de usuário, e proteção contra ataques comuns como CSRF (Cross- Site Request Forgery).
 </details>
-<br>
 
 <details>
 <summary>Integração com Banco de Dados</summary>
@@ -203,7 +195,6 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 - **Modelagem de Dados:** Utilizando PL/SQL, fui responsável por modelar o banco de dados, criando tabelas, views, stored procedures e triggers. A modelagem foi projetada para otimizar o desempenho das consultas e garantir a integridade referencial dos dados.
 - **Consultas Eficientes:** Escrevi queries complexas e otimizadas para suportar grandes volumes de dados. Utilizei técnicas como índices, joins eficientes e subconsultas para melhorar a performance das operações de leitura e escrita no banco de dados.
 </details>
-<br>
 
 <details>
 <summary>Desenvolvimento de Interfaces Gráficas</summary>
@@ -211,7 +202,6 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 
 - **Interfaces com JavaFX:** Desenvolvi interfaces gráficas utilizando JavaFX, permitindo uma interação intuitiva e responsiva com a aplicação. As interfaces incluíam dashboards para visualização de dados, formulários para entrada de informações, e componentes visuais para a navegação na aplicação.
 </details>
-<br>
 
 <details>
 <summary>Gestão de Equipe e Metodologias Ágeis</summary>
@@ -220,24 +210,20 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 - **Product Owner:** Assumi o papel de Product Owner, criando e priorizando o backlog do produto em alinhamento com os requisitos do parceiro acadêmico. Isso envolveu a definição de histórias de usuário, critérios de aceitação e a comunicação constante com os stakeholders para garantir que as entregas atendiam às expectativas.
 </details>
 </details>
-<br>
 
 <details>
 <summary>Aprendizados Efetivos</summary>
 <br>
-
 <details>
 <summary>Hard Skills</summary>
 <br>
   
 | Hard Skills           | Descrição                                                                                           |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
-| **Java**              | Aprimorei minhas habilidades em Java, focando em práticas avançadas de programação, como a utilização de padrões de design (Design Patterns) e a implementação de princípios SOLID para assegurar um código limpo e sustentável. |
-| **Spring Boot**       | Dominei o desenvolvimento de APIs RESTful com Spring Boot, incluindo o uso de injeção de dependências, configuração automática e criação de testes unitários e de integração. |
+| **Java**              | Aprimorei minhas habilidades em Java, focando em práticas avançadas de programação, como a utilização de padrões de design (Design Patterns) para assegurar um código limpo e sustentável. |
 | **PL/SQL**            | Aprofundei meus conhecimentos em PL/SQL, escrevendo scripts complexos para manipulação de dados e otimização de consultas. |
 | **JavaFX**            | Desenvolvi interfaces gráficas avançadas, utilizando bindings, event handling e customização de componentes visuais para melhorar a experiência do usuário. |
 </details>
-<br>
 
 <details>
 <summary>Soft Skills</summary>
@@ -245,30 +231,34 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 
 | Soft Skills           | Descrição                                                                                           |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Melhorei minhas habilidades de comunicação, especialmente na articulação de requisitos técnicos e na facilitação de reuniões de equipe. A comunicação clara e eficaz foi crucial para alinhar expectativas e resolver impedimentos rapidamente. |
-| **Trabalho em Equipe** | Fomentei um ambiente de colaboração, trabalhando efetivamente com colegas de diferentes áreas de especialização para superar desafios técnicos e cumprir prazos. |
-| **Gestão de Tempo**    | Aprimorei minhas habilidades de gestão de tempo, organizando tarefas e prazos para assegurar a entrega de funcionalidades dentro do cronograma estipulado. Utilizei técnicas de priorização como o método MoSCoW (Must have, Should have, Could have, and Won't have) para gerir o backlog de tarefas. |
+| **Trabalho em Equipe** | Fomentei um ambiente de colaboração, trabalhando efetivamente com colegas de equipe para superar desafios técnicos e cumprir prazos. |
+| **Liderança Técnica**             | Coordenei discussões técnicas e orientei a equipe sobre soluções envolvendo integração de sistemas.   |
+| **Negociação e Alinhamento**      | Alinhei expectativas e negociei ajustes nos requisitos do projeto, mantendo o progresso sem atritos. |
+| **Colaboração**                   | Trabalhei em estreita colaboração com a equipe, contribuindo para revisões de código e conhecimento compartilhado. |
 </details>
 </details>
 <br>
----
 
 # Projeto Acadêmico 3 (API) – 2º Semestre de 2022
 
 - **Parceiro Acadêmico:** IACIT
 
+[Logo IACIT]()
+
 Projeto feito com a parceria da IACIT, uma empresa de São José dos Campos que presta consultoria meteorológica, sendo que um de seus serviços atuais é fornecer aos clientes relatórios customizados de dados meteorológicos.
-<br>
 
 <details>
 <summary>Visão do projeto</summary>
 <br>
+
+[Foto do Projeto]()
   
 Como a empresa trabalhava processando muitas informações manualmente, ela acabava por perder tempo, desperdiçando recursos com esse processo. Por isso, a empresa precisava da criação de um sistema que permitisse realizar a importação dos dados meteorológicos, bem como armazená- los em uma base de dados, para posteriormente gerar os relatórios desejados por seus clientes.
 
 Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que possibilite a automatização desde o download, o processamento dos dados e a persistência dos dados no banco de dados de forma simplificada. Além disso, a aplicação aspirava possibilitar realizar a filtragem desses dados por temperatura, umidade, estações, vento, pressão atmosférica, radiação global e precipitação, além de possibilitar diversas visualizações desses dados. Por fim, a aplicação objetivava a criação de diferentes níveis de usuários juntamente com o painel administrativo, possibilitando a exportação dos relatórios a partir dos dados.
+
+[Repositório do Projeto]()
 </details>
-<br>
 
 <details>
 <summary>Tecnologias adotadas na solução</summary>
@@ -279,14 +269,12 @@ Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que
 - **Python** : O Python foi utilizado para analisar e tratar os dados meteorológicos que seriam utilizados na aplicação, e também para a criação de script de automação do povoamento do banco de dados por esses mesmos dados. Os dados precisaram primeiro serem tratados pelo Pandas para posteriormente serem analisados pela mesma biblioteca, e a criação do script de automação do povoamento foi realizado com o uso da biblioteca SQLAlchemy, que permitiu a utilização de comandos SQL dentro do Python, automatizando o processo de inserts à medida que os dados eram tratados. Foi utilizado o paradigma da orientação ao objeto nesse script, o que reduziu a reutilização de código e permitiu o processamento progressivo de toda a lógica do script ao permitir o acesso de uma classe às demais classes.
 - **PostgreSQL** : O PostgreSQL foi o SGBD escolhido para a criação do banco de dados exigido no projeto. Através dele, foi feita toda a modelagem e administração do banco, que foi responsável por armazenar todos os dados meteorológicos que foram utilizados para o dashboard da aplicação e para o CRUD de usuários. Além da criação das tabelas e constraints, e inserts realizados, a aplicação necessitou do uso de views que limitavam o acesso aos dados pelo usuário final, triggers para permitir a criação de uma tabela de auditoria que faz um controle de todas as modificações realizadas por um usuário nas tabelas de interesse, e a criação de índices para as tabelas para melhorar o desempenho de consultas, redução de tempo de resposta, otimização da utilização de memória e, por fim, trazer melhorias em operações de junção, que foram muito utilizadas no projeto.
 </details>
-<br>
 
 <details>
 <summary>Contribuições Individuais</summary>
 <br>
 
 Em grande parte do projeto eu trabalhei no back-end da aplicação, e em alguns momentos ajudei também no front-end.
-<br>
 
 <details>
 <summary>Script de Automação do povoamento do banco</summary>
@@ -302,7 +290,6 @@ No back-end, fui responsável por:
 
 [Veja mais detalhes](https://github.com/SoSoJigsaw/bertoti/blob/main/Metodologia/Detalhes%20das%20Contribui%C3%A7%C3%B5es/RelatoriosPDF.md)
 </details>
-<br>
 
 <details>
 <summary>Geração de Relatórios</summary>
@@ -310,7 +297,6 @@ No back-end, fui responsável por:
 
 [Veja mais detalhes](https://github.com/SoSoJigsaw/bertoti/blob/main/Metodologia/Detalhes%20das%20Contribui%C3%A7%C3%B5es/RelatoriosPDF.md)
 </details>
-<br>
 
 <details>
 <summary>Geração de PDFs dos gráficos</summary>
@@ -323,12 +309,10 @@ No front- end, eu ajudei em partes na estilização das páginas. No entanto, fu
 [Veja mais detalhes](https://github.com/SoSoJigsaw/bertoti/blob/main/Metodologia/Detalhes%20das%20Contribui%C3%A7%C3%B5es/PDFsGraficos.md)
 </details>
 </details>
-<br>
 
 <details>
 <summary>Aprendizados Efetivos</summary>
 <br>
-
 <details>
 <summary>Hard Skills</summary>
 <br>
@@ -344,13 +328,17 @@ No front- end, eu ajudei em partes na estilização das páginas. No entanto, fu
 | **Utilização da arquitetura MVC no SpringBoot**  | Aprendi a criar métodos de requisição no Controller do Spring, utilizando anotações como `@GetMapping` e `@PathVariable`, e construí respostas HTTP com `ResponseEntity`. |
 | **Manipulação de PDFs com JavaScript e HTML canvas** | Criei e manipulei PDFs com JavaScript, convertendo elementos HTML canvas em PNG e inserindo-os nos documentos gerados. |
 </details>
-<br>
 
 <details>
 <summary>Soft Skills</summary>
 <br>
-
-
+  
+| Soft Skills                        | Descrição                                                                                           |
+|------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Organização e Priorização**      | Organizei tarefas críticas para garantir a conclusão do projeto dentro do prazo estipulado.          |
+| **Proatividade**                   | Identifiquei melhorias e tomei a iniciativa de implementá-las, otimizando processos e scripts.       |
+| **Autogestão**                     | Gerenciei minhas próprias responsabilidades e prazos, entregando soluções sem necessidade de supervisão constante. |
+| **Atenção aos Detalhes**           | Garanti a integridade dos dados processados, identificando possíveis inconsistências durante a automação. |
 </details>
 </details>
 <br>
@@ -362,18 +350,18 @@ No front- end, eu ajudei em partes na estilização das páginas. No entanto, fu
 [Logo Embraer]()
 
 Projeto realizado em parceria com a Embraer, uma empresa especializada em soluções de aeronáutica, defesa e segurança, proporcionando inovações tecnológicas para o setor aeroespacial.
-<br>
 
 <details>
 <summary>Visão do Projeto</summary>
 <br>
+
+[Foto do Projeto]()
 
 - O objetivo foi desenvolver uma aplicação robusta e eficiente para a integração e gerenciamento de dados de aeronaves, contribuindo para a otimização das operações e manutenção.
 - O projeto consistiu na criação de uma API para integração, processamento e gerenciamento de dados provenientes de sistemas de monitoramento de aeronaves, manutenção e operações. A API foi projetada com foco em escalabilidade, segurança e performance, permitindo a geração de relatórios detalhados e visualização de dados em tempo real.
 
 [Repositório do Projeto]()
 </details>
-<br>
 
 <details>
 <summary>Tecnologias Utilizadas</summary>
@@ -387,14 +375,12 @@ Projeto realizado em parceria com a Embraer, uma empresa especializada em soluç
 - **Spring Boot:** Framework utilizado para o desenvolvimento do backend devido à sua robustez e suporte para a criação de APIs RESTful.
 - **SCRUM:** Metodologia ágil adotada para gerenciar o projeto de forma iterativa e incremental, promovendo a colaboração e a adaptabilidade da equipe.
 </details>
-<br>
 
 <details>
 <summary>Contribuições Pessoais</summary>
 <br>
 
 Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e abrangentes, focando em várias áreas críticas do projeto.
-<br>
 
 <details>
 <summary>Desenvolvimento do Back-end</summary>
@@ -404,7 +390,6 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 - **Implementação de Segurança:** Integrei o Spring Security para implementar medidas robustas de segurança na API. Isso incluiu a configuração de autenticação baseada em tokens JWT (JSON Web Tokens), controle de acesso baseado em roles (papéis) de usuário, e proteção contra ataques comuns como CSRF (Cross-Site Request Forgery).
 - **Spring Boot:** Escolhido por sua capacidade de criar aplicações standalone de produção e seu ecossistema abrangente.
 </details>
-<br>
 
 <details>
 <summary>Integração com Banco de Dados</summary>
@@ -413,7 +398,6 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 - **Mapeamento e manipulação de Dados do banco:** Utilizando JPA, fui responsável pelo mapeamento e manipulação do banco de dados através da API SpringBoot. O uso do JPA foi projetado para otimizar o desempenho das consultas e da persistência dos dados através da API, e também garantir a integridade referencial destes mesmos dados.
 - **Hibernate:** Utilizado para facilitar a interação com o banco de dados, reduzindo o código boilerplate e aumentando a produtividade.
 </details>
-<br>
 
 <details>
 <summary>Desenvolvimento de Interfaces Gráficas</summary>
@@ -421,7 +405,6 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 
 - **Interfaces com Vue.js:** Desenvolvi interfaces gráficas utilizando Vue.js, permitindo uma interação intuitiva e responsiva com a aplicação. As interfaces incluíam dashboards para visualização de dados, formulários para entrada de informações, e componentes visuais para a navegação na aplicação.
 </details>
-<br>
 
 <details>
 <summary>Gestão de Equipe e Metodologias Ágeis</summary>
@@ -430,12 +413,10 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 - **Product Owner:** Assumi o papel de Product Owner, criando e priorizando o backlog do produto, garantindo que a equipe estivesse focada nas tarefas de maior valor para o cliente e alinhada com os objetivos do projeto.
 </details>
 </details>
-<br>
 
 <details>
 <summary>Aprendizados Efetivos</summary>
 <br>
-
 <details>
 <summary>Hard Skills</summary>
 <br>
@@ -446,18 +427,18 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 | **Spring Boot**       | Dominei o desenvolvimento de APIs RESTful com Spring Boot, incluindo o uso de Spring Security, Spring Data JPA, Hibernate e testes de integração. |
 | **TypeScript**        | Aprofundei meus conhecimentos em TypeScript, escrevendo scripts complexos para garantir a robustez e a segurança do código. |
 </details>
-<br>
 
 <details>
 <summary>Soft Skills</summary>
 <br>
-
-| Soft Skills           | Descrição                                                                                           |
-|-----------------------|-----------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Melhorei minhas habilidades de comunicação, especialmente na articulação de ideias técnicas e feedback construtivo durante reuniões de equipe. |
-| **Colaboração**        | Fomentei um ambiente de colaboração, trabalhando efetivamente com desenvolvedores, designers e stakeholders para alcançar os objetivos do projeto. |
-| **Gerenciamento de Tempo** | Aprimorei minhas habilidades de gerenciamento de tempo, organizando tarefas e prazos para garantir a entrega pontual das funcionalidades e a qualidade do produto final. |
+  
+| Soft Skills                      | Descrição                                                                                           |
+|----------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Gerenciamento de Stakeholders** | Mantive comunicação constante com a Embraer, ajustando as entregas de acordo com suas expectativas.  |
+| **Adaptação a Padrões Externos**  | Adaptei-me rapidamente aos padrões técnicos e processos exigidos pela Embraer para atender suas normas. |
+| **Resolução de Conflitos**        | Mediei conflitos entre requisitos e prazos, garantindo que o projeto permanecesse dentro do cronograma. |
+| **Trabalho Sob Pressão**          | Trabalhei sob prazos rigorosos e exigências altas, mantendo a qualidade e entregando dentro do prazo. |
+| **Foco em Resultados**            | Concentrei-me na entrega de um sistema que atendesse às expectativas da Embraer e fosse funcional dentro do prazo. |
 </details>
 </details>
-<br>
 
