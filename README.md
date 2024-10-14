@@ -189,7 +189,7 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 </details>
 
 <details>
-<summary>Tecnologias Utilizadas</summary>
+<summary>Tecnologias adotadas na solução</summary>
 <br>
 
 - **Java:** Escolhida pela sua robustez, portabilidade e vasto ecossistema de bibliotecas e frameworks, facilitando o desenvolvimento de aplicações escaláveis e de alta performance.
@@ -415,7 +415,7 @@ Projeto realizado em parceria com a Embraer, uma empresa especializada em soluç
 </details>
 
 <details>
-<summary>Tecnologias Utilizadas</summary>
+<summary>Tecnologias adotadas na solução</summary>
 <br>
 
 - **Vue.js:** Escolhido para a construção das interfaces de usuário devido à sua reatividade e facilidade de integração com outras bibliotecas, além de sua simplicidade e eficiência na criação de interfaces reativas e componentes reutilizáveis.
