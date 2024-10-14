@@ -281,18 +281,12 @@ Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que
 <summary>Contribuições Individuais</summary>
 <br>
 
-Em grande parte do projeto eu trabalhei no back-end da aplicação, e em alguns momentos ajudei também no front-end.
-
 <details>
 <summary>Script de Automação do povoamento do banco</summary>
 <br>
 
-No back-end, fui responsável por:
-
-- criar um script no Python que recebia os dados meteorológicos de uma base de dados disponibilizado em um servidor web através de um request, toda vez que o script era executado ele fazia o request e verificava se havia novos dados para serem baixados. Se houvesse novos dados, ele os baixava para um diretório reservado do projeto.
-
+- Fui o responsável pela criação de um script em Python que recebia os dados meteorológicos de uma base de dados disponibilizado em um servidor web através de um request, toda vez que o script era executado ele fazia o request e verificava se havia novos dados para serem baixados. Se houvesse novos dados, ele os baixava para um diretório reservado do projeto.
 - O script acessava em loop todos os dados baixados no diretório e fazia o tratamento deles utilizando Pandas, mudando seus tipos e formatação de forma que depois de tratados estivessem em um formato adequado à lógica das tabelas do banco de dados criado.
-
 - Assim que terminava o tratamento desses dados, os dataframes eram enviados à outro método que fazia a rotina de enviar esses dados ao banco de dados, fazendo inserts nas tabelas devidas, usando para isso o SQLAlchemy para criar a conexão com o banco e utilizar comandos de SQL puro dentro do Python. Essa rotina incluía tratamento de erros, evitando a duplicação de dados no banco, redundância, e quebra de constraints de chave primária. O script foi otimizado, permitindo que a tentativa de envio de dados ao banco, ou seja, a execução do comando SQL, só acontecesse caso o dataframe trouxesse novos dados.
 
 [Veja mais detalhes](https://github.com/SoSoJigsaw/Portfolio/blob/main/Detalhes%20das%20Contribui%C3%A7%C3%B5es/ScriptDeAutomacao.md)
@@ -302,6 +296,15 @@ No back-end, fui responsável por:
 <summary>Geração de Relatórios</summary>
 <br>
 
+Fui responsável pela implementação de relatórios meteorológicos automatizados em formato PDF. Desenvolvi uma classe específica para cada variável meteorológica, utilizando a biblioteca `iText` para geração dos PDFs. As principais funcionalidades incluíam:
+
+- Geração de tabelas dinâmicas com dados meteorológicos, exibindo data/hora e as respectivas variáveis para cada registro.
+- Estilização e formatação avançada dos relatórios, incluindo cabeçalhos personalizados, imagens (logotipo da IACIT) e layout responsivo para múltiplas páginas.
+- Exportação de PDFs através da API REST Spring Boot, permitindo que os usuários baixassem relatórios diretamente pela aplicação web.
+- Implementação de métodos otimizados para consulta e processamento dos dados meteorológicos, garantindo a eficiência na geração dos relatórios mesmo com grandes volumes de dados.
+
+Essa contribuição resultou em um processo automatizado de geração de relatórios que otimizou a coleta e visualização dos dados meteorológicos, melhorando a experiência do usuário na análise dos dados fornecidos pela aplicação.
+
 [Veja mais detalhes](https://github.com/SoSoJigsaw/Portfolio/blob/main/Detalhes%20das%20Contribui%C3%A7%C3%B5es/RelatoriosPDF.md)
 </details>
 
@@ -309,7 +312,7 @@ No back-end, fui responsável por:
 <summary>Geração de PDFs dos gráficos</summary>
 <br>
 
-No front- end, eu ajudei em partes na estilização das páginas. No entanto, fui responsável por criar o método que gerava o PDF dos gráficos. Para isso:
+No front-end, eu ajudei em partes da estilização das páginas. No entanto, fui responsável também por criar o método que gerava o PDF dos gráficos. Para isso:
 
 - eu usei uma biblioteca do JavaScript chamada jsPDF, que estilizou o PDF e incluiu o gráfico nele, gráfico esse que foi convertido de elemento canvas HTML em um arquivo de imagem PNG e possibilitou dentro do mesmo método o download em PDF
 
