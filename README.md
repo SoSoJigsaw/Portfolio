@@ -151,7 +151,7 @@ Minhas principais contribuições para o projeto incluíram:
 
 - **Parceiro Acadêmico:** Dom Rock
 
-[Logo DomRock]()
+![Logo DomRock](https://github.com/SoSoJigsaw/Portfolio/blob/main/Imagens/domrock.png)
 
 Projeto realizado em parceria com a Dom Rock, uma empresa especializada em soluções de Big Data e Inteligência Artificial.
 <br>
@@ -249,7 +249,7 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 
 - **Parceiro Acadêmico:** IACIT
 
-[Logo IACIT]()
+![Logo IACIT](https://www.iacit.com.br/imgs/meta-image.jpg)
 
 Projeto feito com a parceria da IACIT, uma empresa de São José dos Campos que presta consultoria meteorológica, sendo que um de seus serviços atuais é fornecer aos clientes relatórios customizados de dados meteorológicos.
 
@@ -354,7 +354,7 @@ No front- end, eu ajudei em partes na estilização das páginas. No entanto, fu
 
 - **Parceiro Acadêmico:** Embraer
 
-[Logo Embraer]()
+![Logo Embraer](https://www.cnnbrasil.com.br/wp-content/uploads/2021/06/41152_476791AAE41C3D25.jpg)
 
 Projeto realizado em parceria com a Embraer, uma empresa especializada em soluções de aeronáutica, defesa e segurança, proporcionando inovações tecnológicas para o setor aeroespacial.
 
