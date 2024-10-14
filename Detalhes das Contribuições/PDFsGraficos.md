@@ -50,5 +50,3 @@ A função começa obtendo os elementos HTML canvas que contêm os gráficos a p
 Em seguida, a função obtém outros elementos HTML que contém informações sobre a estação, o estado e o intervalo de datas apresentados nos gráficos. Essas informações são usadas para criar um cabeçalho no arquivo PDF que será gerado.
 
 Finalmente, a função usa a biblioteca `jsPDF` para criar um novo objeto PDF e adicionar as imagens dos gráficos e o texto do cabeçalho a ele. O PDF resultante é salvo com um nome de arquivo baseado nas informações da estação e do intervalo de datas, e a função retorna o objeto PDF.
-
-[Voltar ao topo](# voltar)
