@@ -1,4 +1,4 @@
-# Portfólio - Felipe Sobral
+# Portfólio Acadêmico - Felipe Sobral
 
 <details>
 <summary>Introdução</summary>
