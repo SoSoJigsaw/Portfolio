@@ -363,7 +363,7 @@ Minhas principais contribuições para o projeto incluíram:
 
 - **Parceiro Acadêmico:** Dom Rock
 
-![Logo DomRock](https://github.com/SoSoJigsaw/Portfolio/blob/main/Imagens/domrock.png)
+![Logo DomRock](https://github.com/SoSoJigsaw/Portfolio/blob/main/img/domrock.png)
 
 Projeto realizado em parceria com a Dom Rock, uma empresa especializada em soluções de Big Data e Inteligência Artificial.
 <br>
