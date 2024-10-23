@@ -4,7 +4,23 @@
 <summary>Introdução</summary>
 <br>
 
-![Profile](https://github.com/SoSoJigsaw/Portfolio/blob/main/Imagens/profile.jpeg)
+## Sobre o desenvolvedor
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
+  <img src="img/perfil.png" alt="Sobre mim">
+  <h3 align="center"> Acesse meu portfólio ou rede profissional:</h3>
+              
+  <div style="display: flex; flex-direction: row;">
+    <p align="center" ">                                                      
+      <a href="https://github.com/SoSoJigsaw" style="width: fit-content; height: auto;">
+        <img src="img/github.png" style="width: fit-content;">
+      </a>
+      <a href="https://www.linkedin.com/in/sosojigsaw/" style="width: fit-content; height: auto;">
+        <img src="img/linkedin.png" style="width: fit-content">
+      </a>
+    </p>
+  </div>
+</div>
   
 Sou estudante do 6º semestre de Tecnologia em Banco de Dados na FATEC São José dos Campos, onde tive a oportunidade de aplicar conhecimentos acadêmicos em projetos práticos voltados ao mercado. Através da metodologia de Aprendizado por Projetos Integradores (API), desenvolvi soluções reais para empresas parceiras, aprimorando minhas habilidades técnicas em Python, Java, JavaScript/TypeScript e SQL (Oracle, SQL Server e PostgreSQL), além de fortalecer minha experiência em metodologias ágeis, como SCRUM.
 
@@ -59,6 +75,207 @@ Tenho contato com o SCRUM desde o primeiro semestre da faculdade, em 2021, sendo
 Desenvolvo com javascript desde 2022, tendo pleno conhecimento tanto dos frameworks de backend quantos os de frontend.
 Compreendo perfeitamente todos os conceitos web como o DOM, e conceitos específicos dos frameworks mais utilizados pelo 
 mercado ultimamente, como a modularização, presente por exemplo no vue.js e react.
+</details>
+
+<details>
+  <summary>Meu Skill Set</summary>
+    <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">      
+     <table align="left">
+       <tbody>
+         <div style="display: flex; justify-content: space-between; width: 100%;">
+         <tr> 
+           <td colspan="2">
+             <table align="center">
+              <thead>
+                  <tr>
+                      <th></th>
+                      <th>Tecnologia</th>
+                      <th>Experiência</th>
+                      <th>Tempo de Uso</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                      <td align="center"><img src="img/tecnologias/java.svg" width="75px" height="auto" align="center"></td>
+                      <td><em>Java</em></td>
+                      <td>Avançado</td>
+                      <td>5 anos</td>
+                  </tr>
+                  <tr>
+                      <td align="center"><img src="img/tecnologias/springboot.svg" width="50px" height="auto" align="center"></td>
+                      <td><em>SpringBoot</em></td>
+                      <td>Avançado</td>
+                      <td>4 anos</td>
+                  </tr>
+                  <tr>
+                        <td align="center">
+                          <p align="center">
+                            <img src="img/tecnologias/hibernate.png" width="150px" height="auto" align="center">
+                            <img src="https://www.baeldung.com/wp-content/uploads/2021/02/lsd-module-icon-1.png" width="50px" height="auto" align="center"></p>
+                        </td>
+                        <td><em>JPA e Hibernate</em></td>
+                        <td>Avançado</td>
+                        <td>4 anos</td>
+                  </tr>
+                  <tr>
+                        <td align="center"><img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" width="50px" height="auto" align="center"></td>
+                        <td><em>SpringBoot Security</em></td>
+                        <td>Avançado</td>
+                        <td>4 anos</td>
+                  </tr>
+                  <tr>
+                        <td align="center">
+                          <p align="center">
+                            <img src="img/tecnologias/postgre.svg" width="60px" height="auto" align="center">
+                            <img src="img/tecnologias/oracle.svg" width="75px" height="auto" align="center">
+                            <img src="img/tecnologias/MySQL.svg" width="75px" height="auto" align="center">
+                        </td>
+                        <td><em>SQL e PL/SQL</em></td>
+                        <td>Avançado</td>
+                        <td>5 anos</td>
+                  </tr>
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/junit.png" width="50px" height="auto" align="center"></td>
+                        <td><em>JUnit5</em></td>
+                        <td>Intermediário</td>
+                        <td>1 ano</td>
+                  </tr>
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/mockito.png" width="150px" height="auto" align="center"></td>
+                        <td><em>Mockito</em></td>
+                        <td>Intermediário</td>
+                        <td>1 ano</td>
+                  </tr>
+                  <tr>
+                        <td align="center">
+                          <p align="center">
+                            <img src="img/tecnologias/git.svg" width="50px" height="auto" align="center">
+                            <img src="img/tecnologias/github.png" width="75px" height="auto" align="center">
+                          </p>  
+                        </td> 
+                        <td><em>Git e Github</em></td>
+                        <td>Avançado</td>
+                        <td>5 anos</td>
+                  </tr>
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/scrum.png" width="50px" height="auto" align="center"></td>
+                        <td><em>Metodologia Ágil Scrum</em></td>
+                        <td>Avançado</td>
+                        <td>4 anos</td>
+                  </tr>  
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/docker.svg" width="50px" height="auto"></td>
+                        <td><em>Docker</em></td>
+                        <td>Intermediário</td>
+                        <td>1 ano</td>
+                  </tr>  
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/docker-compose.png" width="75px" height="auto" align="center"></td>
+                        <td><em>Docker Compose</em></td>
+                        <td>Intermediário</td>
+                        <td>1 ano</td>
+                  </tr> 
+              </div>
+              </tbody>
+            </table>
+           </td>
+           <td colspan="2">
+             <table align="center">
+              <thead>
+                  <tr>
+                      <th></th>
+                      <th>Tecnologia</th>
+                      <th>Experiência</th>
+                      <th>Tempo de Uso</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/apache-kafka.png" width="50px" height="auto" align="center"></td>
+                        <td><em>Apache Kafka</em></td>
+                        <td>Intermediário</td>
+                        <td>1 ano</td>
+                  </tr>  
+                  <tr>
+                        <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50px" height="auto" align="center"></td>
+                        <td><em>JavaScript</em></td>
+                        <td>Avançado</td>
+                        <td>3 anos</td>
+                  </tr>  
+                  <tr>
+                        <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50px" height="auto" align="center"></td>
+                        <td><em>TypeScript</em></td>
+                        <td>Avançado</td>
+                        <td>2 anos</td>
+                  </tr>
+                  <tr>
+                        <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50px" height="auto" align="center"></td>
+                        <td><em>Vue.js</em></td>
+                        <td>Avançado</td>
+                        <td>3 anos</td>
+                  </tr>
+                  <tr>
+                        <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50px" height="auto" align="center"></td>
+                        <td><em>React.js</em></td>
+                        <td>Intermediário</td>
+                        <td>1 ano</td>
+                  </tr>
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/css3.svg" width="50px" height="auto" align="center"></td>
+                        <td><em>CSS3</em></td>
+                        <td>Avançado</td>
+                        <td>5 anos</td>
+                  </tr>
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/html5.svg" width="50px" height="auto" align="center"></td>
+                        <td><em>HTML5</em></td>
+                        <td>Avançado</td>
+                        <td>5 anos</td>
+                  </tr>  
+                  <tr>
+                        <td align="center"><img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" width="75px" height="auto" align="center"></td>
+                        <td><em>JavaFx</em></td>
+                        <td>Intermediário</td>
+                        <td>2 anos</td>
+                  </tr>  
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/python.svg" width="50px" height="auto" align="center"></td>
+                        <td><em><b>Python</b></em></td>
+                        <td>Avançado</td>
+                        <td>5 anos</td>
+                  </tr>  
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/flask-python.png" width="50px" height="auto" align="center" 
+                                             filter: sepia(100%) hue-rotate(60deg) brightness(0.6) saturate(5);></td>
+                        <td><em>Flask</em></td>
+                        <td>Avançado</td>
+                        <td>4 anos</td>
+                  </tr>  
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/pandas.png" width="150px" height="auto" align="center"></td>
+                        <td><em>Pandas</em></td>
+                        <td>Avançado</td>
+                        <td>3 anos</td>
+                  </tr>  
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/sqlAlchmy.png" width="150px" height="auto" align="center"></td>
+                        <td><em>SQLAlchemy</em></td>
+                        <td>Avançado</td>
+                        <td>4 anos</td>
+                  </tr>   
+                  <tr>
+                        <td align="center"><img src="img/tecnologias/selenium.png" width="50px" height="auto" align="center"></td>
+                        <td><em>Selenium</em></td>
+                        <td>Intermediário</td>
+                        <td>3 anos</td>
+                  </tr>   
+                </tbody>
+              </table>
+           </td>
+         </tr>
+       </tbody>
+    </table>    
+  </div>              
 </details>
 </details>
 
@@ -492,4 +709,117 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 | **Foco em Resultados**            | Concentrei-me na entrega de um sistema que atendesse às expectativas da Embraer e fosse funcional dentro do prazo. |
 </details>
 </details>
+<br>
 
+# Projeto Acadêmico 5 (API) – 1º Semestre de 2024
+
+- **Parceiro Acadêmico:** Tecsus
+
+![Logo Tecsus](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIMd9iYIaPjbomOsnFoO5IecpJ4lwQywVOg&s)
+
+Projeto realizado em parceria com a Tecsu. A Tecsus realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos. 
+
+<details>
+<summary>Visão do Projeto</summary>
+<br>
+
+![Foto do Projeto](https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/main/Documents/Mockup/DASHBOARD_1.png)
+![Foto do Projeto 2](https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/main/Documents/Mockup/DASHBOARD_2.png)
+![Gif do Projeto](https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/main/Documents/Gifs/gif-dash-agua.gif)
+
+Como a empresa possui uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, havia o interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado. Dessa forma, o projeto consistia no desenvolvimento de um dashboard web de alta complexidade para análise e exibição de dados de faturas de energia e água. 
+
+- O objetivo do projeto era fornecer insights valiosos para empresas clientes da Tecsus, permitindo a redução de custos e otimização de contratos.
+- O projeto consistiu no desenvolvimento de um sistema para gerenciar o consumo de recursos (água e energia) de unidades, concessionárias e contratos, com a capacidade de gerar relatórios e alertas baseados nos dados coletados. Além disso, foi implementado uma esteira de DevOps para assegurar a eficiência e rastreabilidade do desenvolvimento. O sistema web permitiu também que o cliente fizesse o upload dos aquivos brutos com os dados de sua conta e visualizasse todos os dashbords e relatórios implementados para facilitar insights e análises necessárias para a empresa.
+
+[Repositório do Projeto](https://github.com/quarks-team/Projeto-Integrador-TecSUS)
+</details>
+
+<details>
+<summary>Funcionalidades</summary>
+<br>
+  
+- **Automação no Processo de ETL:** Além da criação de um script de extração automatizada de dados de diferentes fontes (e.g., arquivos CSV, APIs), o processo de ETL foi também totalmente automatizado dentro da API do software, permitindo processos de carga de dados no banco de dados centralizado a cada nova atualização, a partir da inserção manual de arquivos pelo usuário, funcionalidade garantida através de um método `POST` na interface web.
+- **Dashboards Interativos:** com a utilização de PowerBI, foram desenvolvidos dashboards interativos com séries temporais mensais e anuais, com o cálculo médio de consumo tanto para contratos de água quanto para contratos de energia. Esses dashboards podem serem visualizados dentro da interface web desenvolvida para o projeto.
+- **Relatórios:** a aplicação permite a geração e exportação de relatórios com séries temporais mensais e anuais, referentes ao cálculo da média de consumo tanto nos contratos de água quanto nos contratos de energia. 
+- **Sistema de Alertas:** para notificar o usuário acerca de um consumo acima da média nos últimos três meses, foi implementado um sistema de alertas na interface web, na qual, ao ser apontado algum contrato que excede a média de consumo estipulada pelo cliente, uma notificação é criada e exibida em toda a plataforma, dando ciência ao usuário de quais contratos exigem sua devida atenção.
+- **Esteira de DevOps:** para garantir a eficiência, rastreabilidade e qualidade do desenvolvimento, foi implementada uma série de práticas de DevOps, que incluíam boas prátias em desenvolvimento, como a **rastreabilidade dos requisitos através das tasks**, **integração contínua (CI)**, **testes de nível de unidade e integração**, **análise estática**, assim como a **Documentação completa das práticas de DevOps assimiladas** no projeto.
+</details>
+
+<details>
+<summary>Tecnologias adotadas na solução</summary>
+<br>
+
+- **Vue.js:** Escolhido para a construção das interfaces de usuário devido à sua reatividade e facilidade de integração com outras bibliotecas, além de sua simplicidade e eficiência na criação de interfaces reativas e componentes reutilizáveis.
+- **TypeScript:** Utilizado para adicionar tipagem estática ao JavaScript, melhorando a qualidade do código e facilitando a manutenção.
+- **PowerBI:** [*/Falta preencher/*]
+- **Node:** utilizado para o backend por sua.... [*/Falta preencher/*]
+- **MySQL:** banco de dados relacional com suporte à projetos de *Datawarehouse*, permitindo assim que fosse utilizado a modelagem do esquema de estrela (ou *STAR*), com as tabelas `FATO` e `DIMENSÃO`, facilitando os procesos de carga no banco de dados.
+- **SCRUM:** Metodologia ágil adotada para gerenciar o projeto de forma iterativa e incremental, promovendo a colaboração e a adaptabilidade da equipe.
+</details>
+
+<details>
+<summary>Contribuições Pessoais</summary>
+<br>
+
+Durante o desenvolvimento deste projeto, minhas contribuições foram em sua maioria relacionadas ao desenvolvimento da API, principalmente no que tange ao desenolvimento da interface web no frontend, tanto em questõs estéticas quanto programáticas. Além disso, contribui ativamente com as práticas de DevOps, ajudando na cobertura de código através de testes de nível de unidade e de integração, além de principalmente desenvolver as pipelines de CI (Integração Contínua) de todos os repositórios relacionados ao projeto.
+
+<details>
+<summary>Contribuições no Backend</summary>
+<br>
+
+- **Criação de Serviços RESTful:** Utilizei Spring Boot para desenvolver uma série de serviços RESTful. Esses serviços foram responsáveis por manipular e integrar dados provenientes de diversas fontes, garantindo escalabilidade e alta performance. Implementações específicas incluíram endpoints para criação, leitura, atualização e exclusão de dados (CRUD), bem como serviços para autenticação e autorização de usuários.
+- **Implementação de Segurança:** Integrei o Spring Security para implementar medidas robustas de segurança na API. Isso incluiu a configuração de autenticação baseada em tokens JWT (JSON Web Tokens), controle de acesso baseado em roles (papéis) de usuário, e proteção contra ataques comuns como CSRF (Cross-Site Request Forgery).
+- **Spring Boot:** Escolhido por sua capacidade de criar aplicações standalone de produção e seu ecossistema abrangente.
+</details>
+
+<details>
+<summary>Desenvolvimento de Interfaces Gráficas</summary>
+<br>
+
+- **Interfaces com Vue.js:** Desenvolvi interfaces gráficas utilizando Vue.js, permitindo uma interação intuitiva e responsiva com a aplicação. As interfaces incluíam dashboards para visualização de dados, formulários para entrada de informações, e componentes visuais para a navegação na aplicação.
+</details>
+
+<details>
+<summary>Práticas de DevOps</summary>
+<br>
+
+- **Product Owner:** Assumi o papel de Product Owner, criando e priorizando o backlog do produto, garantindo que a equipe estivesse focada nas tarefas de maior valor para o cliente e alinhada com os objetivos do projeto.
+</details>
+</details>
+
+<details>
+<summary>Aprendizados Efetivos</summary>
+<br>
+<details>
+<summary>Hard Skills</summary>
+<br>
+
+| Hard Skills           | Descrição                                                                                           |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| **Testes de Unidade**            | [*/Falta preencher/*] |
+| **Testes de Integração**       | [*/Falta preencher/*] |
+| **Github Actions**        |[*/Falta preencher/*] |
+| **Análise Estática de Código**        | [*/Falta preencher/*] |
+| **Automação de Pipelines de CI**        | [*/Falta preencher/*] |
+| **Automação de Deploys**        | [*/Falta preencher/*] |
+| **Conteinerização e Orquestramento**        | [*/Falta preencher/*] |
+</details>
+
+<details>
+<summary>Soft Skills</summary>
+<br>
+  
+| Soft Skills                      | Descrição                                                                                           |
+|----------------------------------|-----------------------------------------------------------------------------------------------------|
+| **[*/Falta preencher/*]** | [*/Falta preencher/*]  |
+| **[*/Falta preencher/*]**  | [*/Falta preencher/*] |
+| **[*/Falta preencher/*]**        | [*/Falta preencher/*] |
+| **[*/Falta preencher/*]**          | [*/Falta preencher/*] |
+| **[*/Falta preencher/*]**            | [*/Falta preencher/*] |
+</details>
+</details>
+
+<br>
+
+<p align="right">(<a href="#top">Voltar ao Topo</a>)</p>
