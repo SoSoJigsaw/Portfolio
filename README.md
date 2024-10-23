@@ -25,9 +25,6 @@
 Sou estudante do 6º semestre de Tecnologia em Banco de Dados na FATEC São José dos Campos, onde tive a oportunidade de aplicar conhecimentos acadêmicos em projetos práticos voltados ao mercado. Através da metodologia de Aprendizado por Projetos Integradores (API), desenvolvi soluções reais para empresas parceiras, aprimorando minhas habilidades técnicas em Python, Java, JavaScript/TypeScript e SQL (Oracle, SQL Server e PostgreSQL), além de fortalecer minha experiência em metodologias ágeis, como SCRUM.
 
 Essas experiências me prepararam para enfrentar desafios do mercado de tecnologia, onde a capacidade de solucionar problemas e a colaboração em equipe são tão valorizadas quanto o domínio técnico.
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/SoSoJigsaw) 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosojigsaw/)
 </details>
 
 
@@ -78,205 +75,194 @@ mercado ultimamente, como a modularização, presente por exemplo no vue.js e re
 </details>
 
 <details>
-  <summary>Meu Skill Set</summary>
-    <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">      
-     <table align="left">
-       <tbody>
-         <div style="display: flex; justify-content: space-between; width: 100%;">
-         <tr> 
-           <td colspan="2">
-             <table align="center">
-              <thead>
-                  <tr>
-                      <th></th>
-                      <th>Tecnologia</th>
-                      <th>Experiência</th>
-                      <th>Tempo de Uso</th>
-                  </tr>
-              </thead>
-              <tbody>
-                  <tr>
-                      <td align="center"><img src="img/tecnologias/java.svg" width="75px" height="auto" align="center"></td>
-                      <td><em>Java</em></td>
-                      <td>Avançado</td>
-                      <td>5 anos</td>
-                  </tr>
-                  <tr>
-                      <td align="center"><img src="img/tecnologias/springboot.svg" width="50px" height="auto" align="center"></td>
-                      <td><em>SpringBoot</em></td>
+  <summary><h3>Skill Set Completo</h3></summary>
+  
+  ## <h2 align="center">Meu Skill Set:</h2>
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">      
+   <table align="center">
+     <tbody>
+       <div style="display: flex; justify-content: space-between; width: 100%;">
+       <tr> 
+         <td colspan="2">
+           <table align="center">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Tecnologia</th>
+                    <th>Experiência</th>
+                    <th>Tempo de Uso</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td align="center"><img src="img/tecnologias/java.svg" width="75px" height="auto" align="center"></td>
+                    <td><em>Java</em></td>
+                    <td>Avançado</td>
+                    <td>5 anos</td>
+                </tr>
+                <tr>
+                    <td align="center"><img src="img/tecnologias/springboot.svg" width="50px" height="auto" align="center"></td>
+                    <td><em>SpringBoot</em></td>
+                    <td>Avançado</td>
+                    <td>4 anos</td>
+                </tr>
+                <tr>
+                      <td align="center">
+                        <p align="center">
+                          <img src="img/tecnologias/hibernate.png" width="150px" height="auto" align="center">
+                          <img src="https://www.baeldung.com/wp-content/uploads/2021/02/lsd-module-icon-1.png" width="50px" height="auto" align="center"></p>
+                      </td>
+                      <td><em>JPA e Hibernate</em></td>
                       <td>Avançado</td>
                       <td>4 anos</td>
-                  </tr>
-                  <tr>
-                        <td align="center">
-                          <p align="center">
-                            <img src="img/tecnologias/hibernate.png" width="150px" height="auto" align="center">
-                            <img src="https://www.baeldung.com/wp-content/uploads/2021/02/lsd-module-icon-1.png" width="50px" height="auto" align="center"></p>
-                        </td>
-                        <td><em>JPA e Hibernate</em></td>
-                        <td>Avançado</td>
-                        <td>4 anos</td>
-                  </tr>
-                  <tr>
-                        <td align="center"><img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" width="50px" height="auto" align="center"></td>
-                        <td><em>SpringBoot Security</em></td>
-                        <td>Avançado</td>
-                        <td>4 anos</td>
-                  </tr>
-                  <tr>
-                        <td align="center">
-                          <p align="center">
-                            <img src="img/tecnologias/postgre.svg" width="60px" height="auto" align="center">
-                            <img src="img/tecnologias/oracle.svg" width="75px" height="auto" align="center">
-                            <img src="img/tecnologias/MySQL.svg" width="75px" height="auto" align="center">
-                        </td>
-                        <td><em>SQL e PL/SQL</em></td>
-                        <td>Avançado</td>
-                        <td>5 anos</td>
-                  </tr>
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/junit.png" width="50px" height="auto" align="center"></td>
-                        <td><em>JUnit5</em></td>
-                        <td>Intermediário</td>
-                        <td>1 ano</td>
-                  </tr>
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/mockito.png" width="150px" height="auto" align="center"></td>
-                        <td><em>Mockito</em></td>
-                        <td>Intermediário</td>
-                        <td>1 ano</td>
-                  </tr>
-                  <tr>
-                        <td align="center">
-                          <p align="center">
-                            <img src="img/tecnologias/git.svg" width="50px" height="auto" align="center">
-                            <img src="img/tecnologias/github.png" width="75px" height="auto" align="center">
-                          </p>  
-                        </td> 
-                        <td><em>Git e Github</em></td>
-                        <td>Avançado</td>
-                        <td>5 anos</td>
-                  </tr>
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/scrum.png" width="50px" height="auto" align="center"></td>
-                        <td><em>Metodologia Ágil Scrum</em></td>
-                        <td>Avançado</td>
-                        <td>4 anos</td>
-                  </tr>  
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/docker.svg" width="50px" height="auto"></td>
-                        <td><em>Docker</em></td>
-                        <td>Intermediário</td>
-                        <td>1 ano</td>
-                  </tr>  
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/docker-compose.png" width="75px" height="auto" align="center"></td>
-                        <td><em>Docker Compose</em></td>
-                        <td>Intermediário</td>
-                        <td>1 ano</td>
-                  </tr> 
-              </div>
-              </tbody>
-            </table>
-           </td>
-           <td colspan="2">
-             <table align="center">
-              <thead>
-                  <tr>
-                      <th></th>
-                      <th>Tecnologia</th>
-                      <th>Experiência</th>
-                      <th>Tempo de Uso</th>
-                  </tr>
-              </thead>
-              <tbody>
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/apache-kafka.png" width="50px" height="auto" align="center"></td>
-                        <td><em>Apache Kafka</em></td>
-                        <td>Intermediário</td>
-                        <td>1 ano</td>
-                  </tr>  
-                  <tr>
-                        <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50px" height="auto" align="center"></td>
-                        <td><em>JavaScript</em></td>
-                        <td>Avançado</td>
-                        <td>3 anos</td>
-                  </tr>  
-                  <tr>
-                        <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50px" height="auto" align="center"></td>
-                        <td><em>TypeScript</em></td>
-                        <td>Avançado</td>
-                        <td>2 anos</td>
-                  </tr>
-                  <tr>
-                        <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50px" height="auto" align="center"></td>
-                        <td><em>Vue.js</em></td>
-                        <td>Avançado</td>
-                        <td>3 anos</td>
-                  </tr>
-                  <tr>
-                        <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50px" height="auto" align="center"></td>
-                        <td><em>React.js</em></td>
-                        <td>Intermediário</td>
-                        <td>1 ano</td>
-                  </tr>
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/css3.svg" width="50px" height="auto" align="center"></td>
-                        <td><em>CSS3</em></td>
-                        <td>Avançado</td>
-                        <td>5 anos</td>
-                  </tr>
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/html5.svg" width="50px" height="auto" align="center"></td>
-                        <td><em>HTML5</em></td>
-                        <td>Avançado</td>
-                        <td>5 anos</td>
-                  </tr>  
-                  <tr>
-                        <td align="center"><img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" width="75px" height="auto" align="center"></td>
-                        <td><em>JavaFx</em></td>
-                        <td>Intermediário</td>
-                        <td>2 anos</td>
-                  </tr>  
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/python.svg" width="50px" height="auto" align="center"></td>
-                        <td><em><b>Python</b></em></td>
-                        <td>Avançado</td>
-                        <td>5 anos</td>
-                  </tr>  
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/flask-python.png" width="50px" height="auto" align="center" 
-                                             filter: sepia(100%) hue-rotate(60deg) brightness(0.6) saturate(5);></td>
-                        <td><em>Flask</em></td>
-                        <td>Avançado</td>
-                        <td>4 anos</td>
-                  </tr>  
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/pandas.png" width="150px" height="auto" align="center"></td>
-                        <td><em>Pandas</em></td>
-                        <td>Avançado</td>
-                        <td>3 anos</td>
-                  </tr>  
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/sqlAlchmy.png" width="150px" height="auto" align="center"></td>
-                        <td><em>SQLAlchemy</em></td>
-                        <td>Avançado</td>
-                        <td>4 anos</td>
-                  </tr>   
-                  <tr>
-                        <td align="center"><img src="img/tecnologias/selenium.png" width="50px" height="auto" align="center"></td>
-                        <td><em>Selenium</em></td>
-                        <td>Intermediário</td>
-                        <td>3 anos</td>
-                  </tr>   
-                </tbody>
-              </table>
-           </td>
-         </tr>
-       </tbody>
-    </table>    
-  </div>              
-</details>
+                </tr>
+                <tr>
+                      <td align="center"><img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" width="50px" height="auto" align="center"></td>
+                      <td><em>SpringBoot Security</em></td>
+                      <td>Avançado</td>
+                      <td>4 anos</td>
+                </tr>
+                <tr>
+                      <td align="center">
+                        <p align="center">
+                          <img src="img/tecnologias/postgre.svg" width="60px" height="auto" align="center">
+                          <img src="img/tecnologias/oracle.svg" width="75px" height="auto" align="center">
+                          <img src="img/tecnologias/MySQL.svg" width="75px" height="auto" align="center">
+                      </td>
+                      <td><em>SQL e PL/SQL</em></td>
+                      <td>Avançado</td>
+                      <td>5 anos</td>
+                </tr>
+                <tr>
+                      <td align="center"><img src="img/tecnologias/junit.png" width="50px" height="auto" align="center"></td>
+                      <td><em>JUnit5</em></td>
+                      <td>Intermediário</td>
+                      <td>1 ano</td>
+                </tr>
+                <tr>
+                      <td align="center"><img src="img/tecnologias/mockito.png" width="150px" height="auto" align="center"></td>
+                      <td><em>Mockito</em></td>
+                      <td>Intermediário</td>
+                      <td>1 ano</td>
+                </tr>
+                <tr>
+                      <td align="center">
+                        <p align="center">
+                          <img src="img/tecnologias/git.svg" width="50px" height="auto" align="center">
+                          <img src="img/tecnologias/github.png" width="75px" height="auto" align="center">
+                        </p>  
+                      </td> 
+                      <td><em>Git e Github</em></td>
+                      <td>Avançado</td>
+                      <td>5 anos</td>
+                </tr>
+                <tr>
+                      <td align="center"><img src="img/tecnologias/scrum.png" width="50px" height="auto" align="center"></td>
+                      <td><em>Metodologia Ágil Scrum</em></td>
+                      <td>Avançado</td>
+                      <td>4 anos</td>
+                </tr>  
+                <tr>
+                      <td align="center"><img src="img/tecnologias/docker.svg" width="50px" height="auto"></td>
+                      <td><em>Docker</em></td>
+                      <td>Intermediário</td>
+                      <td>1 ano</td>
+                </tr>  
+                <tr>
+                      <td align="center"><img src="img/tecnologias/docker-compose.png" width="75px" height="auto" align="center"></td>
+                      <td><em>Docker Compose</em></td>
+                      <td>Intermediário</td>
+                      <td>1 ano</td>
+                </tr> 
+                <tr>
+                      <td align="center"><img src="img/tecnologias/apache-kafka.png" width="50px" height="auto" align="center"></td>
+                      <td><em>Apache Kafka</em></td>
+                      <td>Intermediário</td>
+                      <td>1 ano</td>
+                </tr>  
+                <tr>
+                      <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50px" height="auto" align="center"></td>
+                      <td><em>JavaScript</em></td>
+                      <td>Avançado</td>
+                      <td>3 anos</td>
+                </tr>  
+                <tr>
+                      <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50px" height="auto" align="center"></td>
+                      <td><em>TypeScript</em></td>
+                      <td>Avançado</td>
+                      <td>2 anos</td>
+                </tr>
+                <tr>
+                      <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50px" height="auto" align="center"></td>
+                      <td><em>Vue.js</em></td>
+                      <td>Avançado</td>
+                      <td>3 anos</td>
+                </tr>
+                <tr>
+                      <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50px" height="auto" align="center"></td>
+                      <td><em>React.js</em></td>
+                      <td>Intermediário</td>
+                      <td>1 ano</td>
+                </tr>
+                <tr>
+                      <td align="center"><img src="img/tecnologias/css3.svg" width="50px" height="auto" align="center"></td>
+                      <td><em>CSS3</em></td>
+                      <td>Avançado</td>
+                      <td>5 anos</td>
+                </tr>
+                <tr>
+                      <td align="center"><img src="img/tecnologias/html5.svg" width="50px" height="auto" align="center"></td>
+                      <td><em>HTML5</em></td>
+                      <td>Avançado</td>
+                      <td>5 anos</td>
+                </tr>  
+                <tr>
+                      <td align="center"><img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" width="75px" height="auto" align="center"></td>
+                      <td><em>JavaFx</em></td>
+                      <td>Intermediário</td>
+                      <td>2 anos</td>
+                </tr>  
+                <tr>
+                      <td align="center"><img src="img/tecnologias/python.svg" width="50px" height="auto" align="center"></td>
+                      <td><em><b>Python</b></em></td>
+                      <td>Avançado</td>
+                      <td>5 anos</td>
+                </tr>  
+                <tr>
+                      <td align="center"><img src="img/tecnologias/flask-python.png" width="50px" height="auto" align="center" 
+                                           filter: sepia(100%) hue-rotate(60deg) brightness(0.6) saturate(5);></td>
+                      <td><em>Flask</em></td>
+                      <td>Avançado</td>
+                      <td>4 anos</td>
+                </tr>  
+                <tr>
+                      <td align="center"><img src="img/tecnologias/pandas.png" width="150px" height="auto" align="center"></td>
+                      <td><em>Pandas</em></td>
+                      <td>Avançado</td>
+                      <td>3 anos</td>
+                </tr>  
+                <tr>
+                      <td align="center"><img src="img/tecnologias/sqlAlchmy.png" width="150px" height="auto" align="center"></td>
+                      <td><em>SQLAlchemy</em></td>
+                      <td>Avançado</td>
+                      <td>4 anos</td>
+                </tr>   
+                <tr>
+                      <td align="center"><img src="img/tecnologias/selenium.png" width="50px" height="auto" align="center"></td>
+                      <td><em>Selenium</em></td>
+                      <td>Intermediário</td>
+                      <td>3 anos</td>
+                </tr>   
+            </div>
+            </tbody>
+          </table>
+         </td>
+       </tr>
+       </div>
+     </tbody>
+   </table>
+  </div>
+</details>            
 </details>
 
 # Projeto Acadêmico 1 (API) – 2º Semestre de 2021
