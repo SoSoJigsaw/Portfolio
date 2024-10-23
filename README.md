@@ -703,14 +703,13 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 
 ![Logo Tecsus](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIMd9iYIaPjbomOsnFoO5IecpJ4lwQywVOg&s)
 
-Projeto realizado em parceria com a Tecsu. A Tecsus realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos. 
+Projeto realizado em parceria com a Tecsus. A Tecsus realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos. 
 
 <details>
 <summary>Visão do Projeto</summary>
 <br>
 
 ![Foto do Projeto](https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/main/Documents/Mockup/DASHBOARD_1.png)
-![Foto do Projeto 2](https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/main/Documents/Mockup/DASHBOARD_2.png)
 ![Gif do Projeto](https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/main/Documents/Gifs/gif-dash-agua.gif)
 
 Como a empresa possui uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, havia o interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado. Dessa forma, o projeto consistia no desenvolvimento de um dashboard web de alta complexidade para análise e exibição de dados de faturas de energia e água. 
