@@ -738,7 +738,7 @@ Como a empresa possui uma base de dados de unidades, contratos, contas e concess
 - **Vue.js:** Escolhido para a construção das interfaces de usuário devido à sua reatividade e facilidade de integração com outras bibliotecas, além de sua simplicidade e eficiência na criação de interfaces reativas e componentes reutilizáveis.
 - **TypeScript:** Utilizado para adicionar tipagem estática ao JavaScript, melhorando a qualidade do código e facilitando a manutenção.
 - **PowerBI:** [*/Falta preencher/*]
-- **Node:** utilizado para o backend por sua.... [*/Falta preencher/*]
+- **Node (NestJS):** utilizado para o backend por sua.... [*/Falta preencher/*]
 - **MySQL:** banco de dados relacional com suporte à projetos de *Datawarehouse*, permitindo assim que fosse utilizado a modelagem do esquema de estrela (ou *STAR*), com as tabelas `FATO` e `DIMENSÃO`, facilitando os procesos de carga no banco de dados.
 - **SCRUM:** Metodologia ágil adotada para gerenciar o projeto de forma iterativa e incremental, promovendo a colaboração e a adaptabilidade da equipe.
 </details>
@@ -747,29 +747,37 @@ Como a empresa possui uma base de dados de unidades, contratos, contas e concess
 <summary>Contribuições Pessoais</summary>
 <br>
 
-Durante o desenvolvimento deste projeto, minhas contribuições foram em sua maioria relacionadas ao desenvolvimento da API, principalmente no que tange ao desenolvimento da interface web no frontend, tanto em questõs estéticas quanto programáticas. Além disso, contribui ativamente com as práticas de DevOps, ajudando na cobertura de código através de testes de nível de unidade e de integração, além de principalmente desenvolver as pipelines de CI (Integração Contínua) de todos os repositórios relacionados ao projeto.
+Durante o desenvolvimento deste projeto, minhas contribuições foram em sua maioria relacionadas ao desenvolvimento da Rest API, principalmente no que tange ao desenolvimento da interface web no frontend, tanto em questõs estéticas quanto programáticas. Além disso, contribui ativamente com as práticas de DevOps, ajudando na cobertura de código através de testes de nível de unidade e de integração, além de principalmente desenvolver as pipelines de CI (Integração Contínua) de todos os repositórios relacionados ao projeto, assim como análises estáticas do código através do Sonar.
 
 <details>
 <summary>Contribuições no Backend</summary>
 <br>
 
-- **Criação de Serviços RESTful:** Utilizei Spring Boot para desenvolver uma série de serviços RESTful. Esses serviços foram responsáveis por manipular e integrar dados provenientes de diversas fontes, garantindo escalabilidade e alta performance. Implementações específicas incluíram endpoints para criação, leitura, atualização e exclusão de dados (CRUD), bem como serviços para autenticação e autorização de usuários.
-- **Implementação de Segurança:** Integrei o Spring Security para implementar medidas robustas de segurança na API. Isso incluiu a configuração de autenticação baseada em tokens JWT (JSON Web Tokens), controle de acesso baseado em roles (papéis) de usuário, e proteção contra ataques comuns como CSRF (Cross-Site Request Forgery).
-- **Spring Boot:** Escolhido por sua capacidade de criar aplicações standalone de produção e seu ecossistema abrangente.
+- **Criação do método de upload de arquivos lado servidor:** No backend, fui responsável pela criação do método que implementava a lógica que inicia o processo de ETL a partir do upload de um ou mais arquivos no formato CSV. O método busca documentar o processo de ETL, através do uso de logs de tal forma que o usuário que está utilizando a ferramenta que engatilha o ETL, presente no frontend da aplicação, possa ser capaz de visualizar os passos realizados até o momento, trazendo um feeedback e uma garantia que o processo está de fato em execução e sem demonstrar erros. Esses logs foram implementados no `Service` relacionado, e são cruciais para o monitoramente e depuração do processo.
+- **Otimizações do processo de ETL:** para aumentar a eficiência computacional e assim diminuir a latência do processamento, implementei técnicas como paralelismo e chamadas da função de maneira assíncrona nos métodos da Rest API diretamente relacionadas ao ETL, o que trouxe um ganho de desempenho no curso da execução ao utilizar diversos núcleos do processador de maneira totalmente escalável e adaptável ao ambiente de execução. A abordagem assíncrona e o uso de paralelismo melhoram a performance significativamente, permitindo que múltiplos arquivos sejam processados simultaneamente sem sobrecarregar o sistema. 
+- **Implementação de responses no formato SSE:** através do uso de responses SSE (Server-Sent Events), o processo de ETL se tornou mais claro ao usuário, já que permitiu reportar em tempo real em que parte do processo o ETL se encontrava. Com o uso de responses SSE, o servidor se torna capaz de mandar múltiplas notificações automáticas para o cliente em uma mesma requisição, sempre que um evento importante ocorra durante a execução do bloco de código do endpoint. No caso do processo de ETL, essa implementação se tornou essencial, já que a carga de um novo dataset carregado pelo usuário pode durar vários minutos e, sem o uso desse recurso, o usuário não poderia ter ciência se o processamento está de fato ocorrendo sem erros. Com essa abordagem, se tornou possível comunicar na interface sobre o progresso atual da requisição e em qual arquivo enviado ou em qual fase o ETL se encontrava, recurso esse que agregou valor à funcionalidade ao oferecer ao usuário uma melhor experiência oa oferecer total visibilidade do processo, assim como o monitoramento em tempo real, depuração facilitada, e assim também a rápida identificação de erros.
 </details>
 
 <details>
 <summary>Desenvolvimento de Interfaces Gráficas</summary>
 <br>
 
-- **Interfaces com Vue.js:** Desenvolvi interfaces gráficas utilizando Vue.js, permitindo uma interação intuitiva e responsiva com a aplicação. As interfaces incluíam dashboards para visualização de dados, formulários para entrada de informações, e componentes visuais para a navegação na aplicação.
+Desenvolvi as interfaces gráficas da aplicação utilizando Vue.js, permitindo ao usuário uma forma facilitada e moderna utilizar todas as funcionalidades desenvolvidas. As interfaces incluíam os dashboards desenvolvidos em Power BI para os dados de consumo de Água e Energia, seção dedicada para a função que lida com o upload de arquivos para ETL, assim como a implementação da funcionalidade de alertas, que pode ser acessado a partir de qualquer local da aplicação, e que realiza requisições frequentes ao servidor, buscando sempre novas atualizações para mostrar ao usuário em tempo real qualquer alteração que for relevante de acordo com os requisitos estabelecidos pelo próprio cliente.
+
+- **Método para upload de múltiplos arquivos lado cliente:** para que seja realizado o processo de ETL e posteriormente a persistência desses dados no banco de dados, a function do frontend que lida com o upload de arquivos foi crucial para iniciar a funcionalidade principal da aplicação. Essa função é responsável por coletar o arquivo do usuário e enviá-lo para o backend através de uma requisição HTTP POST, e tem suporte para o envio de múltiplos arquivos simultaneamente, o que aumentou a complexidade do bloco de código, mas também permitiu uma experiência de usuário menos limitante. Enviar arquivos CSV corretamente ao backend é o ponto de partida do processo de ETL. Sem este passo, os dados brutos não poderiam ser extraídos, transformados e carregados no banco, interrompendo todo o fluxo de dados.
+- **Métodos para alertas de consumo:**
 </details>
 
 <details>
 <summary>Práticas de DevOps</summary>
 <br>
 
-- **Product Owner:** Assumi o papel de Product Owner, criando e priorizando o backlog do produto, garantindo que a equipe estivesse focada nas tarefas de maior valor para o cliente e alinhada com os objetivos do projeto.
+- **Conteinerização e Orquestramento dos sistemas da aplicação:**
+- **Análise Estática do Código:**
+- **Testes de Unidade:**
+- **Testes de Integração:**
+- **Deploy Automático:**
+- **Pipelines de CI:** 
 </details>
 </details>
 
