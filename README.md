@@ -737,10 +737,10 @@ Como a empresa possui uma base de dados de unidades, contratos, contas e concess
 
 - **Vue.js:** Escolhido para a construção das interfaces de usuário devido à sua reatividade e facilidade de integração com outras bibliotecas, além de sua simplicidade e eficiência na criação de interfaces reativas e componentes reutilizáveis.
 - **TypeScript:** Utilizado para adicionar tipagem estática ao JavaScript, melhorando a qualidade do código e facilitando a manutenção.
-- **PowerBI:** [*/Falta preencher/*]
-- **Node (NestJS):** utilizado para o backend por sua.... [*/Falta preencher/*]
+- **PowerBI:** Os dashboards foram desenvolvidos utilizando o PowerBI para visualização e análise de dados em séries temporais, com comparativos anuais e mensais para contas de Água e Energia. Foram integrados na interface web, permitindo ao usuário uma visualização dinâmica e personalizável dos dados de consumo de recursos.
+- **Node (NestJS):** Foi utilizado o NestJS no backend por sua estrutura modular, o que permitiu o desenvolvimento escalável e organizado da Rest API, facilitando a manutenção e a adição de novas funcionalidades. As rotas do servidor foram bem definidas e protegidas com métodos de autenticação e também com a limitação de acesso através do uso da política de `Cross Origin`.
 - **MySQL:** banco de dados relacional com suporte à projetos de *Datawarehouse*, permitindo assim que fosse utilizado a modelagem do esquema de estrela (ou *STAR*), com as tabelas `FATO` e `DIMENSÃO`, facilitando os procesos de carga no banco de dados.
-- **SCRUM:** Metodologia ágil adotada para gerenciar o projeto de forma iterativa e incremental, promovendo a colaboração e a adaptabilidade da equipe.
+- **SCRUM:** Como nas demais APIs, o SCRUM foi a Metodologia ágil adotada para gerenciar o projeto, focando na entrega contínua de funcionalidades com o avanço das sprints, dando prioridade àquilo que agregava maior valor ao cliente. Além disso, a estrutura bem definida entre Scrum Master, Product Owner e a equipe de desenvolvedores contribuiu para que cada integrante colaborasse ativamente em suas tarefas com um gerenciamento efetivo do progresso das sprints, assim como a rápida adaptabilidade às necessárias alterações percebidas no backlog ao longo do projeto.
 </details>
 
 <details>
@@ -764,20 +764,24 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram em sua mai
 
 Desenvolvi as interfaces gráficas da aplicação utilizando Vue.js, permitindo ao usuário uma forma facilitada e moderna utilizar todas as funcionalidades desenvolvidas. As interfaces incluíam os dashboards desenvolvidos em Power BI para os dados de consumo de Água e Energia, seção dedicada para a função que lida com o upload de arquivos para ETL, assim como a implementação da funcionalidade de alertas, que pode ser acessado a partir de qualquer local da aplicação, e que realiza requisições frequentes ao servidor, buscando sempre novas atualizações para mostrar ao usuário em tempo real qualquer alteração que for relevante de acordo com os requisitos estabelecidos pelo próprio cliente.
 
+Em relação ao Design da aplicação, o **User-centered Design** foi o princípio seguido. Tratando-se a aplicação de uma ferramenta de gerenciamento a ser utilizado apenas pela Tecsus e não por seus clientes, a interface embora intuitiva, busca no minimalismo responder às expectativas em relação à experiência do usuário, já que se trata de um software de uso administrativo.
+
 - **Método para upload de múltiplos arquivos lado cliente:** para que seja realizado o processo de ETL e posteriormente a persistência desses dados no banco de dados, a function do frontend que lida com o upload de arquivos foi crucial para iniciar a funcionalidade principal da aplicação. Essa função é responsável por coletar o arquivo do usuário e enviá-lo para o backend através de uma requisição HTTP POST, e tem suporte para o envio de múltiplos arquivos simultaneamente, o que aumentou a complexidade do bloco de código, mas também permitiu uma experiência de usuário menos limitante. Enviar arquivos CSV corretamente ao backend é o ponto de partida do processo de ETL. Sem este passo, os dados brutos não poderiam ser extraídos, transformados e carregados no banco, interrompendo todo o fluxo de dados.
-- **Métodos para alertas de consumo:**
+- **Métodos para alertas de consumo:** funcionalidade que facilitou a atualização em tempo real da interface do usuário com notificações e alertas baseados nos eventos do backend, como a conclusão de processos ETL. Após realizado novas cargas no banco, esses métodos que foram programados para realizarem requisições ao servidor constantemente permitem que dentro da interface web o usuário esteja sempre ciente de alterações que lhe são revelantes (de acordo com as regras de negócio estabelecidas). Foram desenvolvidas de forma a permitir que tanto as requisições quanto a visualização dos alertas pudessem serem transmitidas e recebidas em diferentes partes da aplicação, melhorando assim a experiência do usuário final, proporcionando feedback imediato sobre os novos dados gerados em decorrência da carga de um novo dataset processado pela cadeia de ETL.
 </details>
 
 <details>
 <summary>Práticas de DevOps</summary>
 <br>
 
-- **Conteinerização e Orquestramento dos sistemas da aplicação:**
-- **Análise Estática do Código:**
-- **Testes de Unidade:**
-- **Testes de Integração:**
-- **Deploy Automático:**
-- **Pipelines de CI:** 
+- **Conteinerização e Orquestramento dos sistemas da aplicação:** Utilizei `Docker` para criar containers da de todos os serviços independentes da aplicação, garantindo a portabilidade do sistema entre diferentes ambientes, assim como uma estabilidade desejada em fase de desenvolvimento. Além disso, utilizei o `Docker Compose` para gerenciar a orquestração e escalabilidade dos containers, e também garantir a ordem correta de inicialização dos mesmos, observando as dependências entre os serviços de banco de dados, frontend e backend. Como ao longo da fase de desenvolvimento o banco sofreu diversas alterações de sua arquitetura, o container do `MySQL` contava com um script de criação de tabelas, constraints e inserções iniciais, o que garantiu ao cliente e a todos os desenvolvedores envolvidos no projeto de terem sempre a versão real e atual do banco. 
+- **Análise Estática do Código:** Configurei o `SonarQube` para a realização de análise estática do frontend para avaliar a qualidade do código, identificando bugs e vulnerabilidades de segurança de forma proativa, assim como acompanhr as métricas de cobertura de código. Através desses relatórios, pude refatorar trechos apontados na análise, melhorando assim a robustez do produto.
+- **Testes de Unidade:** No frontend, desenvolvi testes de unidade utilizando a biblioteca `Vitest`, garantindo que cada componente da aplicação estivesse funcionando corretamente e isoladamente.
+- **Testes de Integração:** Também no frontend, implementei testes de integração com o uso do `Cypress` para verificar a interação entre os módulos e a comunicação com o lado servidor, simulando cenários reais de uso das funcionalidades.
+- **Deploy Automático:** No frontend, fui responsável também pela configuração do Deploy, que automaticamente era gerado assim que uma nova funcionalidade era testada, validada e integrada ao código-fonte. O deploy era realizado no `Github Pages`, e sua geração foi automatizada através de uma pipeline do `Github Actions` no qual solicitava ao desenvolvedor sua aprovação expressa para a execução do processo, garantindo um ciclo de desenvolvimento seguro e ágil.
+- **Pipelines de CI:** No backend e no frontend, fui responsável por implementar pipelines de CI através do `Github Actions`. Essas pipelines executavam automaticamente as builds, os testes de unidade e integração, detectando assim problemas o mais cedo possível, e a análise estática do código, identificando vulnerabilidades e pontos de melhoria, sempre que uma nova feature era enviada por `PULL REQUEST` ou `PUSH` ao código-fonte (branch `main`). Essas cadeias foram programadas de forma a evitar o regresso do projeto com features que pudessem trazer instabilidade à outras features já validadas, assim como garantir que a qualidade do código seria mantida. Por isso, caso a execução da pipeline falhasse, o `PULL REQUEST` ou `PUSH` seria rejeitado e as mudanças entrariam em um processo de uma nova revisão, até que permitisse a execução completa da pipeline sem apontar erros, garantindo a validação contínua das mudanças. O uso dessa prática assegurou a integridade daquilo que já estava muito bem implementado, além de trazer garantias ao cliente de que as regras de negócio estabelecidas estão sendo seguidas e que o produto final atenderá ao desejado.
+
+Com relação às pipelines de CI desenvolvidas, busquei documentar de forma extensiva toda a lógica implementada na Wiki do projeto, explicando cada passo da cadeia, o porquê de cada Action utilizada e os benefícios específicos para o fluxo de trabalho. A documentação completa [pode ser acessada aqui.](https://github.com/quarks-team/Projeto-Integrador-TecSUS/wiki/Pipelines-de-CI)
 </details>
 </details>
 
@@ -790,13 +794,11 @@ Desenvolvi as interfaces gráficas da aplicação utilizando Vue.js, permitindo 
 
 | Hard Skills           | Descrição                                                                                           |
 |-----------------------|-----------------------------------------------------------------------------------------------------|
-| **Testes de Unidade**            | [*/Falta preencher/*] |
-| **Testes de Integração**       | [*/Falta preencher/*] |
-| **Github Actions**        |[*/Falta preencher/*] |
-| **Análise Estática de Código**        | [*/Falta preencher/*] |
-| **Automação de Pipelines de CI**        | [*/Falta preencher/*] |
-| **Automação de Deploys**        | [*/Falta preencher/*] |
-| **Conteinerização e Orquestramento**        | [*/Falta preencher/*] |
+| **Vitest (Testes de Unidade)** | Desenvolvi proficiência em `Vitest` para criar testes de unidade robustos no frontend, validando individualmente componentes críticos e garantindo que cada unidade de código funcionasse isoladamente e sem interferências. Com o uso de mocks e stubs, fui capaz de simular diferentes cenários e aumentar a cobertura dos testes, chegando a impressionantes métricas acima de 75% de coverage. |
+| **Cypress (Testes de Integração)** | Tive a oportunidade de aprimorar meus conhecimentos em testes de integração no lado cliente ao utilizar o `Cypress` para testes de tipos como `Top-Down` e `Bottom-up`, simulando interações reais do usuário e validando a comunicação entre componentes. Configurei cenários complexos para testar desde rotas até interações com a API, garantindo que a aplicação mantivesse sua integridade e fluidez. |
+| **GitHub Actions (Pipelines de CI e Deploy Automáticos)** | Configurei pipelines de CI com GitHub Actions, automatizando processos críticos como execução de testes, validação de código, builds e deploys. Foi uma oportunidade de aumentar minha experiência utilizando a ferramenta nativa do Github, me dando uma nova perspectiva de boas práticas em desenvolvimento. Ao criar workflows customizados para cada etapa, incluindo gatilhos automáticos para validações a cada pull request e notificações de falhas, pude garantir um ciclo de desenvolvimento seguro e contínuo do projeto. |
+| **SonarQube (Análise Estática)** | Ao configurar e utilizar o SonarQube para realizar análise estática do código, identificando vulnerabilidades, bugs e code smells, aumentei minha compreensão geral de práticas de segurança e vícios de desenvolvimento que diminuem a qualidade final do código-fonte, experiência essa que me permitiu ser capaz de fazer análises mais precisas da minha própria forma de escrever e desenvolver software. Personalizei regras de análise conforme as boas práticas adotadas no projeto, gerando relatórios detalhados que permitiram correções rápidas e melhorias contínuas da qualidade. |
+| **Docker e Docker Compose** | O projeto foi uma ótima oportunidade para aprimorar ainda mais minhas habilidades de conteinirização e orquestração de serviços. Utilizei Docker para conteinerizar a aplicação e suas dependências, garantindo portabilidade e consistência. Configurei o Docker Compose para gerenciar a orquestração dos serviços, assegurando a correta ordem de inicialização e também a comunicação entre os containers, otimizando assim o fluxo de desenvolvimento. |
 </details>
 
 <details>
@@ -805,11 +807,11 @@ Desenvolvi as interfaces gráficas da aplicação utilizando Vue.js, permitindo 
   
 | Soft Skills                      | Descrição                                                                                           |
 |----------------------------------|-----------------------------------------------------------------------------------------------------|
-| **[*/Falta preencher/*]** | [*/Falta preencher/*]  |
-| **[*/Falta preencher/*]**  | [*/Falta preencher/*] |
-| **[*/Falta preencher/*]**        | [*/Falta preencher/*] |
-| **[*/Falta preencher/*]**          | [*/Falta preencher/*] |
-| **[*/Falta preencher/*]**            | [*/Falta preencher/*] |
+| **Adaptabilidade Técnica** | A constante necessidade de adotar novas ferramentas e padrões técnicos, como o Docker, NestJS, SonarQube e outras práticas de DevOps, me permitiu desenvolver uma maior flexibilidade e capacidade de adaptação a novos ambientes e tecnologias. |
+| **Monitoramento de Incidentes** | Durante o projeto, a capacidade de monitorar incidentes em tempo real foi essencial para detectar, diagnosticar e corrigir problemas críticos, mantendo a continuidade dos processos e a confiança do cliente, principalmente com o uso de práticas em DevOps e também nas medidas de depuração do processo de ETL que implementei. |
+| **Visão Estratégica de Projetos** | O envolvimento nas práticas de DevOps me permitiu entender melhor como as decisões técnicas impactam o ciclo de desenvolvimento como um todo, criando um processo mais eficiente e sustentável a longo prazo. |
+| **Gestão de Complexidade** | A execução de um projeto com múltiplas camadas de integração e automação exigiu a capacidade de gerenciar tarefas complexas de forma estruturada, garantindo a integração eficiente entre backend, frontend, e pipelines de DevOps. |
+| **Busca pela Melhoria Contínua** | Identifiquei oportunidades de melhoria nos processos de ETL e automação, propondo e implementando soluções que resultaram em maior eficiência e qualidade no desenvolvimento e operação da aplicação. |
 </details>
 </details>
 
