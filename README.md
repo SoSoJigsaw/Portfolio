@@ -275,6 +275,8 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 </details>            
 </details>
 
+<br>
+
 # Projeto Acadêmico 1 (API) – 2º Semestre de 2021
 
 - **Parceiro Aacadêmico:** Própria FATEC
