@@ -22,7 +22,7 @@
   </div>
 </div>
   
-Sou estudante do 6º semestre de Tecnologia em Banco de Dados na FATEC São José dos Campos, onde tive a oportunidade de aplicar conhecimentos acadêmicos em projetos práticos voltados ao mercado. Através da metodologia de Aprendizado por Projetos Integradores (API), desenvolvi soluções reais para empresas parceiras, aprimorando minhas habilidades técnicas em Python, Java, JavaScript/TypeScript e SQL (Oracle, SQL Server e PostgreSQL), além de fortalecer minha experiência em metodologias ágeis, como SCRUM.
+Sou estudante do 6º semestre de Tecnologia em Banco de Dados na FATEC São José dos Campos, onde tive a oportunidade de aplicar conhecimentos acadêmicos em projetos práticos voltados ao mercado. Através da metodologia de Aprendizado por Projetos Integradores (API), desenvolvi soluções reais para empresas parceiras, aprimorando minhas habilidades técnicas em Python, Java, JavaScript/TypeScript e PL/SQL (Oracle, SQL Server, PostgreSQL e MySQL), além de fortalecer minha experiência em metodologias ágeis, como SCRUM, assim como em práticas de DevOps.
 
 Essas experiências me prepararam para enfrentar desafios do mercado de tecnologia, onde a capacidade de solucionar problemas e a colaboração em equipe são tão valorizadas quanto o domínio técnico.
 </details>
@@ -37,52 +37,67 @@ Essas experiências me prepararam para enfrentar desafios do mercado de tecnolog
   Desenvolvo em Python desde 2021. Já utilizei a linguagem nos paradigmas procedural e orientado ao objeto. Utilizei o Python tanto para desenvolvimento web, utilizando para isso o microserviço Flask, quanto para análise e tratamento de dados, utilizando o Pandas e Numpy. Em alguns momentos, utilizei o Python também para automatizar processos, como alimentar o banco de dados com uma rotina usando SQLAlchemy para a conexão, e automatizar o processo de baixar uma base de dados disponibilizado em um site através de um script que usa Selenium para simular as ações em um navegador.
 
 Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para automação de tarefas, análise de dados e desenvolvimento web:
+  
   - **Flask** : Experiência na construção de APIs RESTful e aplicações web escaláveis.
+    
   - **Pandas** : Habilidade em manipulação, análise e visualização de grandes volumes de dados.
+    
   - **NumPy** : Capacidade de realizar operações matemáticas complexas e manipulação de arrays.
+    
   - **Data Cleaning** : Competência na limpeza e transformação de dados para garantir análises precisas.
+    
   - **Automação** : Proficiência em automatizar processos de coleta e processamento de dados.
+    
   - **Visualização de Dados** : Criação de dashboards interativos para facilitar a interpretação de dados. Criação de visualizações gráficas e não-gráficas desses dados.
 </details>
 
  <details> 
    <summary>Java</summary> 
    <br> 
-   Desenvolvo em Java desde 2022, e durante esse período aprofundei meus conhecimentos tanto em desenvolvimento de aplicações web quanto de aplicações desktop. Utilizei o framework **Spring Boot** para desenvolvimento de back-end, integrando-o ao **Hibernate** e ao **Spring Security** para gerenciar a persistência e segurança de dados. Além disso, usei **JavaFX** para criar interfaces gráficas em aplicações desktop, aplicando conceitos de **event handling** e **bindings** para otimizar a interação com o usuário.
+    Desenvolvo em Java desde 2022, e durante esse período aprofundei meus conhecimentos tanto em desenvolvimento de aplicações web quanto de aplicações desktop. Utilizei o framework Spring Boot para desenvolvimento de back-end, integrando-o ao Hibernate e ao Spring Security para gerenciar a persistência e segurança de dados. Além disso, usei JavaFX para criar interfaces gráficas em aplicações desktop, aplicando conceitos de event handling e bindings para otimizar a interação com o usuário.
 
   - **Spring Boot:** Desenvolvimento de APIs RESTful escaláveis e sistemas seguros utilizando práticas avançadas de desenvolvimento, como injeção de dependências, configuração automática e padrões de design.
+    
   - **Hibernate (JPA):** Capacidade de gerenciar a persistência de dados em bancos relacionais, utilizando mapeamento objeto-relacional e criação de consultas otimizadas.
+    
   - **Spring Security:** Implementação de segurança em aplicações web, utilizando autenticação JWT e controle de acesso com base em funções de usuário.
+    
   - **JavaFX:** Desenvolvimento de interfaces gráficas, incluindo a criação de componentes visuais personalizados e gestão de eventos.
 </details> 
 
 <details> 
   <summary>PL/SQL</summary> 
   <br> 
-  Tenho experiência com PL/SQL desde 2022, trabalhando com comandos DDL, DCL e DML. Além disso, realizei **modelagem de dados** nos níveis Conceitual, Lógico e Físico, criando bases de dados robustas para diferentes projetos. Minha experiência inclui trabalhar com **Oracle**, **SQL Server**, **PostgreSQL**, e **MySQL**, garantindo que a estrutura do banco de dados e as regras de negócio sejam mantidas com consistência.
+  Tenho experiência com PL/SQL desde 2022, trabalhando com comandos DDL, DCL e DML. Além disso, realizei modelagem de dados nos níveis Conceitual, Lógico e Físico, criando bases de dados robustas para diferentes projetos. Minha experiência inclui trabalhar com Oracle, SQL Server, PostgreSQL, e MySQL, garantindo que a estrutura do banco de dados e as regras de negócio sejam mantidas com consistência.
 
   - **Manipulação de Dados:** Criação e gerenciamento de tabelas, constraints e índices para otimização da performance e integridade dos dados.
+    
   - **Stored Procedures e Triggers:** Desenvolvimento de procedimentos armazenados para automação de processos de banco de dados e implementação de triggers para garantir regras de negócio.
+    
   - **Consultas Otimizadas:** Criação de consultas complexas e estratégias de indexação para manipular grandes volumes de dados e melhorar o tempo de resposta.
 </details> 
 
 <details> 
   <summary>JavaScript e TypeScript</summary> 
   <br> 
-  Trabalho com JavaScript desde 2022, e utilizo **TypeScript** para adicionar tipagem e melhorar a qualidade do código. Minha experiência se concentra no desenvolvimento de **interfaces de usuário** utilizando frameworks modernos, como **Vue.js** e **React.js**, além de criar **backends escaláveis** utilizando o **NestJS**.
+  Trabalho com JavaScript desde 2022, e utilizo TypeScript para adicionar tipagem e melhorar a qualidade do código. Minha experiência se concentra no desenvolvimento de interfaces de usuário utilizando frameworks modernos, como Vue.js e React.js, além de criar backends escaláveis utilizando o NestJS.
 
  - **Vue e React:** Desenvolvimento de interfaces de usuário reativas, utilizando componentes dinâmicos, directives e mixins para simplificação e reaproveitamento de código.
-  - **TypeScript:** Tipagem estática para garantir segurança e robustez no desenvolvimento de aplicativos web, facilitando a detecção de erros em tempo de desenvolvimento.
-  - **NestJS:** Desenvolvimento de APIs escaláveis e estruturadas, utilizando injeção de dependências e modularização para garantir uma organização clara do projeto.
-  - **DOM Manipulation:** Conhecimento profundo do funcionamento do DOM e manipulação direta para construir interações dinâmicas com a interface.
+   
+ - **TypeScript:** Tipagem estática para garantir segurança e robustez no desenvolvimento de aplicativos web, facilitando a detecção de erros em tempo de desenvolvimento.
+    
+ - **NestJS:** Desenvolvimento de APIs escaláveis e estruturadas, utilizando injeção de dependências e modularização para garantir uma organização clara do projeto.
+    
+ - **DOM Manipulation:** Conhecimento profundo do funcionamento do DOM e manipulação direta para construir interações dinâmicas com a interface.
 </details> 
 
 <details> 
   <summary>SCRUM</summary> 
   <br> 
-  Tenho contato com o SCRUM desde 2021, e desde então participei de vários projetos acadêmicos que adotaram essa metodologia ágil. Assumi diferentes funções na equipe, como **Scrum Master**, onde organizei e orientei a equipe, e **Product Owner (PO)**, onde fui responsável por priorizar as funcionalidades e alinhar as entregas com as necessidades do cliente.
+  Tenho contato com o SCRUM desde 2021, e desde então participei de vários projetos acadêmicos que adotaram essa metodologia ágil. Assumi diferentes funções na equipe, como Scrum Master, onde organizei e orientei a equipe, e Product Owner (PO), onde fui responsável por priorizar as funcionalidades e alinhar as entregas com as necessidades do cliente.
 
   - **Scrum Master:** Experiência em coordenar equipes e remover impedimentos, garantindo a produtividade e a eficiência do projeto.
+    
   - **Product Owner:** Habilidade de gerenciar o backlog do produto e garantir que as expectativas do cliente sejam atendidas em cada entrega.
 </details>
 
@@ -234,7 +249,7 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
                 </tr>  
                 <tr>
                       <td align="center"><img src="img/tecnologias/python.svg" width="50px" height="auto" align="center"></td>
-                      <td><em><b>Python</b></em></td>
+                      <td><em>Python</em></td>
                       <td>Avançado</td>
                 </tr>  
                 <tr>
