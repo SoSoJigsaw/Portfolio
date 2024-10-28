@@ -287,10 +287,14 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 <details>
 <summary>Visão do Projeto</summary>
 <br> 
-  
-![Foto do Projeto](https://raw.githubusercontent.com/SoSoJigsaw/Carcara/main/Sprint%201/picture/2%20new.jpg)
-![GIF do Projeto](https://raw.githubusercontent.com/SoSoJigsaw/Carcara/refs/heads/main/Sprint%201/GIFs/PANDEMIA%20ESTRUTURADA%20GIF%203.gif)
-![GIF do Projeto 2](https://raw.githubusercontent.com/SoSoJigsaw/Carcara/refs/heads/main/Sprint%201/GIFs/PANDEMIA%20ESTRUTURADA%20GIF%204.gif)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SoSoJigsaw/Carcara/refs/heads/main/Sprint%201/GIFs/PANDEMIA%20ESTRUTURADA%20GIF%203.gif" alt="Gif Projeto" width="1000px" height="auto" style="max-width: 100%x; height: auto;">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SoSoJigsaw/Carcara/refs/heads/main/Sprint%201/GIFs/PANDEMIA%20ESTRUTURADA%20GIF%204.gif" alt="Gif Projeto" width="1000px" height="auto" style="max-width: 100%; height: auto;">
+</p>
  
 - O problema central abordado pelo projeto foi a necessidade de monitoramento contínuo e preciso da pandemia de COVID-19. Com a grande quantidade de dados gerados diariamente, havia uma dificuldade em consolidar essas informações de forma acessível e útil para o cliente, que tinha um interesse por acompanhar o avanço da pandemia em nosso Estado.
   
@@ -392,8 +396,9 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 <summary>Visão do Projeto</summary>
 <br>
 
-![Foto do Projeto](https://github.com/fluffyfatec/Dom_Rock/raw/main/GIT/cabecario2.jpg)
-![GIF do Projeto](https://github.com/fluffyfatec/Dom_Rock/raw/main/GIT/prototipo.gif)
+<p align="center">
+  <img src="https://github.com/fluffyfatec/Dom_Rock/raw/main/GIT/prototipo.gif" alt="Gif Projeto" width="1000px" height="auto" style="max-width: 100%x; height: auto;">
+</p>
   
 - O objetivo foi desenvolver uma API robusta e eficiente para a gestão e análise de dados, que fosse capaz de suportar grandes volumes de informações e múltiplos usuários simultaneamente.
   
@@ -509,8 +514,9 @@ Projeto feito com a parceria da IACIT, uma empresa de São José dos Campos que 
 <summary>Visão do projeto</summary>
 <br>
 
-![Foto do Projeto](https://github.com/fluffyfatec/Iacit/raw/Sprint-1/GIT/cabecario%20(3).jpg)
-![GIF do Projeto](https://github.com/fluffyfatec/Iacit/raw/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif)
+<p align="center">
+  <img src="https://github.com/fluffyfatec/Iacit/raw/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif" alt="Gif Projeto" width="1000px" height="auto" style="max-width: 100%x; height: auto;">
+</p>
   
 Como a empresa trabalhava processando muitas informações manualmente, ela acabava por perder tempo, desperdiçando recursos com esse processo. Por isso, a empresa precisava da criação de um sistema que permitisse realizar a importação dos dados meteorológicos, bem como armazená- los em uma base de dados, para posteriormente gerar os relatórios desejados por seus clientes.
 
@@ -636,8 +642,9 @@ Projeto realizado em parceria com a Embraer, uma empresa especializada em soluç
 <summary>Visão do Projeto</summary>
 <br>
 
-![Foto do Projeto](https://github.com/fluffyfatec/Projeto-Integrador-Embraer/blob/main/GIT/head.jpeg)
-![Gif do Projeto](https://github.com/fluffyfatec/Projeto-Integrador-Embraer/raw/main/GIT/mockup-web.gif)
+<p align="center">
+  <img src="https://github.com/fluffyfatec/Projeto-Integrador-Embraer/raw/main/GIT/mockup-web.gif" alt="Gif Projeto" width="1000px" height="auto" style="max-width: 100%x; height: auto;">
+</p>
 
 - O objetivo foi desenvolver uma aplicação robusta e eficiente para a integração e gerenciamento de dados de aeronaves, contribuindo para a otimização das operações e manutenção.
   
@@ -764,8 +771,9 @@ Projeto realizado em parceria com a Tecsus. A Tecsus realiza a coleta e processa
 <summary>Visão do Projeto</summary>
 <br>
 
-![Foto do Projeto](https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/main/Documents/Mockup/DASHBOARD_1.png)
-![Gif do Projeto](https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/main/Documents/Gifs/gif-dash-agua.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/main/Documents/Gifs/gif-dash-agua.gif" alt="Gif Projeto" width="1000px" height="auto" style="max-width: 100%x; height: auto;">
+</p>
 
 Como a empresa possui uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, havia o interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado. Dessa forma, o projeto consistia no desenvolvimento de um dashboard web de alta complexidade para análise e exibição de dados de faturas de energia e água. 
 
