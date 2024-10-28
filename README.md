@@ -284,8 +284,8 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 
 <details>
 <summary>Visão do Projeto</summary>
-<br>
-
+<br> 
+  
 ![Foto do Projeto](https://raw.githubusercontent.com/SoSoJigsaw/Carcara/main/Sprint%201/picture/2%20new.jpg)
 ![GIF do Projeto](https://raw.githubusercontent.com/SoSoJigsaw/Carcara/refs/heads/main/Sprint%201/GIFs/PANDEMIA%20ESTRUTURADA%20GIF%203.gif)
 ![GIF do Projeto 2](https://raw.githubusercontent.com/SoSoJigsaw/Carcara/refs/heads/main/Sprint%201/GIFs/PANDEMIA%20ESTRUTURADA%20GIF%204.gif)
@@ -299,7 +299,6 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 
 <details>
 <summary>Funcionalidades</summary>
-<br>
   
 - **Páginas Informativas:** O sistema fornecia informações detalhadas sobre casos e óbitos, taxa de vacinação e leitos disponíveis, oferecendo esses dados de maneira acessível e direta aos usuários.
   
@@ -310,7 +309,6 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 
 <details>
 <summary>Tecnologias adotadas na solução</summary>
-<br>
   
 - **Python**: Fundamental para o desenvolvimento dos scripts de coleta e processamento de dados. A linguagem foi escolhida por sua simplicidade e poderosas bibliotecas para análise de dados.
   
@@ -326,6 +324,7 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 <details>
 <summary>Contribuições Individuais</summary>
 <br>
+  
 Minhas principais contribuições para o projeto incluíram:
 
 - **Desenvolvimento de Scripts de Coleta de Dados**:
@@ -403,7 +402,6 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 
 <details>
 <summary>Funcionalidades</summary>
-<br>
   
 - **Gestão de Clientes:** O sistema permite registrar todas as informações dos clientes, incluindo detalhes de contato e endereço. Isso facilita a administração do relacionamento com o cliente, oferecendo uma visão consolidada e de fácil acesso.
   
@@ -416,7 +414,6 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 
 <details>
 <summary>Tecnologias adotadas na solução</summary>
-<br>
 
 - **Java:** Escolhida pela sua robustez, portabilidade e vasto ecossistema de bibliotecas e frameworks, facilitando o desenvolvimento de aplicações escaláveis e de alta performance.
   
@@ -522,7 +519,6 @@ Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que
 
 <details>
 <summary>Funcionalidades</summary>
-<br>
   
 - **Cadastro de Estados e Regiões:** O cadastro de Estados e Regiões proporciona uma organização precisa das operações, permitindo análises específicas por região e melhorando significativamente a contextualização das informações.
   
@@ -533,7 +529,6 @@ Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que
 
 <details>
 <summary>Tecnologias adotadas na solução</summary>
-<br>
 
 - **HTML5 / CSS3 / Javascript (EC6)** : O front- end da aplicação foi desenvolvida em HTML para marcação de hipertexto, CSS3 para estilização da página, e Javascript (EC6) para utilização do AJAX, permitindo assim enviar e receber dados assincronamente do servidor web e evitar o recarregamento da página inteira sem a necessidade de uma nova solicitação, também para criar paginação personalizada, utilizar jsPDF para a geração de PDFs dos gráficos, e enviar variáveis ao servidor por requisições GET através da url da página.
   
@@ -651,7 +646,6 @@ Projeto realizado em parceria com a Embraer, uma empresa especializada em soluç
 
 <details>
 <summary>Funcionalidades</summary>
-<br>
   
 - **Dashboard Administrativo:** interface dentro da aplicação dedicada e de acesso limitado aos usuários administradores, onde eles podem ter ciência de todos os usuários cadastrados, e também supervisionar todos os acessos à aplicação.
   
@@ -668,7 +662,6 @@ Projeto realizado em parceria com a Embraer, uma empresa especializada em soluç
 
 <details>
 <summary>Tecnologias adotadas na solução</summary>
-<br>
 
 - **Vue.js:** Escolhido para a construção das interfaces de usuário devido à sua reatividade e facilidade de integração com outras bibliotecas, além de sua simplicidade e eficiência na criação de interfaces reativas e componentes reutilizáveis.
   
@@ -783,7 +776,6 @@ Como a empresa possui uma base de dados de unidades, contratos, contas e concess
 
 <details>
 <summary>Funcionalidades</summary>
-<br>
   
 - **Automação no Processo de ETL:** Além da criação de um script de extração automatizada de dados de diferentes fontes (e.g., arquivos CSV, APIs), o processo de ETL foi também totalmente automatizado dentro da API do software, permitindo processos de carga de dados no banco de dados centralizado a cada nova atualização, a partir da inserção manual de arquivos pelo usuário, funcionalidade garantida através de um método `POST` na interface web.
   
@@ -798,8 +790,7 @@ Como a empresa possui uma base de dados de unidades, contratos, contas e concess
 
 <details>
 <summary>Tecnologias adotadas na solução</summary>
-<br>
-
+  
 - **Vue.js:** Escolhido para a construção das interfaces de usuário devido à sua reatividade e facilidade de integração com outras bibliotecas, além de sua simplicidade e eficiência na criação de interfaces reativas e componentes reutilizáveis.
   
 - **TypeScript:** Utilizado para adicionar tipagem estática ao JavaScript, melhorando a qualidade do código e facilitando a manutenção.
