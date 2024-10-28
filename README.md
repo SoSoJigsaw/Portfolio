@@ -2,12 +2,12 @@
 
 | Índice das APIs                    |
 |-----------------------------------|
-| ![Projeto Acadêmico 1 (API) – 2º Semestre de 2021](#projeto-acadêmico-1-api--2o-semestre-de-2021) |
-| ![Projeto Acadêmico 2 (API) – 1º Semestre de 2022](#projeto-acadêmico-2-api--1o-semestre-de-2022) |
-| ![Projeto Acadêmico 3 (API) – 2º Semestre de 2022](#projeto-acadêmico-3-api--2o-semestre-de-2022) |
-| ![Projeto Acadêmico 4 (API) – 1º Semestre de 2023](#projeto-acadêmico-4-api--1o-semestre-de-2023) |
-| ![Projeto Acadêmico 5 (API) – 1º Semestre de 2024](#projeto-acadêmico-5-api--1o-semestre-de-2024) |
-| ![Projeto Acadêmico 6 (API) – 2º Semestre de 2024](#projeto-acadêmico-6-api--2o-semestre-de-2024) |
+| [Projeto Acadêmico 1 (API) – 2º Semestre de 2021](#projeto-acadêmico-1-api--2º-semestre-de-2021) |
+| [Projeto Acadêmico 2 (API) – 1º Semestre de 2022](#projeto-acadêmico-2-api--1º-semestre-de-2022) |
+| [Projeto Acadêmico 3 (API) – 2º Semestre de 2022](#projeto-acadêmico-3-api--2º-semestre-de-2022) |
+| [Projeto Acadêmico 4 (API) – 1º Semestre de 2023](#projeto-acadêmico-4-api--1º-semestre-de-2023) |
+| [Projeto Acadêmico 5 (API) – 1º Semestre de 2024](#projeto-acadêmico-5-api--1º-semestre-de-2024) |
+| [Projeto Acadêmico 6 (API) – 2º Semestre de 2024](#projeto-acadêmico-6-api--2º-semestre-de-2024) |
 
 
 <details>
