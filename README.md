@@ -380,7 +380,7 @@ Minhas principais contribuições para o projeto incluíram:
 - **Parceiro Acadêmico:** Dom Rock
 
 <p align="center">
-  <img src="https://github.com/SoSoJigsaw/Portfolio/blob/main/img/domrock.png" alt="Logo Parceiro" width="480px" height="150px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
+  <img src="https://github.com/SoSoJigsaw/Portfolio/blob/main/img/domrock.png" alt="Logo Parceiro" width="500px" height="180px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
 </p>
 
 Projeto realizado em parceria com a Dom Rock, uma empresa especializada em soluções de Big Data e Inteligência Artificial.
@@ -498,7 +498,7 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 - **Parceiro Acadêmico:** IACIT
 
 <p align="center">
-  <img src="https://www.iacit.com.br/imgs/meta-image.jpg" alt="Logo Parceiro" width="480px" height="150px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
+  <img src="https://www.iacit.com.br/imgs/meta-image.jpg" alt="Logo Parceiro" width="500px" height="180px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
 </p>
 
 Projeto feito com a parceria da IACIT, uma empresa de São José dos Campos que presta consultoria meteorológica, sendo que um de seus serviços atuais é fornecer aos clientes relatórios customizados de dados meteorológicos.
@@ -625,7 +625,7 @@ No front-end, eu ajudei em partes da estilização das páginas. No entanto, fui
 - **Parceiro Acadêmico:** Embraer
 
 <p align="center">
-  <img src="https://www.cnnbrasil.com.br/wp-content/uploads/2021/06/41152_476791AAE41C3D25.jpg" alt="Logo Parceiro" width="480px" height="150px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
+  <img src="https://www.cnnbrasil.com.br/wp-content/uploads/2021/06/41152_476791AAE41C3D25.jpg" alt="Logo Parceiro" width="500px" height="180px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
 </p>
 
 Projeto realizado em parceria com a Embraer, uma empresa especializada em soluções de aeronáutica, defesa e segurança, proporcionando inovações tecnológicas para o setor aeroespacial.
@@ -753,7 +753,7 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 - **Parceiro Acadêmico:** Tecsus
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIMd9iYIaPjbomOsnFoO5IecpJ4lwQywVOg&s" alt="Logo Parceiro" width="480px" height="150px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIMd9iYIaPjbomOsnFoO5IecpJ4lwQywVOg&s" alt="Logo Parceiro" width="500px" height="180px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
 </p>
 
 Projeto realizado em parceria com a Tecsus. A Tecsus realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos. 
