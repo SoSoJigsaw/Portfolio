@@ -37,41 +37,71 @@ Essas experiências me prepararam para enfrentar desafios do mercado de tecnolog
   Desenvolvo em Python desde 2021. Já utilizei a linguagem nos paradigmas procedural e orientado ao objeto. Utilizei o Python tanto para desenvolvimento web, utilizando para isso o microserviço Flask, quanto para análise e tratamento de dados, utilizando o Pandas e Numpy. Em alguns momentos, utilizei o Python também para automatizar processos, como alimentar o banco de dados com uma rotina usando SQLAlchemy para a conexão, e automatizar o processo de baixar uma base de dados disponibilizado em um site através de um script que usa Selenium para simular as ações em um navegador.
 
 Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para automação de tarefas, análise de dados e desenvolvimento web:
-- **Flask** : Experiência na construção de APIs RESTful e aplicações web escaláveis.
-- **Pandas** : Habilidade em manipulação, análise e visualização de grandes volumes de dados.
-- **NumPy** : Capacidade de realizar operações matemáticas complexas e manipulação de arrays.
-- **Data Cleaning** : Competência na limpeza e transformação de dados para garantir análises precisas.
-- **Automação** : Proficiência em automatizar processos de coleta e processamento de dados.
-- **Visualização de Dados** : Criação de dashboards interativos para facilitar a interpretação de dados. Criação de visualizações gráficas e não-gráficas desses dados.
+  - **Flask** : Experiência na construção de APIs RESTful e aplicações web escaláveis.
+  - **Pandas** : Habilidade em manipulação, análise e visualização de grandes volumes de dados.
+  - **NumPy** : Capacidade de realizar operações matemáticas complexas e manipulação de arrays.
+  - **Data Cleaning** : Competência na limpeza e transformação de dados para garantir análises precisas.
+  - **Automação** : Proficiência em automatizar processos de coleta e processamento de dados.
+  - **Visualização de Dados** : Criação de dashboards interativos para facilitar a interpretação de dados. Criação de visualizações gráficas e não-gráficas desses dados.
 </details>
 
+ <details> 
+   <summary>Java</summary> 
+   <br> 
+   Desenvolvo em Java desde 2022, e durante esse período aprofundei meus conhecimentos tanto em desenvolvimento de aplicações web quanto de aplicações desktop. Utilizei o framework **Spring Boot** para desenvolvimento de back-end, integrando-o ao **Hibernate** e ao **Spring Security** para gerenciar a persistência e segurança de dados. Além disso, usei **JavaFX** para criar interfaces gráficas em aplicações desktop, aplicando conceitos de **event handling** e **bindings** para otimizar a interação com o usuário.
 
-  <details>
-  <summary>Java</summary>
-<br>
-Desenvolvo em Java desde 2022. Utilizei a linguagem principalmente para desenvolver o back-end de aplicações web, utilizando para isso o framework Spring Boot com o auxílio do Hibernate, e aplicações desktop, utilizando para isso o JavaFX.
+  - **Spring Boot:** Desenvolvimento de APIs RESTful escaláveis e sistemas seguros utilizando práticas avançadas de desenvolvimento, como injeção de dependências, configuração automática e padrões de design.
+  - **Hibernate (JPA):** Capacidade de gerenciar a persistência de dados em bancos relacionais, utilizando mapeamento objeto-relacional e criação de consultas otimizadas.
+  - **Spring Security:** Implementação de segurança em aplicações web, utilizando autenticação JWT e controle de acesso com base em funções de usuário.
+  - **JavaFX:** Desenvolvimento de interfaces gráficas, incluindo a criação de componentes visuais personalizados e gestão de eventos.
+</details> 
+
+<details> 
+  <summary>PL/SQL</summary> 
+  <br> 
+  Tenho experiência com PL/SQL desde 2022, trabalhando com comandos DDL, DCL e DML. Além disso, realizei **modelagem de dados** nos níveis Conceitual, Lógico e Físico, criando bases de dados robustas para diferentes projetos. Minha experiência inclui trabalhar com **Oracle**, **SQL Server**, **PostgreSQL**, e **MySQL**, garantindo que a estrutura do banco de dados e as regras de negócio sejam mantidas com consistência.
+
+  - **Manipulação de Dados:** Criação e gerenciamento de tabelas, constraints e índices para otimização da performance e integridade dos dados.
+  - **Stored Procedures e Triggers:** Desenvolvimento de procedimentos armazenados para automação de processos de banco de dados e implementação de triggers para garantir regras de negócio.
+  - **Consultas Otimizadas:** Criação de consultas complexas e estratégias de indexação para manipular grandes volumes de dados e melhorar o tempo de resposta.
+</details> 
+
+<details> 
+  <summary>JavaScript e TypeScript</summary> 
+  <br> 
+  Trabalho com JavaScript desde 2022, e utilizo **TypeScript** para adicionar tipagem e melhorar a qualidade do código. Minha experiência se concentra no desenvolvimento de **interfaces de usuário** utilizando frameworks modernos, como **Vue.js** e **React.js**, além de criar **backends escaláveis** utilizando o **NestJS**.
+
+ - **Vue e React:** Desenvolvimento de interfaces de usuário reativas, utilizando componentes dinâmicos, directives e mixins para simplificação e reaproveitamento de código.
+  - **TypeScript:** Tipagem estática para garantir segurança e robustez no desenvolvimento de aplicativos web, facilitando a detecção de erros em tempo de desenvolvimento.
+  - **NestJS:** Desenvolvimento de APIs escaláveis e estruturadas, utilizando injeção de dependências e modularização para garantir uma organização clara do projeto.
+  - **DOM Manipulation:** Conhecimento profundo do funcionamento do DOM e manipulação direta para construir interações dinâmicas com a interface.
+</details> 
+
+<details> 
+  <summary>SCRUM</summary> 
+  <br> 
+  Tenho contato com o SCRUM desde 2021, e desde então participei de vários projetos acadêmicos que adotaram essa metodologia ágil. Assumi diferentes funções na equipe, como **Scrum Master**, onde organizei e orientei a equipe, e **Product Owner (PO)**, onde fui responsável por priorizar as funcionalidades e alinhar as entregas com as necessidades do cliente.
+
+  - **Scrum Master:** Experiência em coordenar equipes e remover impedimentos, garantindo a produtividade e a eficiência do projeto.
+  - **Product Owner:** Habilidade de gerenciar o backlog do produto e garantir que as expectativas do cliente sejam atendidas em cada entrega.
 </details>
 
+<details> 
+  <summary>DevOps e Práticas de Desenvolvimento</summary> 
+  <br> 
+  Tenho experiência prática em DevOps, adquirida ao longo de diversos projetos em que implementei e mantive processos e pipelines de CI/CD, conteinerização de aplicações, análise de qualidade de código e automação de deploys. Utilizo uma combinação de ferramentas e práticas para garantir a rastreabilidade, qualidade e eficiência no ciclo de desenvolvimento de software.
 
-<details>
-<summary>PL/SQL</summary>
-<br>
-Utilizo o PL/SQL desde 2022, já tendo contato com comandos DDL, DCL e DML da linguagem. Relacionado a isso, eu já arquitetei a modelagem do banco de dados nos modelos Conceitual, Lógico e Físico. Em se tratando de SGBDs, tive experiência com os bancos Oracle, SQL Server e PostgreSQL, criando tabelas, fazendo o insert de novos dados, criando constraints e regras gerais do banco, e administrando o banco de uma forma geral.
-</details>
+  - **Docker e Docker Compose:** Conhecimento aprofundado em Docker para criar containers de aplicações e suas dependências, garantindo portabilidade e consistência entre ambientes de desenvolvimento, teste e produção. Utilizo o Docker Compose para orquestrar e gerenciar múltiplos serviços de forma integrada, configurando volumes, redes e dependências de inicialização.
 
+  - **Testes de Unidade e Integração:** Desenvolvo testes de unidade utilizando diversos frameworks de diferentes linguagens de programação para garantir a qualidade isolada dos componentes no frontend e das camadas no backend. Nos testes de integração, busco simular cenários complexos e validar a interação entre os módulos do sistema.
 
-<details>
-<summary>SCRUM</summary>
-<br>
-Tenho contato com o SCRUM desde o primeiro semestre da faculdade, em 2021, sendo que desde então todos os projetos acadêmicos em que participei utilizaram essa metodologia ágil para o gerenciamento da equipe como requisito. Tive experiência como Scrum Master da equipe, onde assumi o posto de líder responsável por organizar a equipe e buscar soluções para as dificuldades apresentadas. Fui também Product Owner (PO) em duas oportunidades, sendo responsável pelo desenvolvimento do produto ao criar o backlog, e pelo diálogo com o cliente em busca de atender as suas necessidades.
-</details>
+  - **Análise Estática de Código com SonarQube:** Configuro o SonarQube para realizar análises de qualidade de código, identificando bugs, vulnerabilidades de segurança e melhorias potenciais. Personalizo regras de análise e acompanho métricas como cobertura de código, complexity e duplicidade, além de integrar a análise do Sonar à pipelines de CI/CD, garantindo a análise constante para evitar regressões, bugs e outras ocorrências indesejadas.
 
-<details>
-<summary>JavaScript e TypeScript</summary>
-<br>
-Desenvolvo com javascript desde 2022, tendo pleno conhecimento tanto dos frameworks de backend quantos os de frontend.
-Compreendo perfeitamente todos os conceitos web como o DOM, e conceitos específicos dos frameworks mais utilizados pelo 
-mercado ultimamente, como a modularização, presente por exemplo no vue.js e react.
+ - **Automação de Pipelines de CI/CD com GitHub Actions:** Crio pipelines automatizadas utilizando GitHub Actions, incluindo tarefas de build, execução de testes, verificação de qualidade de código, deploy automático e monitoramento de falhas. Busca criar gatilhos automáticos em eventos de push e pull_request, garantindo um ciclo de desenvolvimento seguro e contínuo.
+
+- **Versionamento e Rastreamento com Git e GitHub:** Experiência no uso avançado do Git para controle de versão, gerenciamento de branches e realização de merges complexos. No GitHub, utilizo recursos como pull requests, GitHub Issues e GitHub Projects para organizar e rastrear o progresso do projeto de forma colaborativa.
+
+- **Documentação Técnica e Boas Práticas:** Preocupação constante com a criação de documentações claras e extensivas, utilizando a Wiki do GitHub para registrar configurações, práticas de DevOps e fluxos de trabalho críticos. Criação de orientações e guidelines para garantir um entendimento completo e padronizado das práticas e ferramentas utilizadas por toda a equipe.
 </details>
 
 <details>
@@ -90,7 +120,6 @@ mercado ultimamente, como a modularização, presente por exemplo no vue.js e re
                     <th></th>
                     <th>Tecnologia</th>
                     <th>Experiência</th>
-                    <th>Tempo de Uso</th>
                 </tr>
             </thead>
             <tbody>
@@ -98,13 +127,11 @@ mercado ultimamente, como a modularização, presente por exemplo no vue.js e re
                     <td align="center"><img src="img/tecnologias/java.svg" width="75px" height="auto" align="center"></td>
                     <td><em>Java</em></td>
                     <td>Avançado</td>
-                    <td>5 anos</td>
                 </tr>
                 <tr>
                     <td align="center"><img src="img/tecnologias/springboot.svg" width="50px" height="auto" align="center"></td>
                     <td><em>SpringBoot</em></td>
                     <td>Avançado</td>
-                    <td>4 anos</td>
                 </tr>
                 <tr>
                       <td align="center">
@@ -114,13 +141,11 @@ mercado ultimamente, como a modularização, presente por exemplo no vue.js e re
                       </td>
                       <td><em>JPA e Hibernate</em></td>
                       <td>Avançado</td>
-                      <td>4 anos</td>
                 </tr>
                 <tr>
                       <td align="center"><img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" width="50px" height="auto" align="center"></td>
                       <td><em>SpringBoot Security</em></td>
                       <td>Avançado</td>
-                      <td>4 anos</td>
                 </tr>
                 <tr>
                       <td align="center">
@@ -131,19 +156,16 @@ mercado ultimamente, como a modularização, presente por exemplo no vue.js e re
                       </td>
                       <td><em>SQL e PL/SQL</em></td>
                       <td>Avançado</td>
-                      <td>5 anos</td>
                 </tr>
                 <tr>
                       <td align="center"><img src="img/tecnologias/junit.png" width="50px" height="auto" align="center"></td>
                       <td><em>JUnit5</em></td>
                       <td>Intermediário</td>
-                      <td>1 ano</td>
                 </tr>
                 <tr>
                       <td align="center"><img src="img/tecnologias/mockito.png" width="150px" height="auto" align="center"></td>
                       <td><em>Mockito</em></td>
                       <td>Intermediário</td>
-                      <td>1 ano</td>
                 </tr>
                 <tr>
                       <td align="center">
@@ -154,104 +176,87 @@ mercado ultimamente, como a modularização, presente por exemplo no vue.js e re
                       </td> 
                       <td><em>Git e Github</em></td>
                       <td>Avançado</td>
-                      <td>5 anos</td>
                 </tr>
                 <tr>
                       <td align="center"><img src="img/tecnologias/scrum.png" width="50px" height="auto" align="center"></td>
                       <td><em>Metodologia Ágil Scrum</em></td>
                       <td>Avançado</td>
-                      <td>4 anos</td>
                 </tr>  
                 <tr>
                       <td align="center"><img src="img/tecnologias/docker.svg" width="50px" height="auto"></td>
                       <td><em>Docker</em></td>
                       <td>Intermediário</td>
-                      <td>1 ano</td>
                 </tr>  
                 <tr>
                       <td align="center"><img src="img/tecnologias/docker-compose.png" width="75px" height="auto" align="center"></td>
                       <td><em>Docker Compose</em></td>
                       <td>Intermediário</td>
-                      <td>1 ano</td>
                 </tr> 
                 <tr>
                       <td align="center"><img src="img/tecnologias/apache-kafka.png" width="50px" height="auto" align="center"></td>
                       <td><em>Apache Kafka</em></td>
                       <td>Intermediário</td>
-                      <td>1 ano</td>
                 </tr>  
                 <tr>
                       <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50px" height="auto" align="center"></td>
                       <td><em>JavaScript</em></td>
                       <td>Avançado</td>
-                      <td>3 anos</td>
                 </tr>  
                 <tr>
                       <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50px" height="auto" align="center"></td>
                       <td><em>TypeScript</em></td>
                       <td>Avançado</td>
-                      <td>2 anos</td>
                 </tr>
                 <tr>
                       <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50px" height="auto" align="center"></td>
                       <td><em>Vue.js</em></td>
                       <td>Avançado</td>
-                      <td>3 anos</td>
                 </tr>
                 <tr>
                       <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50px" height="auto" align="center"></td>
                       <td><em>React.js</em></td>
                       <td>Intermediário</td>
-                      <td>1 ano</td>
                 </tr>
                 <tr>
                       <td align="center"><img src="img/tecnologias/css3.svg" width="50px" height="auto" align="center"></td>
                       <td><em>CSS3</em></td>
                       <td>Avançado</td>
-                      <td>5 anos</td>
                 </tr>
                 <tr>
                       <td align="center"><img src="img/tecnologias/html5.svg" width="50px" height="auto" align="center"></td>
                       <td><em>HTML5</em></td>
                       <td>Avançado</td>
-                      <td>5 anos</td>
                 </tr>  
                 <tr>
                       <td align="center"><img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" width="75px" height="auto" align="center"></td>
                       <td><em>JavaFx</em></td>
                       <td>Intermediário</td>
-                      <td>2 anos</td>
                 </tr>  
                 <tr>
                       <td align="center"><img src="img/tecnologias/python.svg" width="50px" height="auto" align="center"></td>
                       <td><em><b>Python</b></em></td>
                       <td>Avançado</td>
-                      <td>5 anos</td>
                 </tr>  
                 <tr>
                       <td align="center"><img src="img/tecnologias/flask-python.png" width="50px" height="auto" align="center" 
                                            filter: sepia(100%) hue-rotate(60deg) brightness(0.6) saturate(5);></td>
                       <td><em>Flask</em></td>
                       <td>Avançado</td>
-                      <td>4 anos</td>
                 </tr>  
                 <tr>
                       <td align="center"><img src="img/tecnologias/pandas.png" width="150px" height="auto" align="center"></td>
                       <td><em>Pandas</em></td>
                       <td>Avançado</td>
-                      <td>3 anos</td>
                 </tr>  
                 <tr>
                       <td align="center"><img src="img/tecnologias/sqlAlchmy.png" width="150px" height="auto" align="center"></td>
                       <td><em>SQLAlchemy</em></td>
                       <td>Avançado</td>
-                      <td>4 anos</td>
                 </tr>   
                 <tr>
                       <td align="center"><img src="img/tecnologias/selenium.png" width="50px" height="auto" align="center"></td>
                       <td><em>Selenium</em></td>
                       <td>Intermediário</td>
-                      <td>3 anos</td>
                 </tr>   
             </div>
             </tbody>
@@ -799,6 +804,7 @@ Com relação às pipelines de CI desenvolvidas, busquei documentar de forma ext
 | **GitHub Actions (Pipelines de CI e Deploy Automáticos)** | Configurei pipelines de CI com GitHub Actions, automatizando processos críticos como execução de testes, validação de código, builds e deploys. Foi uma oportunidade de aumentar minha experiência utilizando a ferramenta nativa do Github, me dando uma nova perspectiva de boas práticas em desenvolvimento. Ao criar workflows customizados para cada etapa, incluindo gatilhos automáticos para validações a cada pull request e notificações de falhas, pude garantir um ciclo de desenvolvimento seguro e contínuo do projeto. |
 | **SonarQube (Análise Estática)** | Ao configurar e utilizar o SonarQube para realizar análise estática do código, identificando vulnerabilidades, bugs e code smells, aumentei minha compreensão geral de práticas de segurança e vícios de desenvolvimento que diminuem a qualidade final do código-fonte, experiência essa que me permitiu ser capaz de fazer análises mais precisas da minha própria forma de escrever e desenvolver software. Personalizei regras de análise conforme as boas práticas adotadas no projeto, gerando relatórios detalhados que permitiram correções rápidas e melhorias contínuas da qualidade. |
 | **Docker e Docker Compose** | O projeto foi uma ótima oportunidade para aprimorar ainda mais minhas habilidades de conteinirização e orquestração de serviços. Utilizei Docker para conteinerizar a aplicação e suas dependências, garantindo portabilidade e consistência. Configurei o Docker Compose para gerenciar a orquestração dos serviços, assegurando a correta ordem de inicialização e também a comunicação entre os containers, otimizando assim o fluxo de desenvolvimento. |
+| **Documentação Técnica** | Desenvolvi habilidades de documentação técnica utilizando a Wiki do GitHub para registrar detalhadamente processos críticos, como a configuração das pipelines de CI e práticas de DevOps. Esta habilidade inclui a capacidade de descrever fluxos de trabalho complexos, detalhar as ações e ferramentas utilizadas, além de fornecer orientações claras para futuras manutenções e melhorias no projeto. A documentação completa serviu como uma base de conhecimento para a equipe e garantiu uma transição mais suave e padronizada entre diferentes fases de desenvolvimento. |
 </details>
 
 <details>
@@ -812,6 +818,7 @@ Com relação às pipelines de CI desenvolvidas, busquei documentar de forma ext
 | **Visão Estratégica de Projetos** | O envolvimento nas práticas de DevOps me permitiu entender melhor como as decisões técnicas impactam o ciclo de desenvolvimento como um todo, criando um processo mais eficiente e sustentável a longo prazo. |
 | **Gestão de Complexidade** | A execução de um projeto com múltiplas camadas de integração e automação exigiu a capacidade de gerenciar tarefas complexas de forma estruturada, garantindo a integração eficiente entre backend, frontend, e pipelines de DevOps. |
 | **Busca pela Melhoria Contínua** | Identifiquei oportunidades de melhoria nos processos de ETL e automação, propondo e implementando soluções que resultaram em maior eficiência e qualidade no desenvolvimento e operação da aplicação. |
+| **Compromisso com a Transferência de Conhecimento** | A criação de documentações detalhadas e a preocupação em registrar práticas e configurações complexas demonstram meu compromisso em compartilhar conhecimento e garantir que as informações essenciais do projeto estejam acessíveis para toda a equipe e, também, para futuros desenvolvedores. Essa habilidade foi desenvolvida para fomentar um ambiente colaborativo e também a ideia de "comunidade" entre os desenvolvedores, levando em consideração que este foi um projeto de código aberto, onde todos têm acesso a um material de apoio confiável para entender as práticas adotadas, realizar melhorias contínuas e refatorar trechos eventualmente necessários do código de forma facilitada. |
 </details>
 </details>
 
