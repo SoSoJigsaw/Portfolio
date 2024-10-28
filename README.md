@@ -38,6 +38,10 @@
 Sou estudante do 6º semestre de Tecnologia em Banco de Dados na FATEC São José dos Campos, onde tive a oportunidade de aplicar conhecimentos acadêmicos em projetos práticos voltados ao mercado. Através da metodologia de Aprendizado por Projetos Integradores (API), desenvolvi soluções reais para empresas parceiras, aprimorando minhas habilidades técnicas em Python, Java, JavaScript/TypeScript e PL/SQL (Oracle, SQL Server, PostgreSQL e MySQL), além de fortalecer minha experiência em metodologias ágeis, como SCRUM, assim como em práticas de DevOps.
 
 Essas experiências me prepararam para enfrentar desafios do mercado de tecnologia, onde a capacidade de solucionar problemas e a colaboração em equipe são tão valorizadas quanto o domínio técnico.
+
+<br>
+
+<p align="right">(<a href="#top">Voltar ao Topo</a>)</p>
 </details>
 
 
