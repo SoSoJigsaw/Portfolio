@@ -380,7 +380,7 @@ Minhas principais contribuições para o projeto incluíram:
 
 - **Parceiro Acadêmico:** Dom Rock
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/SoSoJigsaw/Portfolio/blob/main/img/domrock.png" alt="Logo Parceiro" width="480px" height="150px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
 </p>
 
@@ -500,7 +500,7 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 
 - **Parceiro Acadêmico:** IACIT
 
-<p align="left">
+<p align="center">
   <img src="https://www.iacit.com.br/imgs/meta-image.jpg" alt="Logo Parceiro" width="480px" height="150px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
 </p>
 
@@ -629,7 +629,7 @@ No front-end, eu ajudei em partes da estilização das páginas. No entanto, fui
 
 - **Parceiro Acadêmico:** Embraer
 
-<p align="left">
+<p align="center">
   <img src="https://www.cnnbrasil.com.br/wp-content/uploads/2021/06/41152_476791AAE41C3D25.jpg" alt="Logo Parceiro" width="480px" height="150px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
 </p>
 
@@ -759,7 +759,7 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 
 - **Parceiro Acadêmico:** Tecsus
 
-<p align="left">
+<p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIMd9iYIaPjbomOsnFoO5IecpJ4lwQywVOg&s" alt="Logo Parceiro" width="480px" height="150px" style="object-fit: contain; border: 3px solid #ccc; padding: 5px;">
 </p>
 
