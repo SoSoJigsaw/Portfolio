@@ -2,9 +2,8 @@
 
 <details>
 <summary>Introdução</summary>
-<br>
 
-## Sobre o desenvolvedor
+### Sobre o desenvolvedor
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
   <img src="img/perfil.png" alt="Sobre mim">
@@ -29,8 +28,9 @@ Essas experiências me prepararam para enfrentar desafios do mercado de tecnolog
 
 
 <details>  
-  <summary>Meus Principais Conhecimentos</summary>
-  <br>
+  <summary>Meus Principais Conhecimentos</summary> 
+
+  ### Meus Principais Conhecimentos
   <details>
   <summary>Python</summary>
     <br>
@@ -120,167 +120,157 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 </details>
 
 <details>
-  <summary><h3>Skill Set Completo</h3></summary>
+  <summary><h4>Skill Set Completo</h4></summary>
   
-  ## <h2 align="center">Meu Skill Set:</h2>
+  ### <h3 align="center">Meu Skill Set</h3>
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">      
    <table align="center">
-     <tbody>
-       <div style="display: flex; justify-content: space-between; width: 100%;">
-       <tr> 
-         <td colspan="2">
-           <table align="center">
-            <thead>
-                <tr>
-                    <th></th>
-                    <th>Tecnologia</th>
-                    <th>Experiência</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td align="center"><img src="img/tecnologias/java.svg" width="75px" height="auto" align="center"></td>
-                    <td><em>Java</em></td>
-                    <td>Avançado</td>
-                </tr>
-                <tr>
-                    <td align="center"><img src="img/tecnologias/springboot.svg" width="50px" height="auto" align="center"></td>
-                    <td><em>SpringBoot</em></td>
-                    <td>Avançado</td>
-                </tr>
-                <tr>
-                      <td align="center">
-                        <p align="center">
-                          <img src="img/tecnologias/hibernate.png" width="150px" height="auto" align="center">
-                          <img src="https://www.baeldung.com/wp-content/uploads/2021/02/lsd-module-icon-1.png" width="50px" height="auto" align="center"></p>
-                      </td>
-                      <td><em>JPA e Hibernate</em></td>
-                      <td>Avançado</td>
-                </tr>
-                <tr>
-                      <td align="center"><img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" width="50px" height="auto" align="center"></td>
-                      <td><em>SpringBoot Security</em></td>
-                      <td>Avançado</td>
-                </tr>
-                <tr>
-                      <td align="center">
-                        <p align="center">
-                          <img src="img/tecnologias/postgre.svg" width="60px" height="auto" align="center">
-                          <img src="img/tecnologias/oracle.svg" width="75px" height="auto" align="center">
-                          <img src="img/tecnologias/MySQL.svg" width="75px" height="auto" align="center">
-                      </td>
-                      <td><em>SQL e PL/SQL</em></td>
-                      <td>Avançado</td>
-                </tr>
-                <tr>
-                      <td align="center"><img src="img/tecnologias/junit.png" width="50px" height="auto" align="center"></td>
-                      <td><em>JUnit5</em></td>
-                      <td>Intermediário</td>
-                </tr>
-                <tr>
-                      <td align="center"><img src="img/tecnologias/mockito.png" width="150px" height="auto" align="center"></td>
-                      <td><em>Mockito</em></td>
-                      <td>Intermediário</td>
-                </tr>
-                <tr>
-                      <td align="center">
-                        <p align="center">
-                          <img src="img/tecnologias/git.svg" width="50px" height="auto" align="center">
-                          <img src="img/tecnologias/github.png" width="75px" height="auto" align="center">
-                        </p>  
-                      </td> 
-                      <td><em>Git e Github</em></td>
-                      <td>Avançado</td>
-                </tr>
-                <tr>
-                      <td align="center"><img src="img/tecnologias/scrum.png" width="50px" height="auto" align="center"></td>
-                      <td><em>Metodologia Ágil Scrum</em></td>
-                      <td>Avançado</td>
-                </tr>  
-                <tr>
-                      <td align="center"><img src="img/tecnologias/docker.svg" width="50px" height="auto"></td>
-                      <td><em>Docker</em></td>
-                      <td>Intermediário</td>
-                </tr>  
-                <tr>
-                      <td align="center"><img src="img/tecnologias/docker-compose.png" width="75px" height="auto" align="center"></td>
-                      <td><em>Docker Compose</em></td>
-                      <td>Intermediário</td>
-                </tr> 
-                <tr>
-                      <td align="center"><img src="img/tecnologias/apache-kafka.png" width="50px" height="auto" align="center"></td>
-                      <td><em>Apache Kafka</em></td>
-                      <td>Intermediário</td>
-                </tr>  
-                <tr>
-                      <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50px" height="auto" align="center"></td>
-                      <td><em>JavaScript</em></td>
-                      <td>Avançado</td>
-                </tr>  
-                <tr>
-                      <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50px" height="auto" align="center"></td>
-                      <td><em>TypeScript</em></td>
-                      <td>Avançado</td>
-                </tr>
-                <tr>
-                      <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50px" height="auto" align="center"></td>
-                      <td><em>Vue.js</em></td>
-                      <td>Avançado</td>
-                </tr>
-                <tr>
-                      <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50px" height="auto" align="center"></td>
-                      <td><em>React.js</em></td>
-                      <td>Intermediário</td>
-                </tr>
-                <tr>
-                      <td align="center"><img src="img/tecnologias/css3.svg" width="50px" height="auto" align="center"></td>
-                      <td><em>CSS3</em></td>
-                      <td>Avançado</td>
-                </tr>
-                <tr>
-                      <td align="center"><img src="img/tecnologias/html5.svg" width="50px" height="auto" align="center"></td>
-                      <td><em>HTML5</em></td>
-                      <td>Avançado</td>
-                </tr>  
-                <tr>
-                      <td align="center"><img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" width="75px" height="auto" align="center"></td>
-                      <td><em>JavaFx</em></td>
-                      <td>Intermediário</td>
-                </tr>  
-                <tr>
-                      <td align="center"><img src="img/tecnologias/python.svg" width="50px" height="auto" align="center"></td>
-                      <td><em>Python</em></td>
-                      <td>Avançado</td>
-                </tr>  
-                <tr>
-                      <td align="center"><img src="img/tecnologias/flask-python.png" width="50px" height="auto" align="center" 
-                                           filter: sepia(100%) hue-rotate(60deg) brightness(0.6) saturate(5);></td>
-                      <td><em>Flask</em></td>
-                      <td>Avançado</td>
-                </tr>  
-                <tr>
-                      <td align="center"><img src="img/tecnologias/pandas.png" width="150px" height="auto" align="center"></td>
-                      <td><em>Pandas</em></td>
-                      <td>Avançado</td>
-                </tr>  
-                <tr>
-                      <td align="center"><img src="img/tecnologias/sqlAlchmy.png" width="150px" height="auto" align="center"></td>
-                      <td><em>SQLAlchemy</em></td>
-                      <td>Avançado</td>
-                </tr>   
-                <tr>
-                      <td align="center"><img src="img/tecnologias/selenium.png" width="50px" height="auto" align="center"></td>
-                      <td><em>Selenium</em></td>
-                      <td>Intermediário</td>
-                </tr>   
-            </div>
-            </tbody>
-          </table>
-         </td>
-       </tr>
-       </div>
-     </tbody>
-   </table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Tecnologia</th>
+            <th>Experiência</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center"><img src="img/tecnologias/java.svg" width="75px" height="auto" align="center"></td>
+            <td><em>Java</em></td>
+            <td>Avançado</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="img/tecnologias/springboot.svg" width="50px" height="auto" align="center"></td>
+            <td><em>SpringBoot</em></td>
+            <td>Avançado</td>
+        </tr>
+        <tr>
+              <td align="center">
+                <p align="center">
+                  <img src="img/tecnologias/hibernate.png" width="150px" height="auto" align="center">
+                  <img src="https://www.baeldung.com/wp-content/uploads/2021/02/lsd-module-icon-1.png" width="50px" height="auto" align="center"></p>
+              </td>
+              <td><em>JPA e Hibernate</em></td>
+              <td>Avançado</td>
+        </tr>
+        <tr>
+              <td align="center"><img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" width="50px" height="auto" align="center"></td>
+              <td><em>SpringBoot Security</em></td>
+              <td>Avançado</td>
+        </tr>
+        <tr>
+              <td align="center">
+                <p align="center">
+                  <img src="img/tecnologias/postgre.svg" width="60px" height="auto" align="center">
+                  <img src="img/tecnologias/oracle.svg" width="75px" height="auto" align="center">
+                  <img src="img/tecnologias/MySQL.svg" width="75px" height="auto" align="center">
+              </td>
+              <td><em>SQL e PL/SQL</em></td>
+              <td>Avançado</td>
+        </tr>
+        <tr>
+              <td align="center"><img src="img/tecnologias/junit.png" width="50px" height="auto" align="center"></td>
+              <td><em>JUnit5</em></td>
+              <td>Intermediário</td>
+        </tr>
+        <tr>
+              <td align="center"><img src="img/tecnologias/mockito.png" width="150px" height="auto" align="center"></td>
+              <td><em>Mockito</em></td>
+              <td>Intermediário</td>
+        </tr>
+        <tr>
+              <td align="center">
+                <p align="center">
+                  <img src="img/tecnologias/git.svg" width="50px" height="auto" align="center">
+                  <img src="img/tecnologias/github.png" width="75px" height="auto" align="center">
+                </p>  
+              </td> 
+              <td><em>Git e Github</em></td>
+              <td>Avançado</td>
+        </tr>
+        <tr>
+              <td align="center"><img src="img/tecnologias/scrum.png" width="50px" height="auto" align="center"></td>
+              <td><em>Metodologia Ágil Scrum</em></td>
+              <td>Avançado</td>
+        </tr>  
+        <tr>
+              <td align="center"><img src="img/tecnologias/docker.svg" width="50px" height="auto"></td>
+              <td><em>Docker</em></td>
+              <td>Intermediário</td>
+        </tr>  
+        <tr>
+              <td align="center"><img src="img/tecnologias/docker-compose.png" width="75px" height="auto" align="center"></td>
+              <td><em>Docker Compose</em></td>
+              <td>Intermediário</td>
+        </tr> 
+        <tr>
+              <td align="center"><img src="img/tecnologias/apache-kafka.png" width="50px" height="auto" align="center"></td>
+              <td><em>Apache Kafka</em></td>
+              <td>Intermediário</td>
+        </tr>  
+        <tr>
+              <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50px" height="auto" align="center"></td>
+              <td><em>JavaScript</em></td>
+              <td>Avançado</td>
+        </tr>  
+        <tr>
+              <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50px" height="auto" align="center"></td>
+              <td><em>TypeScript</em></td>
+              <td>Avançado</td>
+        </tr>
+        <tr>
+              <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50px" height="auto" align="center"></td>
+              <td><em>Vue.js</em></td>
+              <td>Avançado</td>
+        </tr>
+        <tr>
+              <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50px" height="auto" align="center"></td>
+              <td><em>React.js</em></td>
+              <td>Intermediário</td>
+        </tr>
+        <tr>
+              <td align="center"><img src="img/tecnologias/css3.svg" width="50px" height="auto" align="center"></td>
+              <td><em>CSS3</em></td>
+              <td>Avançado</td>
+        </tr>
+        <tr>
+              <td align="center"><img src="img/tecnologias/html5.svg" width="50px" height="auto" align="center"></td>
+              <td><em>HTML5</em></td>
+              <td>Avançado</td>
+        </tr>  
+        <tr>
+              <td align="center"><img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" width="75px" height="auto" align="center"></td>
+              <td><em>JavaFx</em></td>
+              <td>Intermediário</td>
+        </tr>  
+        <tr>
+              <td align="center"><img src="img/tecnologias/python.svg" width="50px" height="auto" align="center"></td>
+              <td><em>Python</em></td>
+              <td>Avançado</td>
+        </tr>  
+        <tr>
+              <td align="center"><img src="img/tecnologias/flask-python.png" width="50px" height="auto" align="center" 
+                                   filter: sepia(100%) hue-rotate(60deg) brightness(0.6) saturate(5);></td>
+              <td><em>Flask</em></td>
+              <td>Avançado</td>
+        </tr>  
+        <tr>
+              <td align="center"><img src="img/tecnologias/pandas.png" width="150px" height="auto" align="center"></td>
+              <td><em>Pandas</em></td>
+              <td>Avançado</td>
+        </tr>  
+        <tr>
+              <td align="center"><img src="img/tecnologias/sqlAlchmy.png" width="150px" height="auto" align="center"></td>
+              <td><em>SQLAlchemy</em></td>
+              <td>Avançado</td>
+        </tr>   
+        <tr>
+              <td align="center"><img src="img/tecnologias/selenium.png" width="50px" height="auto" align="center"></td>
+              <td><em>Selenium</em></td>
+              <td>Intermediário</td>
+        </tr>   
+    </div>
+    </tbody>
+  </table>   
   </div>
 </details>            
 </details>
@@ -301,6 +291,7 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 ![GIF do Projeto 2](https://raw.githubusercontent.com/SoSoJigsaw/Carcara/refs/heads/main/Sprint%201/GIFs/PANDEMIA%20ESTRUTURADA%20GIF%204.gif)
  
 - O problema central abordado pelo projeto foi a necessidade de monitoramento contínuo e preciso da pandemia de COVID-19. Com a grande quantidade de dados gerados diariamente, havia uma dificuldade em consolidar essas informações de forma acessível e útil para o cliente, que tinha um interesse por acompanhar o avanço da pandemia em nosso Estado.
+  
 - A solução entregue foi uma aplicação web que coleta, processa e visualiza dados da COVID-19 em tempo real. Utilizando tecnologias como Flask, Pandas e diversas bibliotecas Python, a aplicação oferece dashboards interativos que mostram a evolução dos casos, óbitos, vacinação, ocupação de leitos e índices de isolamento social. Além disso, foram implementadas funcionalidades de filtragem de dados por data e município, proporcionando uma análise detalhada e customizada.
 
 [Repositório do Projeto](https://github.com/SoSoJigsaw/Carcara)
@@ -311,7 +302,9 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 <br>
   
 - **Páginas Informativas:** O sistema fornecia informações detalhadas sobre casos e óbitos, taxa de vacinação e leitos disponíveis, oferecendo esses dados de maneira acessível e direta aos usuários.
+  
 - **Filtragem de Dados:** Foi implementada uma variedade de filtros que permitem aos usuários selecionar estados e municípios por data, possibilitando a obtenção de insights valiosos sobre a pandemia.
+  
 - **Painéis Totalizadores:** O sistema incluía uma aba com painéis totalizadores, apresentando informações relevantes sobre o andamento da pandemia de forma consolidada. 
 </details>
 
@@ -320,9 +313,13 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
 <br>
   
 - **Python**: Fundamental para o desenvolvimento dos scripts de coleta e processamento de dados. A linguagem foi escolhida por sua simplicidade e poderosas bibliotecas para análise de dados.
+  
 - **Selenium**: Utilizado para automações de requests persistentes, onde era necessário fazer o download através de uma requisição web diariamente para atualizar com os dados mais atuais da pandemia. Como o dataset utilizado não dispunha de uma API, havia essa necessidade de reproduzir comandos humanos em um navegador, para assim poder baixar os dados atualizados pela identificação de certos elementos imutáveis na página.
+  
 - **Flask**: Utilizado para construir a API e o backend da aplicação web. Flask foi escolhido devido à sua flexibilidade e capacidade de criar aplicações web escaláveis.
+  
 - **Pandas**: Essencial para a manipulação e análise dos dados coletados. Pandas permitiu a transformação e limpeza dos dados de forma eficiente.
+  
 - **NumPy**: Utilizado para operações matemáticas e manipulação de arrays, complementando as funcionalidades do Pandas.
 </details>
 
@@ -396,6 +393,7 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 ![GIF do Projeto](https://github.com/fluffyfatec/Dom_Rock/raw/main/GIT/prototipo.gif)
   
 - O objetivo foi desenvolver uma API robusta e eficiente para a gestão e análise de dados, que fosse capaz de suportar grandes volumes de informações e múltiplos usuários simultaneamente.
+  
 - O projeto consistiu na criação de uma API para integração, processamento e gerenciamento de dados provenientes de diversas fontes. A API foi projetada com foco em escalabilidade, segurança e performance, permitindo a geração de relatórios e análises avançadas para suportar a tomada de decisão dos clientes da Dom Rock.
 
 [Repositório do Projeto](https://github.com/fluffyfatec/Dom_Rock)
@@ -406,8 +404,11 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 <br>
   
 - **Gestão de Clientes:** O sistema permite registrar todas as informações dos clientes, incluindo detalhes de contato e endereço. Isso facilita a administração do relacionamento com o cliente, oferecendo uma visão consolidada e de fácil acesso.
+  
 - **Catalogação de Soluções:** Há uma base de dados que mantém um catálogo detalhado das soluções e módulos oferecidos pela Dom Rock, destacando funcionalidades e versões disponíveis. Isso proporciona uma referência rápida e precisa sobre os produtos da empresa, tanto para a equipe interna quanto para os clientes.
+  
 - **Processo de Ativação:** O sistema define e gerencia o processo de ativação, dividindo-o em etapas específicas, cada uma com recursos e definições predefinidos. Isso garante uma ativação organizada e registra o progresso para uma visão clara do status de cada cliente.
+  
 - **Relatórios e Consultas:** As funcionalidades de consulta e relatórios oferecem uma análise detalhada dos dados, permitindo aos usuários visualizar métricas importantes, como desempenho por cliente, tipo de solução ativada e estágio do processo de ativação. Esses insights ajudam nas decisões estratégicas, proporcionando uma compreensão completa do ambiente operacional. 
 </details>
 
@@ -416,45 +417,51 @@ Projeto realizado em parceria com a Dom Rock, uma empresa especializada em solu�
 <br>
 
 - **Java:** Escolhida pela sua robustez, portabilidade e vasto ecossistema de bibliotecas e frameworks, facilitando o desenvolvimento de aplicações escaláveis e de alta performance.
+  
 - **Spring Boot:** Framework que simplifica o desenvolvimento de aplicações Java, oferecendo configuração automática, suporte a segurança, e fácil gerenciamento de dependências.
+  
 - **JavaFX:** Utilizado para a criação de interfaces gráficas, proporcionando uma experiência de usuário rica e interativa.
+  
 - **PL/SQL:** Utilizado para a manipulação e gestão dos dados no banco de dados, garantindo eficiência nas operações e integridade dos dados.
+  
 - **SCRUM:** Metodologia ágil adotada para gerenciar o projeto de forma iterativa e incremental, promovendo a colaboração e a adaptabilidade da equipe.
 </details>
 
 <details>
-<summary>Contribuições Pessoais</summary>
+<summary>Contribuições Individuais</summary>
 <br>
 
 Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e abrangentes, focando em assegurar a entrega de uma solução técnica sólida e funcional.
 
 <details>
 <summary>Desenvolvimento do Back-end</summary>
-<br>
 
+### Desenvolvimento do Back-end
 - **Criação de Serviços RESTful:** Utilizei Java e Spring Boot para desenvolver uma série de serviços RESTful. Esses serviços foram responsáveis por manipular e integrar dados provenientes de diversas fontes, garantindo escalabilidade e alta performance. Implementações específicas incluíram endpoints para criação, leitura, atualização e exclusão de dados (CRUD), bem como serviços para autenticação e autorização de usuários.
+  
 - **Implementação de Segurança:** Integrei o Spring Security para implementar medidas robustas de segurança na API. Isso incluiu a configuração de autenticação baseada em tokens JWT (JSON Web Tokens), controle de acesso baseado em roles (papéis) de usuário, e proteção contra ataques comuns como CSRF (Cross- Site Request Forgery).
 </details>
 
 <details>
 <summary>Integração com Banco de Dados</summary>
-<br>
-  
+
+### Integração com Banco de Dados  
 - **Modelagem de Dados:** Utilizando PL/SQL, fui responsável por modelar o banco de dados, criando tabelas, views, stored procedures e triggers. A modelagem foi projetada para otimizar o desempenho das consultas e garantir a integridade referencial dos dados.
+  
 - **Consultas Eficientes:** Escrevi queries complexas e otimizadas para suportar grandes volumes de dados. Utilizei técnicas como índices, joins eficientes e subconsultas para melhorar a performance das operações de leitura e escrita no banco de dados.
 </details>
 
 <details>
 <summary>Desenvolvimento de Interfaces Gráficas</summary>
-<br>
 
+### Desenvolvimento de Interfaces Gráficas
 - **Interfaces com JavaFX:** Desenvolvi interfaces gráficas utilizando JavaFX, permitindo uma interação intuitiva e responsiva com a aplicação. As interfaces incluíam dashboards para visualização de dados, formulários para entrada de informações, e componentes visuais para a navegação na aplicação.
 </details>
 
 <details>
 <summary>Gestão de Equipe e Metodologias Ágeis</summary>
-<br>
 
+### Gestão de Equipe e Metodologias Ágeis
 - **Product Owner:** Assumi o papel de Product Owner, criando e priorizando o backlog do produto em alinhamento com os requisitos do parceiro acadêmico. Isso envolveu a definição de histórias de usuário, critérios de aceitação e a comunicação constante com os stakeholders para garantir que as entregas atendiam às expectativas.
 </details>
 </details>
@@ -514,7 +521,9 @@ Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que
 <br>
   
 - **Cadastro de Estados e Regiões:** O cadastro de Estados e Regiões proporciona uma organização precisa das operações, permitindo análises específicas por região e melhorando significativamente a contextualização das informações.
+  
 - **Geração de Relatórios:** A geração de relatórios é uma ferramenta indispensável para extrair insights valiosos e avaliar o desempenho do sistema. A capacidade de criar relatórios personalizados permite uma visualização abrangente dos dados, oferecendo detalhes sobre o estado das estações, o desempenho regional e as tendências temporais.
+  
 - **Importação de Dados:** A importação de dados otimiza o fluxo de informações no sistema, facilitando a transferência rápida de grandes conjuntos de dados. Isso assegura uma atualização eficiente do sistema, mantendo-o sempre atualizado e pronto para fornecer análises precisas. 
 </details>
 
@@ -523,8 +532,11 @@ Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que
 <br>
 
 - **HTML5 / CSS3 / Javascript (EC6)** : O front- end da aplicação foi desenvolvida em HTML para marcação de hipertexto, CSS3 para estilização da página, e Javascript (EC6) para utilização do AJAX, permitindo assim enviar e receber dados assincronamente do servidor web e evitar o recarregamento da página inteira sem a necessidade de uma nova solicitação, também para criar paginação personalizada, utilizar jsPDF para a geração de PDFs dos gráficos, e enviar variáveis ao servidor por requisições GET através da url da página.
+  
 - **Spring Boot** : O back-end da aplicação web foi realizada através do Spring Boot, onde foi definida toda a estrutura do projeto do lado servidor, criando para isso os packages controller, dto, modal, report, repository e service. Os controllers foram criados para gerenciar os endpoints e definir suas lógicas, o dto e o modal foram criados para mapear as entidades do banco de dados na aplicação, o report foi para definir classes que contém a lógica de criação dos PDFs que posteriormente seriam acessados em determinados endpoints dos controllers, o repository foi usado para criar interfaces que estendem o JpaRepository para declarar querys que serão utilizadas na lógica dos controllers, e o service foi usado para conter classes que encapsulam a lógica de negócios da aplicação e para expor serviços que podem ser acessados pelos controllers, como as ações de deletar e atualizar usuário ou a validação do login por um usuário.
+  
 - **Python** : O Python foi utilizado para analisar e tratar os dados meteorológicos que seriam utilizados na aplicação, e também para a criação de script de automação do povoamento do banco de dados por esses mesmos dados. Os dados precisaram primeiro serem tratados pelo Pandas para posteriormente serem analisados pela mesma biblioteca, e a criação do script de automação do povoamento foi realizado com o uso da biblioteca SQLAlchemy, que permitiu a utilização de comandos SQL dentro do Python, automatizando o processo de inserts à medida que os dados eram tratados. Foi utilizado o paradigma da orientação ao objeto nesse script, o que reduziu a reutilização de código e permitiu o processamento progressivo de toda a lógica do script ao permitir o acesso de uma classe às demais classes.
+  
 - **PostgreSQL** : O PostgreSQL foi o SGBD escolhido para a criação do banco de dados exigido no projeto. Através dele, foi feita toda a modelagem e administração do banco, que foi responsável por armazenar todos os dados meteorológicos que foram utilizados para o dashboard da aplicação e para o CRUD de usuários. Além da criação das tabelas e constraints, e inserts realizados, a aplicação necessitou do uso de views que limitavam o acesso aos dados pelo usuário final, triggers para permitir a criação de uma tabela de auditoria que faz um controle de todas as modificações realizadas por um usuário nas tabelas de interesse, e a criação de índices para as tabelas para melhorar o desempenho de consultas, redução de tempo de resposta, otimização da utilização de memória e, por fim, trazer melhorias em operações de junção, que foram muito utilizadas no projeto.
 </details>
 
@@ -534,10 +546,12 @@ Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que
 
 <details>
 <summary>Script de Automação do povoamento do banco</summary>
-<br>
 
+### Script de Automação do povoamento do banco
 - Fui o responsável pela criação de um script em Python que recebia os dados meteorológicos de uma base de dados disponibilizado em um servidor web através de um request, toda vez que o script era executado ele fazia o request e verificava se havia novos dados para serem baixados. Se houvesse novos dados, ele os baixava para um diretório reservado do projeto.
+  
 - O script acessava em loop todos os dados baixados no diretório e fazia o tratamento deles utilizando Pandas, mudando seus tipos e formatação de forma que depois de tratados estivessem em um formato adequado à lógica das tabelas do banco de dados criado.
+  
 - Assim que terminava o tratamento desses dados, os dataframes eram enviados à outro método que fazia a rotina de enviar esses dados ao banco de dados, fazendo inserts nas tabelas devidas, usando para isso o SQLAlchemy para criar a conexão com o banco e utilizar comandos de SQL puro dentro do Python. Essa rotina incluía tratamento de erros, evitando a duplicação de dados no banco, redundância, e quebra de constraints de chave primária. O script foi otimizado, permitindo que a tentativa de envio de dados ao banco, ou seja, a execução do comando SQL, só acontecesse caso o dataframe trouxesse novos dados.
 
 [Veja mais detalhes](https://github.com/SoSoJigsaw/Portfolio/blob/main/Detalhes%20das%20Contribui%C3%A7%C3%B5es/ScriptDeAutomacao.md)
@@ -545,13 +559,16 @@ Dessa forma, o projeto visava desenvolver uma aplicação web para a empresa que
 
 <details>
 <summary>Geração de Relatórios</summary>
-<br>
-
+  
+### Geração de Relatórios
 Fui responsável pela implementação de relatórios meteorológicos automatizados em formato PDF. Desenvolvi uma classe específica para cada variável meteorológica, utilizando a biblioteca `iText` para geração dos PDFs. As principais funcionalidades incluíam:
 
 - Geração de tabelas dinâmicas com dados meteorológicos, exibindo data/hora e as respectivas variáveis para cada registro.
+  
 - Estilização e formatação avançada dos relatórios, incluindo cabeçalhos personalizados, imagens (logotipo da IACIT) e layout responsivo para múltiplas páginas.
+  
 - Exportação de PDFs através da API REST Spring Boot, permitindo que os usuários baixassem relatórios diretamente pela aplicação web.
+  
 - Implementação de métodos otimizados para consulta e processamento dos dados meteorológicos, garantindo a eficiência na geração dos relatórios mesmo com grandes volumes de dados.
 
 Essa contribuição resultou em um processo automatizado de geração de relatórios que otimizou a coleta e visualização dos dados meteorológicos, melhorando a experiência do usuário na análise dos dados fornecidos pela aplicação.
@@ -561,8 +578,8 @@ Essa contribuição resultou em um processo automatizado de geração de relató
 
 <details>
 <summary>Geração de PDFs dos gráficos</summary>
-<br>
 
+### Geração de PDFs dos gráficos
 No front-end, eu ajudei em partes da estilização das páginas. No entanto, fui responsável também por criar o método que gerava o PDF dos gráficos. Para isso:
 
 - eu usei uma biblioteca do JavaScript chamada jsPDF, que estilizou o PDF e incluiu o gráfico nele, gráfico esse que foi convertido de elemento canvas HTML em um arquivo de imagem PNG e possibilitou dentro do mesmo método o download em PDF
@@ -620,6 +637,7 @@ Projeto realizado em parceria com a Embraer, uma empresa especializada em soluç
 ![Gif do Projeto](https://github.com/fluffyfatec/Projeto-Integrador-Embraer/raw/main/GIT/mockup-web.gif)
 
 - O objetivo foi desenvolver uma aplicação robusta e eficiente para a integração e gerenciamento de dados de aeronaves, contribuindo para a otimização das operações e manutenção.
+  
 - O projeto consistiu na criação de uma API para integração, processamento e gerenciamento de dados provenientes de sistemas de monitoramento de aeronaves, manutenção e operações. A API foi projetada com foco em escalabilidade, segurança e performance, permitindo a geração de relatórios detalhados e visualização de dados em tempo real.
 
 [Repositório do Projeto](https://github.com/fluffyfatec/Projeto-Integrador-Embraer)
@@ -630,10 +648,15 @@ Projeto realizado em parceria com a Embraer, uma empresa especializada em soluç
 <br>
   
 - **Dashboard Administrativo:** interface dentro da aplicação dedicada e de acesso limitado aos usuários administradores, onde eles podem ter ciência de todos os usuários cadastrados, e também supervisionar todos os acessos à aplicação.
+  
 - **Diferentes níveis de acesso:** já que a aplicação contava com três níveis de usuário (administrador, editor e piloto), foi criado um sistema robusto de autorização e autenticação com o auxílio de JWT Authentication e Spring Security.
+  
 - **Cadastro de itens:** métodos CRUD para registrar condições para cada item dos chassis.
+  
 - **Acesso aos dados de formas gráficas:** para análise dos dados em geral e do perfil dos usuários e chassis, a aplicação conta também com uma interface para gráficos de acesso restrito dos administradores, o que possibilita aos mesmos criarem insights a respeito dos dados de uso recolhidos.
+  
 - **Relatórios:** a aplicação permite a exportação de relatórios personalizáveis, com capacidade de serem filtrados com apenas os parâmetros relevantes ao usuário.
+  
 - **Notificações:** foi adicionada à aplicação uma funcionalidade de gerar e enviar notificações aos usuários, mediante a uma alteração em um Boletim de Serviço no qual o usuário tenha relação (ou seja, ele é um proprietário do chassi em questão, ou ele é um usuário administrador pertencente à equipe da Embraer).
 </details>
 
@@ -642,48 +665,57 @@ Projeto realizado em parceria com a Embraer, uma empresa especializada em soluç
 <br>
 
 - **Vue.js:** Escolhido para a construção das interfaces de usuário devido à sua reatividade e facilidade de integração com outras bibliotecas, além de sua simplicidade e eficiência na criação de interfaces reativas e componentes reutilizáveis.
+  
 - **TypeScript:** Utilizado para adicionar tipagem estática ao JavaScript, melhorando a qualidade do código e facilitando a manutenção.
+  
 - **Pinia:** Gerenciador de estado escolhido por sua simplicidade e integração com Vue.js.
+  
 - **Vite:** Ferramenta de build moderna e rápida, utilizada para otimizar o desenvolvimento e a construção do projeto.
+  
 - **Axios:** Biblioteca para realizar requisições HTTP, essencial para comunicação entre o frontend e backend.
+  
 - **Spring Boot:** Framework utilizado para o desenvolvimento do backend devido à sua robustez e suporte para a criação de APIs RESTful.
+  
 - **SCRUM:** Metodologia ágil adotada para gerenciar o projeto de forma iterativa e incremental, promovendo a colaboração e a adaptabilidade da equipe.
 </details>
 
 <details>
-<summary>Contribuições Pessoais</summary>
+<summary>Contribuições Individuais</summary>
 <br>
 
 Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e abrangentes, focando em várias áreas críticas do projeto.
 
 <details>
 <summary>Desenvolvimento do Back-end</summary>
-<br>
 
+### Desenvolvimento do Back-end
 - **Criação de Serviços RESTful:** Utilizei Spring Boot para desenvolver uma série de serviços RESTful. Esses serviços foram responsáveis por manipular e integrar dados provenientes de diversas fontes, garantindo escalabilidade e alta performance. Implementações específicas incluíram endpoints para criação, leitura, atualização e exclusão de dados (CRUD), bem como serviços para autenticação e autorização de usuários.
+  
 - **Implementação de Segurança:** Integrei o Spring Security para implementar medidas robustas de segurança na API. Isso incluiu a configuração de autenticação baseada em tokens JWT (JSON Web Tokens), controle de acesso baseado em roles (papéis) de usuário, e proteção contra ataques comuns como CSRF (Cross-Site Request Forgery).
+  
 - **Spring Boot:** Escolhido por sua capacidade de criar aplicações standalone de produção e seu ecossistema abrangente.
 </details>
 
 <details>
 <summary>Integração com Banco de Dados</summary>
-<br>
 
+ ### Integração com Banco de Dados
 - **Mapeamento e manipulação de Dados do banco:** Utilizando JPA, fui responsável pelo mapeamento e manipulação do banco de dados através da API SpringBoot. O uso do JPA foi projetado para otimizar o desempenho das consultas e da persistência dos dados através da API, e também garantir a integridade referencial destes mesmos dados.
+  
 - **Hibernate:** Utilizado para facilitar a interação com o banco de dados, reduzindo o código boilerplate e aumentando a produtividade.
 </details>
 
 <details>
 <summary>Desenvolvimento de Interfaces Gráficas</summary>
-<br>
 
+### Desenvolvimento de Interfaces Gráficas
 - **Interfaces com Vue.js:** Desenvolvi interfaces gráficas utilizando Vue.js, permitindo uma interação intuitiva e responsiva com a aplicação. As interfaces incluíam dashboards para visualização de dados, formulários para entrada de informações, e componentes visuais para a navegação na aplicação.
 </details>
 
 <details>
 <summary>Gestão de Equipe e Metodologias Ágeis</summary>
-<br>
 
+### Gestão de Equipe e Metodologias Ágeis
 - **Product Owner:** Assumi o papel de Product Owner, criando e priorizando o backlog do produto, garantindo que a equipe estivesse focada nas tarefas de maior valor para o cliente e alinhada com os objetivos do projeto.
 </details>
 </details>
@@ -735,6 +767,7 @@ Projeto realizado em parceria com a Tecsus. A Tecsus realiza a coleta e processa
 Como a empresa possui uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, havia o interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado. Dessa forma, o projeto consistia no desenvolvimento de um dashboard web de alta complexidade para análise e exibição de dados de faturas de energia e água. 
 
 - O objetivo do projeto era fornecer insights valiosos para empresas clientes da Tecsus, permitindo a redução de custos e otimização de contratos.
+  
 - O projeto consistiu no desenvolvimento de um sistema para gerenciar o consumo de recursos (água e energia) de unidades, concessionárias e contratos, com a capacidade de gerar relatórios e alertas baseados nos dados coletados. Além disso, foi implementado uma esteira de DevOps para assegurar a eficiência e rastreabilidade do desenvolvimento. O sistema web permitiu também que o cliente fizesse o upload dos aquivos brutos com os dados de sua conta e visualizasse todos os dashbords e relatórios implementados para facilitar insights e análises necessárias para a empresa.
 
 [Repositório do Projeto](https://github.com/quarks-team/Projeto-Integrador-TecSUS)
@@ -745,9 +778,13 @@ Como a empresa possui uma base de dados de unidades, contratos, contas e concess
 <br>
   
 - **Automação no Processo de ETL:** Além da criação de um script de extração automatizada de dados de diferentes fontes (e.g., arquivos CSV, APIs), o processo de ETL foi também totalmente automatizado dentro da API do software, permitindo processos de carga de dados no banco de dados centralizado a cada nova atualização, a partir da inserção manual de arquivos pelo usuário, funcionalidade garantida através de um método `POST` na interface web.
+  
 - **Dashboards Interativos:** com a utilização de PowerBI, foram desenvolvidos dashboards interativos com séries temporais mensais e anuais, com o cálculo médio de consumo tanto para contratos de água quanto para contratos de energia. Esses dashboards podem serem visualizados dentro da interface web desenvolvida para o projeto.
-- **Relatórios:** a aplicação permite a geração e exportação de relatórios com séries temporais mensais e anuais, referentes ao cálculo da média de consumo tanto nos contratos de água quanto nos contratos de energia. 
+  
+- **Relatórios:** a aplicação permite a geração e exportação de relatórios com séries temporais mensais e anuais, referentes ao cálculo da média de consumo tanto nos contratos de água quanto nos contratos de energia.
+  
 - **Sistema de Alertas:** para notificar o usuário acerca de um consumo acima da média nos últimos três meses, foi implementado um sistema de alertas na interface web, na qual, ao ser apontado algum contrato que excede a média de consumo estipulada pelo cliente, uma notificação é criada e exibida em toda a plataforma, dando ciência ao usuário de quais contratos exigem sua devida atenção.
+  
 - **Esteira de DevOps:** para garantir a eficiência, rastreabilidade e qualidade do desenvolvimento, foi implementada uma série de práticas de DevOps, que incluíam boas prátias em desenvolvimento, como a **rastreabilidade dos requisitos através das tasks**, **integração contínua (CI)**, **testes de nível de unidade e integração**, **análise estática**, assim como a **Documentação completa das práticas de DevOps assimiladas** no projeto.
 </details>
 
@@ -756,49 +793,62 @@ Como a empresa possui uma base de dados de unidades, contratos, contas e concess
 <br>
 
 - **Vue.js:** Escolhido para a construção das interfaces de usuário devido à sua reatividade e facilidade de integração com outras bibliotecas, além de sua simplicidade e eficiência na criação de interfaces reativas e componentes reutilizáveis.
+  
 - **TypeScript:** Utilizado para adicionar tipagem estática ao JavaScript, melhorando a qualidade do código e facilitando a manutenção.
+  
 - **PowerBI:** Os dashboards foram desenvolvidos utilizando o PowerBI para visualização e análise de dados em séries temporais, com comparativos anuais e mensais para contas de Água e Energia. Foram integrados na interface web, permitindo ao usuário uma visualização dinâmica e personalizável dos dados de consumo de recursos.
+  
 - **Node (NestJS):** Foi utilizado o NestJS no backend por sua estrutura modular, o que permitiu o desenvolvimento escalável e organizado da Rest API, facilitando a manutenção e a adição de novas funcionalidades. As rotas do servidor foram bem definidas e protegidas com métodos de autenticação e também com a limitação de acesso através do uso da política de `Cross Origin`.
+  
 - **MySQL:** banco de dados relacional com suporte à projetos de *Datawarehouse*, permitindo assim que fosse utilizado a modelagem do esquema de estrela (ou *STAR*), com as tabelas `FATO` e `DIMENSÃO`, facilitando os procesos de carga no banco de dados.
+  
 - **SCRUM:** Como nas demais APIs, o SCRUM foi a Metodologia ágil adotada para gerenciar o projeto, focando na entrega contínua de funcionalidades com o avanço das sprints, dando prioridade àquilo que agregava maior valor ao cliente. Além disso, a estrutura bem definida entre Scrum Master, Product Owner e a equipe de desenvolvedores contribuiu para que cada integrante colaborasse ativamente em suas tarefas com um gerenciamento efetivo do progresso das sprints, assim como a rápida adaptabilidade às necessárias alterações percebidas no backlog ao longo do projeto.
 </details>
 
 <details>
-<summary>Contribuições Pessoais</summary>
+<summary>Contribuições Individuais</summary>
 <br>
 
 Durante o desenvolvimento deste projeto, minhas contribuições foram em sua maioria relacionadas ao desenvolvimento da Rest API, principalmente no que tange ao desenolvimento da interface web no frontend, tanto em questõs estéticas quanto programáticas. Além disso, contribui ativamente com as práticas de DevOps, ajudando na cobertura de código através de testes de nível de unidade e de integração, além de principalmente desenvolver as pipelines de CI (Integração Contínua) de todos os repositórios relacionados ao projeto, assim como análises estáticas do código através do Sonar.
 
 <details>
 <summary>Contribuições no Backend</summary>
-<br>
 
+### Contribuições no Backend
 - **Criação do método de upload de arquivos lado servidor:** No backend, fui responsável pela criação do método que implementava a lógica que inicia o processo de ETL a partir do upload de um ou mais arquivos no formato CSV. O método busca documentar o processo de ETL, através do uso de logs de tal forma que o usuário que está utilizando a ferramenta que engatilha o ETL, presente no frontend da aplicação, possa ser capaz de visualizar os passos realizados até o momento, trazendo um feeedback e uma garantia que o processo está de fato em execução e sem demonstrar erros. Esses logs foram implementados no `Service` relacionado, e são cruciais para o monitoramente e depuração do processo.
-- **Otimizações do processo de ETL:** para aumentar a eficiência computacional e assim diminuir a latência do processamento, implementei técnicas como paralelismo e chamadas da função de maneira assíncrona nos métodos da Rest API diretamente relacionadas ao ETL, o que trouxe um ganho de desempenho no curso da execução ao utilizar diversos núcleos do processador de maneira totalmente escalável e adaptável ao ambiente de execução. A abordagem assíncrona e o uso de paralelismo melhoram a performance significativamente, permitindo que múltiplos arquivos sejam processados simultaneamente sem sobrecarregar o sistema. 
+  
+- **Otimizações do processo de ETL:** para aumentar a eficiência computacional e assim diminuir a latência do processamento, implementei técnicas como paralelismo e chamadas da função de maneira assíncrona nos métodos da Rest API diretamente relacionadas ao ETL, o que trouxe um ganho de desempenho no curso da execução ao utilizar diversos núcleos do processador de maneira totalmente escalável e adaptável ao ambiente de execução. A abordagem assíncrona e o uso de paralelismo melhoram a performance significativamente, permitindo que múltiplos arquivos sejam processados simultaneamente sem sobrecarregar o sistema.
+  
 - **Implementação de responses no formato SSE:** através do uso de responses SSE (Server-Sent Events), o processo de ETL se tornou mais claro ao usuário, já que permitiu reportar em tempo real em que parte do processo o ETL se encontrava. Com o uso de responses SSE, o servidor se torna capaz de mandar múltiplas notificações automáticas para o cliente em uma mesma requisição, sempre que um evento importante ocorra durante a execução do bloco de código do endpoint. No caso do processo de ETL, essa implementação se tornou essencial, já que a carga de um novo dataset carregado pelo usuário pode durar vários minutos e, sem o uso desse recurso, o usuário não poderia ter ciência se o processamento está de fato ocorrendo sem erros. Com essa abordagem, se tornou possível comunicar na interface sobre o progresso atual da requisição e em qual arquivo enviado ou em qual fase o ETL se encontrava, recurso esse que agregou valor à funcionalidade ao oferecer ao usuário uma melhor experiência oa oferecer total visibilidade do processo, assim como o monitoramento em tempo real, depuração facilitada, e assim também a rápida identificação de erros.
 </details>
 
 <details>
 <summary>Desenvolvimento de Interfaces Gráficas</summary>
-<br>
 
+### Desenvolvimento de Interfaces Gráficas
 Desenvolvi as interfaces gráficas da aplicação utilizando Vue.js, permitindo ao usuário uma forma facilitada e moderna utilizar todas as funcionalidades desenvolvidas. As interfaces incluíam os dashboards desenvolvidos em Power BI para os dados de consumo de Água e Energia, seção dedicada para a função que lida com o upload de arquivos para ETL, assim como a implementação da funcionalidade de alertas, que pode ser acessado a partir de qualquer local da aplicação, e que realiza requisições frequentes ao servidor, buscando sempre novas atualizações para mostrar ao usuário em tempo real qualquer alteração que for relevante de acordo com os requisitos estabelecidos pelo próprio cliente.
 
 Em relação ao Design da aplicação, o **User-centered Design** foi o princípio seguido. Tratando-se a aplicação de uma ferramenta de gerenciamento a ser utilizado apenas pela Tecsus e não por seus clientes, a interface embora intuitiva, busca no minimalismo responder às expectativas em relação à experiência do usuário, já que se trata de um software de uso administrativo.
 
 - **Método para upload de múltiplos arquivos lado cliente:** para que seja realizado o processo de ETL e posteriormente a persistência desses dados no banco de dados, a function do frontend que lida com o upload de arquivos foi crucial para iniciar a funcionalidade principal da aplicação. Essa função é responsável por coletar o arquivo do usuário e enviá-lo para o backend através de uma requisição HTTP POST, e tem suporte para o envio de múltiplos arquivos simultaneamente, o que aumentou a complexidade do bloco de código, mas também permitiu uma experiência de usuário menos limitante. Enviar arquivos CSV corretamente ao backend é o ponto de partida do processo de ETL. Sem este passo, os dados brutos não poderiam ser extraídos, transformados e carregados no banco, interrompendo todo o fluxo de dados.
+  
 - **Métodos para alertas de consumo:** funcionalidade que facilitou a atualização em tempo real da interface do usuário com notificações e alertas baseados nos eventos do backend, como a conclusão de processos ETL. Após realizado novas cargas no banco, esses métodos que foram programados para realizarem requisições ao servidor constantemente permitem que dentro da interface web o usuário esteja sempre ciente de alterações que lhe são revelantes (de acordo com as regras de negócio estabelecidas). Foram desenvolvidas de forma a permitir que tanto as requisições quanto a visualização dos alertas pudessem serem transmitidas e recebidas em diferentes partes da aplicação, melhorando assim a experiência do usuário final, proporcionando feedback imediato sobre os novos dados gerados em decorrência da carga de um novo dataset processado pela cadeia de ETL.
 </details>
 
 <details>
 <summary>Práticas de DevOps</summary>
-<br>
 
-- **Conteinerização e Orquestramento dos sistemas da aplicação:** Utilizei `Docker` para criar containers da de todos os serviços independentes da aplicação, garantindo a portabilidade do sistema entre diferentes ambientes, assim como uma estabilidade desejada em fase de desenvolvimento. Além disso, utilizei o `Docker Compose` para gerenciar a orquestração e escalabilidade dos containers, e também garantir a ordem correta de inicialização dos mesmos, observando as dependências entre os serviços de banco de dados, frontend e backend. Como ao longo da fase de desenvolvimento o banco sofreu diversas alterações de sua arquitetura, o container do `MySQL` contava com um script de criação de tabelas, constraints e inserções iniciais, o que garantiu ao cliente e a todos os desenvolvedores envolvidos no projeto de terem sempre a versão real e atual do banco. 
+### Práticas de DevOps
+- **Conteinerização e Orquestramento dos sistemas da aplicação:** Utilizei `Docker` para criar containers da de todos os serviços independentes da aplicação, garantindo a portabilidade do sistema entre diferentes ambientes, assim como uma estabilidade desejada em fase de desenvolvimento. Além disso, utilizei o `Docker Compose` para gerenciar a orquestração e escalabilidade dos containers, e também garantir a ordem correta de inicialização dos mesmos, observando as dependências entre os serviços de banco de dados, frontend e backend. Como ao longo da fase de desenvolvimento o banco sofreu diversas alterações de sua arquitetura, o container do `MySQL` contava com um script de criação de tabelas, constraints e inserções iniciais, o que garantiu ao cliente e a todos os desenvolvedores envolvidos no projeto de terem sempre a versão real e atual do banco.
+
 - **Análise Estática do Código:** Configurei o `SonarQube` para a realização de análise estática do frontend para avaliar a qualidade do código, identificando bugs e vulnerabilidades de segurança de forma proativa, assim como acompanhr as métricas de cobertura de código. Através desses relatórios, pude refatorar trechos apontados na análise, melhorando assim a robustez do produto.
+  
 - **Testes de Unidade:** No frontend, desenvolvi testes de unidade utilizando a biblioteca `Vitest`, garantindo que cada componente da aplicação estivesse funcionando corretamente e isoladamente.
+  
 - **Testes de Integração:** Também no frontend, implementei testes de integração com o uso do `Cypress` para verificar a interação entre os módulos e a comunicação com o lado servidor, simulando cenários reais de uso das funcionalidades.
+  
 - **Deploy Automático:** No frontend, fui responsável também pela configuração do Deploy, que automaticamente era gerado assim que uma nova funcionalidade era testada, validada e integrada ao código-fonte. O deploy era realizado no `Github Pages`, e sua geração foi automatizada através de uma pipeline do `Github Actions` no qual solicitava ao desenvolvedor sua aprovação expressa para a execução do processo, garantindo um ciclo de desenvolvimento seguro e ágil.
+  
 - **Pipelines de CI:** No backend e no frontend, fui responsável por implementar pipelines de CI através do `Github Actions`. Essas pipelines executavam automaticamente as builds, os testes de unidade e integração, detectando assim problemas o mais cedo possível, e a análise estática do código, identificando vulnerabilidades e pontos de melhoria, sempre que uma nova feature era enviada por `PULL REQUEST` ou `PUSH` ao código-fonte (branch `main`). Essas cadeias foram programadas de forma a evitar o regresso do projeto com features que pudessem trazer instabilidade à outras features já validadas, assim como garantir que a qualidade do código seria mantida. Por isso, caso a execução da pipeline falhasse, o `PULL REQUEST` ou `PUSH` seria rejeitado e as mudanças entrariam em um processo de uma nova revisão, até que permitisse a execução completa da pipeline sem apontar erros, garantindo a validação contínua das mudanças. O uso dessa prática assegurou a integridade daquilo que já estava muito bem implementado, além de trazer garantias ao cliente de que as regras de negócio estabelecidas estão sendo seguidas e que o produto final atenderá ao desejado.
 
 Com relação às pipelines de CI desenvolvidas, busquei documentar de forma extensiva toda a lógica implementada na Wiki do projeto, explicando cada passo da cadeia, o porquê de cada Action utilizada e os benefícios específicos para o fluxo de trabalho. A documentação completa [pode ser acessada aqui.](https://github.com/quarks-team/Projeto-Integrador-TecSUS/wiki/Pipelines-de-CI)
