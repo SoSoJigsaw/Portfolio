@@ -10,6 +10,8 @@
 | [Projeto Acadêmico 6 (API) – 2º Semestre de 2024](#projeto-acadêmico-6-api--2º-semestre-de-2024) |
 
 
+<br>
+
 <details>
 <summary>Introdução</summary>
 
