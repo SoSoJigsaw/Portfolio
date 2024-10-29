@@ -290,7 +290,11 @@ Logo, pode-se dizer que em Python eu tenho domínio na criação de scripts para
     </tbody>
   </table>   
   </div>
-</details>            
+</details>
+
+<br>
+
+<p align="right">(<a href="#top">Voltar ao Topo</a>)</p>
 </details>
 
 <br>
@@ -397,6 +401,11 @@ Minhas principais contribuições para o projeto incluíram:
 | **Autonomia**             | Executei grande parte do projeto de forma independente, tomando decisões por conta própria.       |
   </details>
 </details>
+
+<br>
+
+<p align="right">(<a href="#top">Voltar ao Topo</a>)</p>
+
 <br>
 
 # Projeto Acadêmico 2 (API) – 1º Semestre de 2022
@@ -516,6 +525,10 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 | **Colaboração**                   | Trabalhei em estreita colaboração com a equipe, contribuindo para revisões de código e conhecimento compartilhado. |
 </details>
 </details>
+<br>
+
+<p align="right">(<a href="#top">Voltar ao Topo</a>)</p>
+
 <br>
 
 # Projeto Acadêmico 3 (API) – 2º Semestre de 2022
@@ -646,6 +659,10 @@ No front-end, eu ajudei em partes da estilização das páginas. No entanto, fui
 </details>
 <br>
 
+<p align="right">(<a href="#top">Voltar ao Topo</a>)</p>
+
+<br>
+
 # Projeto Acadêmico 4 (API) – 1º Semestre de 2023
 
 - **Parceiro Acadêmico:** Embraer
@@ -773,6 +790,10 @@ Durante o desenvolvimento deste projeto, minhas contribuições foram diversas e
 | **Foco em Resultados**            | Concentrei-me na entrega de um sistema que atendesse às expectativas da Embraer e fosse funcional dentro do prazo. |
 </details>
 </details>
+<br>
+
+<p align="right">(<a href="#top">Voltar ao Topo</a>)</p>
+
 <br>
 
 # Projeto Acadêmico 5 (API) – 1º Semestre de 2024
@@ -913,7 +934,8 @@ Com relação às pipelines de CI desenvolvidas, busquei documentar de forma ext
 | **Compromisso com a Transferência de Conhecimento** | A criação de documentações detalhadas e a preocupação em registrar práticas e configurações complexas demonstram meu compromisso em compartilhar conhecimento e garantir que as informações essenciais do projeto estejam acessíveis para toda a equipe e, também, para futuros desenvolvedores. Essa habilidade foi desenvolvida para fomentar um ambiente colaborativo e também a ideia de "comunidade" entre os desenvolvedores, levando em consideração que este foi um projeto de código aberto, onde todos têm acesso a um material de apoio confiável para entender as práticas adotadas, realizar melhorias contínuas e refatorar trechos eventualmente necessários do código de forma facilitada. |
 </details>
 </details>
-
 <br>
 
 <p align="right">(<a href="#top">Voltar ao Topo</a>)</p>
+
+<br>
