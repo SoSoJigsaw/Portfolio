@@ -945,7 +945,7 @@ Com relação às pipelines de CI desenvolvidas, busquei documentar de forma ext
 <details>
 <summary>Visão do Projeto</summary>
 <br>
-Este projeto teve como objetivo desenvolver um **Sistema de Gerenciamento de Pacientes com Análise Preditiva de Saúde**, voltado para clínicas médicas. O sistema se destacou por integrar:
+Este projeto teve como objetivo desenvolver um <b>Sistema de Gerenciamento de Pacientes com Análise Preditiva de Saúde</b>, voltado para clínicas médicas. O sistema se destacou por integrar:
   
 - Gerenciamento seguro de dados sensíveis em conformidade com a LGPD.
   
@@ -969,19 +969,21 @@ Este projeto teve como objetivo desenvolver um **Sistema de Gerenciamento de Pac
 <details>
 <summary>Tecnologias adotadas na solução</summary>
 
-- **Front-end**: Vue.js
+- **Vue.js**: 
   
-- **Back-end**: Flask
+- **Flask**: 
   
-- **Banco de Dados**: PostgreSQL e MongoDB
+- **PostgreSQL**:
+
+- **MongoDB**: 
   
-- **Inteligência Artificial**: Scikit-learn (RandomForrrestClassifier)
+- **Scikit-learn (RandomForrrestClassifier)**:
   
-- **Conteinerização e Orquestramento**: Docker e Docker Compose
+- **Docker e Docker Compose**: 
 </details>
 
 <details>
-<summary>Contribuições Individuais</summary>
+<summary>Contribuições em Destaque</summary>
 <br>
   
 - **Desenvolvimento de IA**: Criação e treinamento do modelo preditivo utilizando **Random Forest**, com dados anonimizados. Realizei ajustes para melhorar a precisão e a eficiência do modelo.
