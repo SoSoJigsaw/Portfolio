@@ -952,6 +952,7 @@ Este projeto teve como objetivo desenvolver um **Sistema de Gerenciamento de Pac
 - Um componente de **IA** para prever complicações de saúde em três grupos de risco (diabetes, hipertensão e AVC) com base no histórico de predições realizadasx pelos pacientes.
 
 [Repositório do Projeto](https://github.com/SoSoJigsaw/Predictive-Health)
+</details>
 
 <details>
 <summary>Funcionalidades</summary>
