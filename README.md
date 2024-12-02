@@ -1010,6 +1010,7 @@ Este projeto teve como objetivo desenvolver um <b>Sistema de Gerenciamento de Pa
 | **Bancos de Dados Híbridos** | Utilização de banco relacional (PostgreSQL) junto a um semi-estruturado (MongoDB) para garantir a integridade referencial ao mesmo tempo que mantém a flexibilidade de esquema e a escabilidade horizontal de bancos NoSQL.         |
 | **Segurança e LGPD**         | Aplicação de boas práticas de conformidade com a legislação. |
 | **Integração Multicomponente**| Integração de IA com API e banco de dados em ambiente seguro e performático.         |
+</details>
 
 <details>
 <summary>Soft Skills</summary>
