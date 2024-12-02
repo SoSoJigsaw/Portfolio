@@ -653,7 +653,6 @@ No front-end, eu ajudei em partes da estilização das páginas. No entanto, fui
 |------------------------------------|-----------------------------------------------------------------------------------------------------|
 | **Organização e Priorização**      | Organizei tarefas críticas para garantir a conclusão do projeto dentro do prazo estipulado.          |
 | **Proatividade**                   | Identifiquei melhorias e tomei a iniciativa de implementá-las, otimizando processos e scripts.       |
-| **Autogestão**                     | Gerenciei minhas próprias responsabilidades e prazos, entregando soluções sem necessidade de supervisão constante. |
 | **Atenção aos Detalhes**           | Garanti a integridade dos dados processados, identificando possíveis inconsistências durante a automação. |
 </details>
 </details>
@@ -809,7 +808,6 @@ Projeto realizado em parceria com a Tecsus. A Tecsus realiza a coleta e processa
 <details>
 <summary>Visão do Projeto</summary>
 <br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/quarks-team/Projeto-Integrador-TecSUS/main/Documents/Gifs/gif-dash-agua.gif" alt="Gif Projeto" width="1000px" height="auto" style="max-width: 100%x; height: auto;">
 </p>
@@ -932,6 +930,93 @@ Com relação às pipelines de CI desenvolvidas, busquei documentar de forma ext
 | **Gestão de Complexidade** | A execução de um projeto com múltiplas camadas de integração e automação exigiu a capacidade de gerenciar tarefas complexas de forma estruturada, garantindo a integração eficiente entre backend, frontend, e pipelines de DevOps. |
 | **Busca pela Melhoria Contínua** | Identifiquei oportunidades de melhoria nos processos de ETL e automação, propondo e implementando soluções que resultaram em maior eficiência e qualidade no desenvolvimento e operação da aplicação. |
 | **Compromisso com a Transferência de Conhecimento** | A criação de documentações detalhadas e a preocupação em registrar práticas e configurações complexas demonstram meu compromisso em compartilhar conhecimento e garantir que as informações essenciais do projeto estejam acessíveis para toda a equipe e, também, para futuros desenvolvedores. Essa habilidade foi desenvolvida para fomentar um ambiente colaborativo e também a ideia de "comunidade" entre os desenvolvedores, levando em consideração que este foi um projeto de código aberto, onde todos têm acesso a um material de apoio confiável para entender as práticas adotadas, realizar melhorias contínuas e refatorar trechos eventualmente necessários do código de forma facilitada. |
+</details>
+</details>
+<br>
+
+<p align="right">(<a href="#top">Voltar ao Topo</a>)</p>
+
+<br>
+
+# Projeto Acadêmico 6 (API) – 2º Semestre de 2024
+
+- **Parceiro Acadêmico:** *Projeto Independente*
+
+<details>
+<summary>Visão do Projeto</summary>
+<br>
+Este projeto teve como objetivo desenvolver um **Sistema de Gerenciamento de Pacientes com Análise Preditiva de Saúde**, voltado para clínicas médicas. O sistema se destacou por integrar:
+  
+- Gerenciamento seguro de dados sensíveis em conformidade com a LGPD.
+  
+- Um componente de **IA** para prever complicações de saúde em três grupos de risco (diabetes, hipertensão e AVC) com base no histórico de predições realizadasx pelos pacientes.
+
+[Repositório do Projeto](https://github.com/SoSoJigsaw/Predictive-Health)
+
+<details>
+<summary>Funcionalidades</summary>
+  
+- **Cadastro de Pacientes**: Armazenamento seguro de dados, incluindo histórico de predições, dados médicos e contatos de emergência.
+  
+- **Agendamento de Consultas**: Gestão simplificada de horários e médicos disponíveis.
+  
+- **Prontuário Eletrônico**: Controle seguro e auditável de anotações médicas.
+  
+- **Análise Preditiva de Saúde (IA)**: Ferramenta para antecipar riscos médicos e melhorar cuidados preventivos.
+</details>
+
+<details>
+<summary>Tecnologias adotadas na solução</summary>
+
+- **Front-end**: Vue.js
+  
+- **Back-end**: Flask
+  
+- **Banco de Dados**: PostgreSQL e MongoDB
+  
+- **Inteligência Artificial**: Scikit-learn (RandomForrrestClassifier)
+  
+- **Conteinerização e Orquestramento**: Docker e Docker Compose
+</details>
+
+<details>
+<summary>Contribuições Individuais</summary>
+<br>
+  
+- **Desenvolvimento de IA**: Criação e treinamento do modelo preditivo utilizando **Random Forest**, com dados anonimizados. Realizei ajustes para melhorar a precisão e a eficiência do modelo.
+  
+- **Integração de Componentes**: Integrei o componente de IA ao back-end, garantindo comunicação eficiente e segura com os banco MongoDB onde é armazenado as features dos modelos.
+  
+- **Trabalho com Bancos de Dados Híbridos**: Configurei e utilizei o PostgreSQL para dados estruturados e o MongoDB para dados semi-estruturados, explorando suas particularidades para otimizar as consultas.
+  
+- **Segurança e Conformidade**: Implementei práticas de LGPD, como criptografia e logs auditáveis, garantindo a segurança e o rastreamento de acessos.
+  
+- **Arquitetura e Documentação**: Planejei toda a arquitetura do sistema e documentei o projeto de forma detalhada para futuras manutenções.
+</details>
+
+<details>
+<summary>Aprendizados Efetivos</summary>
+<br>
+<details>
+<summary>Hard Skills</summary>
+<br>
+
+| Hard Skills                  | Descrição                                                                              |
+|------------------------------|----------------------------------------------------------------------------------------|
+| **Modelagem de IA**          | Treinamento e ajuste de modelos de Machine Learning para análise preditiva.           |
+| **Bancos de Dados Híbridos** | Utilização de banco relacional (PostgreSQL) junto a um semi-estruturado (MongoDB) para garantir a integridade referencial ao mesmo tempo que mantém a flexibilidade de esquema e a escabilidade horizontal de bancos NoSQL.         |
+| **Segurança e LGPD**         | Aplicação de boas práticas de conformidade com a legislação. |
+| **Integração Multicomponente**| Integração de IA com API e banco de dados em ambiente seguro e performático.         |
+
+<details>
+<summary>Soft Skills</summary>
+<br>
+
+| Soft Skills                  | Descrição                                                                              |
+|------------------------------|----------------------------------------------------------------------------------------|
+| **Autogestão**                     | Gerenciei minhas próprias responsabilidades e prazos,  executando todas as etapas do projeto de forma independente, desde a concepção até a entrega. |
+| **Proatividade na Solução de Problemas** | Enfrentei desafios técnicos sem apoio externo, identificando problemas e implementando soluções eficazes. |
+| **Atenção à Legislação Aplicável**     | Assegurei a integridade dos dados sensíveis e a conformidade do projeto com práticas exigidas pela Lei Geral de Proteção de Dados (LGPD). |
 </details>
 </details>
 <br>
